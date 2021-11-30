@@ -1,0 +1,23 @@
+.rr-table-frozen-column {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+.rr-table-frozen-column > * > tr > td, .rr-table-frozen-column th {
+  border-width: 0 1px 1px 0;
+  border-style: solid;
+  border-color: #dee2e6;
+}
+.rr-table-frozen-column > * > tr > th {
+  border-top-width: 1px;
+}
+.rr-table-frozen-column > * > tr > td:first-child, .rr-table-frozen-column th:first-child {
+  border-left-width: 1px;
+}
+.rr-table-frozen-column > tbody > tr:first-child > td {
+  border-top: 2px solid currentColor;
+}
+.rr-table-frozen-column .rr-frozen {
+  position: sticky;
+  left: 0;
+  background-color: #fff;
+}
