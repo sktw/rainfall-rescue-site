@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"BALLINDALLOCK","gauges":[{"name":"BALLINDALLOCK","ranges":[["1920/01","1924/06"],["1924/09","1924/10"],["1925/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/BALLINDALLOCK/BALLINDALLOCK.pdf"},"history":[{"version":"v1.0.0","name":"BALLINDALLOCK","changes":["New"]}]}

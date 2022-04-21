@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"WATFORD-HOUSE","gauges":[{"name":"WATFORD-HOUSE","ranges":[["1857/07","1866/12"],["1876/01","1877/12"],["1881/01","1889/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/WATFORD-HOUSE/WATFORD-HOUSE.pdf"},"history":[{"version":"v1.0.0","name":"WATFORD-HOUSE","changes":["New"]}]}

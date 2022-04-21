@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"PAPPLEWICK-WW","gauges":[{"name":"PAPPLEWICK-WW","ranges":[["1891/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/PAPPLEWICK-WW/PAPPLEWICK-WW.pdf"},"history":[{"version":"v1.0.0","name":"PAPPLEWICK-WW","changes":["New"]},{"version":"v1.1.0","name":"PAPPLEWICK-WW","changes":[]}]}

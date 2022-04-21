@@ -1,0 +1,1 @@
+{"version":"working","name":"DAER-KIRKHOPE","gauges":[{"name":"DAER-KIRKHOPE","ranges":[["1948/03","1955/10"]]},{"name":"DAER-KIRKHOPE-2","ranges":[["1954/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/DAER-KIRKHOPE/DAER-KIRKHOPE.pdf"},"history":[{"version":"working","name":"DAER-KIRKHOPE","changes":["New"]}]}

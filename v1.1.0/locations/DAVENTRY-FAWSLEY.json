@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"DAVENTRY-FAWSLEY","gauges":[{"name":"DAVENTRY-FAWSLEY","ranges":[["1880/08","1913/08"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/DAVENTRY-FAWSLEY/DAVENTRY-FAWSLEY.pdf"},"history":[{"version":"v1.0.0","name":"DAVENTRY-FAWSLEY","changes":["New"]},{"version":"v1.1.0","name":"DAVENTRY-FAWSLEY","changes":[]}]}

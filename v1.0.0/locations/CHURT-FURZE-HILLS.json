@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"CHURT-FURZE-HILLS","gauges":[{"name":"CHURT-FURZE-HILLS","ranges":[["1907/01","1916/12"],["1923/01","1924/12"],["1926/01","1945/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/CHURT-FURZE-HILLS/CHURT-FURZE-HILLS.pdf"},"history":[{"version":"v1.0.0","name":"CHURT-FURZE-HILLS","changes":["New"]}]}

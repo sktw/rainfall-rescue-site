@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"WYLAM-HALL","gauges":[{"name":"WYLAM-HALL","ranges":[["1854/01","1874/04"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/WYLAM-HALL/WYLAM-HALL.pdf"},"history":[{"version":"v1.0.0","name":"WYLAM-HALL","changes":["New"]},{"version":"v1.1.0","name":"WYLAM-HALL","changes":[]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"FELTHORPE","gauges":[{"name":"FELTHORPE","ranges":[["1848/01","1855/12"],["1860/01","1860/12"],["1876/01","1895/08"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/FELTHORPE/FELTHORPE.pdf"},"history":[{"version":"v1.0.0","name":"FELTHORPE","changes":["New"]},{"version":"v1.1.0","name":"FELTHORPE","changes":[]}]}

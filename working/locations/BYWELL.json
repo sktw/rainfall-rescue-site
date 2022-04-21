@@ -1,0 +1,1 @@
+{"version":"working","name":"BYWELL","gauges":[{"name":"BYWELL","ranges":[["1855/01","1882/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/BYWELL/BYWELL.pdf"},"history":[{"version":"v1.0.0","name":"BYWELL","changes":["New"]},{"version":"v1.1.0","name":"BYWELL","changes":[]},{"version":"working","name":"BYWELL","changes":[]}]}

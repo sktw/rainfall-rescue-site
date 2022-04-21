@@ -1,0 +1,1 @@
+{"version":"working","name":"DAER-DAERHEAD","gauges":[{"name":"DAER-DAERHEAD","ranges":[["1948/03","1948/12"]]},{"name":"DAER-DAERHEAD-2","ranges":[["1948/11","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/DAER-DAERHEAD/DAER-DAERHEAD.pdf"},"history":[{"version":"working","name":"DAER-DAERHEAD","changes":["New"]}]}

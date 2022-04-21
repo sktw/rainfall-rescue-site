@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"BRISTOL-DOCKS","gauges":[{"name":"BRISTOL-DOCKS","ranges":[["1877/01","1888/12"],["1890/01","1927/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/BRISTOL-DOCKS/BRISTOL-DOCKS.pdf"},"history":[{"version":"v1.0.0","name":"BRISTOL-DOCKS","changes":["New"]}]}

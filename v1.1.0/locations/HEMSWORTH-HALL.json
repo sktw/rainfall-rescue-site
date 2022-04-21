@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"HEMSWORTH-HALL","gauges":[{"name":"HEMSWORTH-HALL","ranges":[["1892/01","1919/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/HEMSWORTH-HALL/HEMSWORTH-HALL.pdf"},"history":[{"version":"v1.0.0","name":"HEMSWORTH-HALL","changes":["New"]},{"version":"v1.1.0","name":"HEMSWORTH-HALL","changes":[]}]}

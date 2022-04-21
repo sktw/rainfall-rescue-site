@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"MERTHYR-CYNOG","gauges":[{"name":"MERTHYR-CYNOG","ranges":[["1894/09","1910/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/MERTHYR-CYNOG/MERTHYR-CYNOG.pdf"},"history":[{"version":"v1.0.0","name":"MERTHYR-CYNOG","changes":["New"]},{"version":"v1.1.0","name":"MERTHYR-CYNOG","changes":[]}]}

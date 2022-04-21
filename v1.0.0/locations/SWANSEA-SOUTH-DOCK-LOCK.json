@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"SWANSEA-SOUTH-DOCK-LOCK","gauges":[{"name":"SWANSEA-SOUTH-DOCK-LOCK","ranges":[["1864/01","1894/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/SWANSEA-SOUTH-DOCK-LOCK/SWANSEA-SOUTH-DOCK-LOCK.pdf"},"history":[{"version":"v1.0.0","name":"SWANSEA-SOUTH-DOCK-LOCK","changes":["New"]}]}

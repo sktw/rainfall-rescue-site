@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"TYNDRUM-PERTH","gauges":[{"name":"TYNDRUM-PERTH","ranges":[["1857/10","1859/03"],["1860/01","1861/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/TYNDRUM-PERTH/TYNDRUM-PERTH.pdf"},"history":[{"version":"v1.0.0","name":"TYNDRUM-PERTH","changes":["New"]}]}

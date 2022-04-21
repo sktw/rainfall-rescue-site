@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"SABDEN-CHURN-CLOUGH-RES","gauges":[{"name":"SABDEN-CHURN-CLOUGH-RES","ranges":[["1901/04","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/SABDEN-CHURN-CLOUGH-RES/SABDEN-CHURN-CLOUGH-RES.pdf"},"history":[{"version":"v1.0.0","name":"SABDEN-CHURN-CLOUGH-RES","changes":["New"]}]}

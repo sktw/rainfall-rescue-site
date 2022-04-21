@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"ARDSLEY-JAW-HILL","gauges":[{"name":"ARDSLEY-JAW-HILL","ranges":[["1903/01","1905/07"],["1905/09","1940/12"],["1941/05","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/ARDSLEY-JAW-HILL/ARDSLEY-JAW-HILL.pdf"},"history":[{"version":"v1.0.0","name":"ARDSLEY-JAW-HILL","changes":["New"]}]}

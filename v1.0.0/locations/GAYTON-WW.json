@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"GAYTON-WW","gauges":[{"name":"GAYTON-WW","ranges":[["1906/01","1918/12"],["1921/01","1926/12"],["1928/01","1928/12"],["1930/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/GAYTON-WW/GAYTON-WW.pdf"},"history":[{"version":"v1.0.0","name":"GAYTON-WW","changes":["New"]}]}

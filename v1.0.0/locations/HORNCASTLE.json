@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"HORNCASTLE","gauges":[{"name":"HORNCASTLE","ranges":[["1903/01","1937/04"]]},{"name":"HORNCASTLE-2","ranges":[["1937/05","1951/04"],["1951/06","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/HORNCASTLE/HORNCASTLE.pdf"},"history":[{"version":"v1.0.0","name":"HORNCASTLE","changes":["New"]}]}

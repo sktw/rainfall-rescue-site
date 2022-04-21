@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"GARVALD-THORTER-RES","gauges":[{"name":"GARVALD-THORTER-RES","ranges":[["1907/01","1922/12"],["1925/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/GARVALD-THORTER-RES/GARVALD-THORTER-RES.pdf"},"history":[{"version":"v1.0.0","name":"GARVALD-THORTER-RES","changes":["New"]}]}

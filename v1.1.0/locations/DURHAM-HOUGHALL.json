@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"DURHAM-HOUGHALL","gauges":[{"name":"DURHAM-HOUGHALL","ranges":[["1925/03","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/DURHAM-HOUGHALL/DURHAM-HOUGHALL.pdf"},"history":[{"version":"v1.0.0","name":"DURHAM-HOUGHALL","changes":["New"]},{"version":"v1.1.0","name":"DURHAM-HOUGHALL","changes":[]}]}

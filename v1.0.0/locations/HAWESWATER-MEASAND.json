@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"HAWESWATER-MEASAND","gauges":[{"name":"HAWESWATER-MEASAND","ranges":[["1918/10","1942/12"],["1943/03","1943/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/HAWESWATER-MEASAND/HAWESWATER-MEASAND.pdf"},"history":[{"version":"v1.0.0","name":"HAWESWATER-MEASAND","changes":["New"]}]}

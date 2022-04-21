@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"CARBETH","gauges":[{"name":"CARBETH","ranges":[["1814/10","1859/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/CARBETH/CARBETH.pdf"},"history":[{"version":"v1.0.0","name":"CARBETH","changes":["New"]},{"version":"v1.1.0","name":"CARBETH","changes":[]}]}

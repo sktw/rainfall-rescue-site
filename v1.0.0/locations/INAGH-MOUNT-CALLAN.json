@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"INAGH-MOUNT-CALLAN","gauges":[{"name":"INAGH-MOUNT-CALLAN","ranges":[["1896/01","1904/03"],["1904/05","1940/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/INAGH-MOUNT-CALLAN/INAGH-MOUNT-CALLAN.pdf"},"history":[{"version":"v1.0.0","name":"INAGH-MOUNT-CALLAN","changes":["New"]}]}

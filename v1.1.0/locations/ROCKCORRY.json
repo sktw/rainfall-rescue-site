@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"ROCKCORRY","gauges":[{"name":"ROCKCORRY","ranges":[["1875/01","1888/08"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/ROCKCORRY/ROCKCORRY.pdf"},"history":[{"version":"v1.0.0","name":"ROCKCORRY","changes":["New"]},{"version":"v1.1.0","name":"ROCKCORRY","changes":[]}]}

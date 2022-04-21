@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"RENTON-CARMAN-FILTERS","gauges":[{"name":"RENTON-CARMAN-FILTERS","ranges":[["1901/01","1923/12"],["1924/03","1957/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/RENTON-CARMAN-FILTERS/RENTON-CARMAN-FILTERS.pdf"},"history":[{"version":"v1.0.0","name":"RENTON-CARMAN-FILTERS","changes":["New"]}]}

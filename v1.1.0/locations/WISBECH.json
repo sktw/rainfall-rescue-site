@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"WISBECH","gauges":[{"name":"WISBECH","ranges":[["1859/01","1927/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/WISBECH/WISBECH.pdf"},"history":[{"version":"v1.0.0","name":"WISBECH","changes":["New"]},{"version":"v1.1.0","name":"WISBECH","changes":[]}]}

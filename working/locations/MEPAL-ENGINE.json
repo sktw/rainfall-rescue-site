@@ -1,0 +1,1 @@
+{"version":"working","name":"MEPAL-ENGINE","gauges":[{"name":"MEPAL-ENGINE","ranges":[["1890/01","1902/11"],["1905/01","1907/12"],["1908/02","1916/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/MEPAL-ENGINE/MEPAL-ENGINE.pdf"},"history":[{"version":"working","name":"MEPAL-ENGINE","changes":["New"]}]}

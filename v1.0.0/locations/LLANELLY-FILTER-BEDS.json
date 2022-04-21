@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"LLANELLY-FILTER-BEDS","gauges":[{"name":"LLANELLY-FILTER-BEDS","ranges":[["1920/01","1951/01"],["1951/03","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/LLANELLY-FILTER-BEDS/LLANELLY-FILTER-BEDS.pdf"},"history":[{"version":"v1.0.0","name":"LLANELLY-FILTER-BEDS","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"LISKEARD-ST-CLEER","gauges":[{"name":"LISKEARD-ST-CLEER","ranges":[["1870/01","1891/11"],["1893/04","1914/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/LISKEARD-ST-CLEER/LISKEARD-ST-CLEER.pdf"},"history":[{"version":"v1.0.0","name":"LISKEARD-ST-CLEER","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"DARFIELD-SEWAGE-WORKS","gauges":[{"name":"DARFIELD-SEWAGE-WORKS","ranges":[["1930/01","1930/12"],["1932/07","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/DARFIELD-SEWAGE-WORKS/DARFIELD-SEWAGE-WORKS.pdf"},"history":[{"version":"v1.0.0","name":"DARFIELD-SEWAGE-WORKS","changes":["New"]}]}

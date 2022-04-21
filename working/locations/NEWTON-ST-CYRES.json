@@ -1,0 +1,1 @@
+{"version":"working","name":"NEWTON-ST-CYRES","gauges":[{"name":"NEWTON-ST-CYRES","ranges":[["1957/01","1958/12"],["1960/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/NEWTON-ST-CYRES/NEWTON-ST-CYRES.pdf"},"history":[{"version":"working","name":"NEWTON-ST-CYRES","changes":["New"]}]}

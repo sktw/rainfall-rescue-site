@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"BANBRIDGE-BANN-RES","gauges":[{"name":"BANBRIDGE-BANN-RES","ranges":[["1861/05","1861/07"],["1861/09","1882/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/BANBRIDGE-BANN-RES/BANBRIDGE-BANN-RES.pdf"},"history":[{"version":"v1.0.0","name":"BANBRIDGE-BANN-RES","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"working","name":"FIRSBY","gauges":[{"name":"FIRSBY","ranges":[["1937/01","1957/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/FIRSBY/FIRSBY.pdf"},"history":[{"version":"v1.0.0","name":"FIRSBY","changes":["New"]},{"version":"v1.1.0","name":"FIRSBY","changes":[]},{"version":"working","name":"FIRSBY","changes":[]}]}

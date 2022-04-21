@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"BARNET-GAS-WORKS","gauges":[{"name":"BARNET-GAS-WORKS","ranges":[["1881/04","1909/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/BARNET-GAS-WORKS/BARNET-GAS-WORKS.pdf"},"history":[{"version":"v1.0.0","name":"BARNET-GAS-WORKS","changes":["New"]}]}

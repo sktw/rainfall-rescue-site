@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"TOLPUDDLE","gauges":[{"name":"TOLPUDDLE","ranges":[["1916/01","1946/12"]]},{"name":"TOLPUDDLE-2","ranges":[["1948/06","1952/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/TOLPUDDLE/TOLPUDDLE.pdf"},"history":[{"version":"v1.0.0","name":"TOLPUDDLE","changes":["New"]}]}

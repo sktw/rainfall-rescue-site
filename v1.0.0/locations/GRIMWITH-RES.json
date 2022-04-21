@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"GRIMWITH-RES","gauges":[{"name":"GRIMWITH-RES","ranges":[["1869/03","1922/12"]]},{"name":"GRIMWITH-RES-2","ranges":[["1876/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/GRIMWITH-RES/GRIMWITH-RES.pdf"},"history":[{"version":"v1.0.0","name":"GRIMWITH-RES","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"LLANGYBI-CEFN","gauges":[{"name":"LLANGYBI-CEFN","ranges":[["1864/05","1886/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/LLANGYBI-CEFN/LLANGYBI-CEFN.pdf"},"history":[{"version":"v1.0.0","name":"LLANGYBI-CEFN","changes":["New"]},{"version":"v1.1.0","name":"LLANGYBI-CEFN","changes":[]}]}

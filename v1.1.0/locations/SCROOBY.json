@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"SCROOBY","gauges":[{"name":"SCROOBY","ranges":[["1909/06","1943/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/SCROOBY/SCROOBY.pdf"},"history":[{"version":"v1.0.0","name":"SCROOBY","changes":["New"]},{"version":"v1.1.0","name":"SCROOBY","changes":[]}]}

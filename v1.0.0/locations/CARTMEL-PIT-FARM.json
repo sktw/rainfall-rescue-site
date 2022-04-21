@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"CARTMEL-PIT-FARM","gauges":[{"name":"CARTMEL-PIT-FARM","ranges":[["1861/01","1863/12"],["1878/06","1907/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/CARTMEL-PIT-FARM/CARTMEL-PIT-FARM.pdf"},"history":[{"version":"v1.0.0","name":"CARTMEL-PIT-FARM","changes":["New"]}]}

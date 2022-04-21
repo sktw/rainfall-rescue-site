@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"LONG-NEWTON-RES","gauges":[{"name":"LONG-NEWTON-RES","ranges":[["1928/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/LONG-NEWTON-RES/LONG-NEWTON-RES.pdf"},"history":[{"version":"v1.0.0","name":"LONG-NEWTON-RES","changes":["New"]},{"version":"v1.1.0","name":"LONG-NEWTON-RES","changes":[]}]}

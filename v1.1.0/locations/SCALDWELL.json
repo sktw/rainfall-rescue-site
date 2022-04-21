@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"SCALDWELL","gauges":[{"name":"SCALDWELL","ranges":[["1897/01","1922/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/SCALDWELL/SCALDWELL.pdf"},"history":[{"version":"v1.0.0","name":"SCALDWELL","changes":["New"]},{"version":"v1.1.0","name":"SCALDWELL","changes":[]}]}

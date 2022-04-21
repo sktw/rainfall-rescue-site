@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"HUNTLY-CRUCHIE","gauges":[{"name":"HUNTLY-CRUCHIE","ranges":[["1907/12","1940/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/HUNTLY-CRUCHIE/HUNTLY-CRUCHIE.pdf"},"history":[{"version":"v1.0.0","name":"HUNTLY-CRUCHIE","changes":["New"]},{"version":"v1.1.0","name":"HUNTLY-CRUCHIE","changes":[]}]}

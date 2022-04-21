@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"EBBW-VALE-WW","gauges":[{"name":"EBBW-VALE-WW","ranges":[["1883/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/EBBW-VALE-WW/EBBW-VALE-WW.pdf"},"history":[{"version":"v1.0.0","name":"EBBW-VALE-WW","changes":["New"]}]}

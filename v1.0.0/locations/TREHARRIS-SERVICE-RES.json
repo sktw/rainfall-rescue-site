@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"TREHARRIS-SERVICE-RES","gauges":[{"name":"TREHARRIS-SERVICE-RES","ranges":[["1908/01","1939/12"],["1940/03","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/TREHARRIS-SERVICE-RES/TREHARRIS-SERVICE-RES.pdf"},"history":[{"version":"v1.0.0","name":"TREHARRIS-SERVICE-RES","changes":["New"]}]}

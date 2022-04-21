@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"BRIGG-BRIDGE-STREET","gauges":[{"name":"BRIGG-BRIDGE-STREET","ranges":[["1873/01","1928/02"],["1928/04","1928/04"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/BRIGG-BRIDGE-STREET/BRIGG-BRIDGE-STREET.pdf"},"history":[{"version":"v1.0.0","name":"BRIGG-BRIDGE-STREET","changes":["New"]}]}

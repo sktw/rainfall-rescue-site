@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"MANCHESTER-PICCADILLY","gauges":[{"name":"MANCHESTER-PICCADILLY","ranges":[["1850/01","1922/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/MANCHESTER-PICCADILLY/MANCHESTER-PICCADILLY.pdf"},"history":[{"version":"v1.0.0","name":"MANCHESTER-PICCADILLY","changes":["New"]}]}

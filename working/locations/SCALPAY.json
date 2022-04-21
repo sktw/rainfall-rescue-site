@@ -1,0 +1,1 @@
+{"version":"working","name":"SCALPAY","gauges":[{"name":"SCALPAY","ranges":[["1896/12","1937/01"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/SCALPAY/SCALPAY.pdf"},"history":[{"version":"v1.0.0","name":"SCALPAY","changes":["New"]},{"version":"v1.1.0","name":"SCALPAY","changes":[]},{"version":"working","name":"SCALPAY","changes":[]}]}

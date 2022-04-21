@@ -1,0 +1,1 @@
+{"version":"working","name":"HANWELL","gauges":[{"name":"HANWELL","ranges":[["1929/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/HANWELL/HANWELL.pdf"},"history":[{"version":"v1.0.0","name":"HANWELL","changes":["New"]},{"version":"v1.1.0","name":"HANWELL","changes":[]},{"version":"working","name":"HANWELL","changes":[]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"HYTHE","gauges":[{"name":"HYTHE","ranges":[["1865/01","1904/01"],["1904/03","1904/05"],["1911/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/HYTHE/HYTHE.pdf"},"history":[{"version":"v1.0.0","name":"HYTHE","changes":["New"]},{"version":"v1.1.0","name":"HYTHE","changes":[]}]}

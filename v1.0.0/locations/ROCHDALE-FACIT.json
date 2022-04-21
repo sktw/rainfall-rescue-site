@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"ROCHDALE-FACIT","gauges":[{"name":"ROCHDALE-FACIT","ranges":[["1883/01","1905/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/ROCHDALE-FACIT/ROCHDALE-FACIT.pdf"},"history":[{"version":"v1.0.0","name":"ROCHDALE-FACIT","changes":["New"]}]}

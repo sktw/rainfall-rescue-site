@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"CHARING-PUMPING-STATION","gauges":[{"name":"CHARING-PUMPING-STATION","ranges":[["1908/12","1951/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/CHARING-PUMPING-STATION/CHARING-PUMPING-STATION.pdf"},"history":[{"version":"v1.0.0","name":"CHARING-PUMPING-STATION","changes":["New"]}]}

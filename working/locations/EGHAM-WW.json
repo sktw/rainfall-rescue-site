@@ -1,0 +1,1 @@
+{"version":"working","name":"EGHAM-WW","gauges":[{"name":"EGHAM-WW","ranges":[["1929/01","1946/12"]]},{"name":"EGHAM-WW-2","ranges":[["1937/04","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/EGHAM-WW/EGHAM-WW.pdf"},"history":[{"version":"working","name":"EGHAM-WW","changes":["New"]}]}

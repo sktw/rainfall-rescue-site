@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"DARLEY-HALL","gauges":[{"name":"DARLEY-HALL","ranges":[["1892/01","1926/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/DARLEY-HALL/DARLEY-HALL.pdf"},"history":[{"version":"v1.0.0","name":"DARLEY-HALL","changes":["New"]},{"version":"v1.1.0","name":"DARLEY-HALL","changes":[]}]}

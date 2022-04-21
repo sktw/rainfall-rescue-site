@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"NASEBY-RES","gauges":[{"name":"NASEBY-RES","ranges":[["1904/01","1905/12"],["1918/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/NASEBY-RES/NASEBY-RES.pdf"},"history":[{"version":"v1.0.0","name":"NASEBY-RES","changes":["New"]},{"version":"v1.1.0","name":"NASEBY-RES","changes":[]}]}

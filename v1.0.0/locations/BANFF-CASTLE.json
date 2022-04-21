@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"BANFF-CASTLE","gauges":[{"name":"BANFF-CASTLE","ranges":[["1832/01","1832/12"]]},{"name":"BANFF-CASTLE-2","ranges":[["1831/11","1832/10"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/BANFF-CASTLE/BANFF-CASTLE.pdf"},"history":[{"version":"v1.0.0","name":"BANFF-CASTLE","changes":["New"]}]}

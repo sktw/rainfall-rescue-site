@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"PLYMOUTH-HAM","gauges":[{"name":"PLYMOUTH-HAM","ranges":[["1842/01","1877/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/PLYMOUTH-HAM/PLYMOUTH-HAM.pdf"},"history":[{"version":"v1.0.0","name":"PLYMOUTH-HAM","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"working","name":"STANSTED-AIRPORT","gauges":[{"name":"STANSTED-AIRPORT","ranges":[["1952/07","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/STANSTED-AIRPORT/STANSTED-AIRPORT.pdf"},"history":[{"version":"working","name":"STANSTED-AIRPORT","changes":["New"]}]}

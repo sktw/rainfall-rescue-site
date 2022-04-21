@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"FORRES-HYDRO","gauges":[{"name":"FORRES-HYDRO","ranges":[["1922/01","1922/12"],["1932/07","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/FORRES-HYDRO/FORRES-HYDRO.pdf"},"history":[{"version":"v1.0.0","name":"FORRES-HYDRO","changes":["New"]}]}

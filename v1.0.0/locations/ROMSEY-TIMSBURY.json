@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"ROMSEY-TIMSBURY","gauges":[{"name":"ROMSEY-TIMSBURY","ranges":[["1902/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/ROMSEY-TIMSBURY/ROMSEY-TIMSBURY.pdf"},"history":[{"version":"v1.0.0","name":"ROMSEY-TIMSBURY","changes":["New"]}]}

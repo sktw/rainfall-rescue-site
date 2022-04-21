@@ -1,0 +1,1 @@
+{"version":"working","name":"BOSHAM-COBNOR","gauges":[{"name":"BOSHAM-COBNOR","ranges":[["1920/01","1929/01"],["1929/03","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/BOSHAM-COBNOR/BOSHAM-COBNOR.pdf"},"history":[{"version":"working","name":"BOSHAM-COBNOR","changes":["New"]}]}

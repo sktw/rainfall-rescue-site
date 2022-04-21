@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"CRAIL-KIRKMAY","gauges":[{"name":"CRAIL-KIRKMAY","ranges":[["1890/01","1935/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/CRAIL-KIRKMAY/CRAIL-KIRKMAY.pdf"},"history":[{"version":"v1.0.0","name":"CRAIL-KIRKMAY","changes":["New"]},{"version":"v1.1.0","name":"CRAIL-KIRKMAY","changes":[]}]}

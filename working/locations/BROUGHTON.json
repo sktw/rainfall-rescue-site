@@ -1,0 +1,1 @@
+{"version":"working","name":"BROUGHTON","gauges":[{"name":"BROUGHTON","ranges":[["1906/01","1921/05"]]},{"name":"BROUGHTON-2","ranges":[["1921/07","1929/05"],["1929/07","1929/07"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/BROUGHTON/BROUGHTON.pdf"},"history":[{"version":"working","name":"BROUGHTON","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"SHAP-COPY-HILL","gauges":[{"name":"SHAP-COPY-HILL","ranges":[["1874/07","1891/02"]]},{"name":"SHAP-COPY-HILL-2","ranges":[["1887/01","1891/02"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/SHAP-COPY-HILL/SHAP-COPY-HILL.pdf"},"history":[{"version":"v1.0.0","name":"SHAP-COPY-HILL","changes":["New"]}]}

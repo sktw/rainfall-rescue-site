@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"BOSTON-LINCS","gauges":[{"name":"BOSTON-LINCS","ranges":[["1826/01","1863/12"],["1865/01","1872/09"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/BOSTON-LINCS/BOSTON-LINCS.pdf"},"history":[{"version":"v1.0.0","name":"BOSTON-LINCS","changes":["New"]}]}

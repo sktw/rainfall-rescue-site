@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"LETTERKENNY","gauges":[{"name":"LETTERKENNY","ranges":[["1864/01","1871/12"],["1873/07","1874/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/LETTERKENNY/LETTERKENNY.pdf"},"history":[{"version":"v1.0.0","name":"LETTERKENNY","changes":["New"]}]}

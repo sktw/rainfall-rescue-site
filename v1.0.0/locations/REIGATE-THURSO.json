@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"REIGATE-THURSO","gauges":[{"name":"REIGATE-THURSO","ranges":[["1909/01","1917/11"],["1918/01","1943/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/REIGATE-THURSO/REIGATE-THURSO.pdf"},"history":[{"version":"v1.0.0","name":"REIGATE-THURSO","changes":["New"]}]}

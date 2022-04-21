@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"FERRIBY-SLUICE","gauges":[{"name":"FERRIBY-SLUICE","ranges":[["1860/06","1873/03"],["1873/05","1890/12"],["1892/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/FERRIBY-SLUICE/FERRIBY-SLUICE.pdf"},"history":[{"version":"v1.0.0","name":"FERRIBY-SLUICE","changes":["New"]}]}

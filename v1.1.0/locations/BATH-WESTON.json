@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"BATH-WESTON","gauges":[{"name":"BATH-WESTON","ranges":[["1862/01","1880/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/BATH-WESTON/BATH-WESTON.pdf"},"history":[{"version":"v1.0.0","name":"BATH-WESTON","changes":["New"]},{"version":"v1.1.0","name":"BATH-WESTON","changes":[]}]}

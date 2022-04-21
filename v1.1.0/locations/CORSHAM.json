@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"CORSHAM","gauges":[{"name":"CORSHAM","ranges":[["1872/01","1894/11"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/CORSHAM/CORSHAM.pdf"},"history":[{"version":"v1.0.0","name":"CORSHAM","changes":["New"]},{"version":"v1.1.0","name":"CORSHAM","changes":[]}]}

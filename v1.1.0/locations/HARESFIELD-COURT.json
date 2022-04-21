@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"HARESFIELD-COURT","gauges":[{"name":"HARESFIELD-COURT","ranges":[["1894/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/HARESFIELD-COURT/HARESFIELD-COURT.pdf"},"history":[{"version":"v1.0.0","name":"HARESFIELD-COURT","changes":["New"]},{"version":"v1.1.0","name":"HARESFIELD-COURT","changes":[]}]}

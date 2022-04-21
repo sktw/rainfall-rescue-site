@@ -1,0 +1,1 @@
+{"version":"working","name":"BRECHFA","gauges":[{"name":"BRECHFA","ranges":[["1934/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/BRECHFA/BRECHFA.pdf"},"history":[{"version":"v1.0.0","name":"BRECHFA","changes":["New"]},{"version":"v1.1.0","name":"BRECHFA","changes":[]},{"version":"working","name":"BRECHFA","changes":[]}]}

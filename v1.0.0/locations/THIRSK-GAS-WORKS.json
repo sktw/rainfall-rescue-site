@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"THIRSK-GAS-WORKS","gauges":[{"name":"THIRSK-GAS-WORKS","ranges":[["1866/01","1873/02"],["1873/04","1873/04"],["1873/06","1873/09"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/THIRSK-GAS-WORKS/THIRSK-GAS-WORKS.pdf"},"history":[{"version":"v1.0.0","name":"THIRSK-GAS-WORKS","changes":["New"]}]}

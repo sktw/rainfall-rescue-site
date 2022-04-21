@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"GATE-BURTON","gauges":[{"name":"GATE-BURTON","ranges":[["1860/04","1902/12"]]},{"name":"GATE-BURTON-2","ranges":[["1915/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/GATE-BURTON/GATE-BURTON.pdf"},"history":[{"version":"v1.0.0","name":"GATE-BURTON","changes":["New"]}]}

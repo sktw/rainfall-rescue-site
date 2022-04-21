@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"STOKE-UNDER-HAM","gauges":[{"name":"STOKE-UNDER-HAM","ranges":[["1906/01","1944/09"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/STOKE-UNDER-HAM/STOKE-UNDER-HAM.pdf"},"history":[{"version":"v1.0.0","name":"STOKE-UNDER-HAM","changes":["New"]},{"version":"v1.1.0","name":"STOKE-UNDER-HAM","changes":[]}]}

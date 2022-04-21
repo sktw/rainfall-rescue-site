@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"SETTLE","gauges":[{"name":"SETTLE","ranges":[["1837/01","1870/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/SETTLE/SETTLE.pdf"},"history":[{"version":"v1.0.0","name":"SETTLE","changes":["New"]}]}

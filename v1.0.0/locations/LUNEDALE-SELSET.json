@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"LUNEDALE-SELSET","gauges":[{"name":"LUNEDALE-SELSET","ranges":[["1908/01","1939/12"],["1940/03","1941/12"],["1942/04","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/LUNEDALE-SELSET/LUNEDALE-SELSET.pdf"},"history":[{"version":"v1.0.0","name":"LUNEDALE-SELSET","changes":["New"]}]}

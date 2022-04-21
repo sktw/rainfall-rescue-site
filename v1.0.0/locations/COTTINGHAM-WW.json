@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"COTTINGHAM-WW","gauges":[{"name":"COTTINGHAM-WW","ranges":[["1892/01","1934/01"],["1934/03","1934/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/COTTINGHAM-WW/COTTINGHAM-WW.pdf"},"history":[{"version":"v1.0.0","name":"COTTINGHAM-WW","changes":["New"]}]}

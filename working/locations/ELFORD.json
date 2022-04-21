@@ -1,0 +1,1 @@
+{"version":"working","name":"ELFORD","gauges":[{"name":"ELFORD","ranges":[["1937/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/ELFORD/ELFORD.pdf"},"history":[{"version":"v1.0.0","name":"ELFORD","changes":["New"]},{"version":"v1.1.0","name":"ELFORD","changes":[]},{"version":"working","name":"ELFORD","changes":[]}]}

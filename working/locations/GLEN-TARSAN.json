@@ -1,0 +1,1 @@
+{"version":"working","name":"GLEN-TARSAN","gauges":[{"name":"GLEN-TARSAN","ranges":[["1948/01","1959/08"]]},{"name":"GLEN-TARSAN-2","ranges":[["1959/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/GLEN-TARSAN/GLEN-TARSAN.pdf"},"history":[{"version":"working","name":"GLEN-TARSAN","changes":["New"]}]}

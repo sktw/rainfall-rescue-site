@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"CULLOMPTON","gauges":[{"name":"CULLOMPTON","ranges":[["1880/07","1953/06"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/CULLOMPTON/CULLOMPTON.pdf"},"history":[{"version":"v1.0.0","name":"CULLOMPTON","changes":["New"]},{"version":"v1.1.0","name":"CULLOMPTON","changes":[]}]}

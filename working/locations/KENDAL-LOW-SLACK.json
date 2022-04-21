@@ -1,0 +1,1 @@
+{"version":"working","name":"KENDAL-LOW-SLACK","gauges":[{"name":"KENDAL-LOW-SLACK","ranges":[["1911/01","1920/03"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/KENDAL-LOW-SLACK/KENDAL-LOW-SLACK.pdf"},"history":[{"version":"working","name":"KENDAL-LOW-SLACK","changes":["New"]}]}

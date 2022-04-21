@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"ARMBOTH","gauges":[{"name":"ARMBOTH","ranges":[["1877/03","1894/03"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/ARMBOTH/ARMBOTH.pdf"},"history":[{"version":"v1.0.0","name":"ARMBOTH","changes":["New"]},{"version":"v1.1.0","name":"ARMBOTH","changes":[]}]}

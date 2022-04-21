@@ -1,0 +1,1 @@
+{"version":"working","name":"BRISTOL","gauges":[{"name":"BRISTOL","ranges":[["1774/01","1778/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/BRISTOL/BRISTOL.pdf"},"history":[{"version":"v1.0.0","name":"BRISTOL","changes":["New"]},{"version":"v1.1.0","name":"BRISTOL","changes":[]},{"version":"working","name":"BRISTOL","changes":[]}]}

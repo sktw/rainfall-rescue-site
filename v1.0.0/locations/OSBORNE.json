@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"OSBORNE","gauges":[{"name":"OSBORNE","ranges":[["1918/01","1918/12"]]},{"name":"OSBORNE-2","ranges":[["1928/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/OSBORNE/OSBORNE.pdf"},"history":[{"version":"v1.0.0","name":"OSBORNE","changes":["New"]}]}

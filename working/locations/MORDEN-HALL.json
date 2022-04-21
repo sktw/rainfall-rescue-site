@@ -1,0 +1,1 @@
+{"version":"working","name":"MORDEN-HALL","gauges":[{"name":"MORDEN-HALL","ranges":[["1936/10","1945/09"]]},{"name":"MORDEN-HALL-2","ranges":[["1945/11","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/MORDEN-HALL/MORDEN-HALL.pdf"},"history":[{"version":"working","name":"MORDEN-HALL","changes":["New"]}]}

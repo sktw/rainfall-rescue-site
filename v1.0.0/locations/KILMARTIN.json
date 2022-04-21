@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"KILMARTIN","gauges":[{"name":"KILMARTIN","ranges":[["1861/01","1862/12"],["1864/01","1864/12"],["1866/01","1866/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/KILMARTIN/KILMARTIN.pdf"},"history":[{"version":"v1.0.0","name":"KILMARTIN","changes":["New"]}]}

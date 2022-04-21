@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"HASLEMERE","gauges":[{"name":"HASLEMERE","ranges":[["1873/01","1920/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/HASLEMERE/HASLEMERE.pdf"},"history":[{"version":"v1.0.0","name":"HASLEMERE","changes":["New"]}]}

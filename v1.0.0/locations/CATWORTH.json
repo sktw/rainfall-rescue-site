@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"CATWORTH","gauges":[{"name":"CATWORTH","ranges":[["1890/01","1890/06"],["1901/01","1939/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/CATWORTH/CATWORTH.pdf"},"history":[{"version":"v1.0.0","name":"CATWORTH","changes":["New"]}]}

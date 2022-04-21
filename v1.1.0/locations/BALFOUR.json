@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"BALFOUR","gauges":[{"name":"BALFOUR","ranges":[["1857/01","1875/03"],["1878/01","1878/04"],["1878/06","1878/06"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/BALFOUR/BALFOUR.pdf"},"history":[{"version":"v1.0.0","name":"BALFOUR","changes":["New"]},{"version":"v1.1.0","name":"BALFOUR","changes":[]}]}

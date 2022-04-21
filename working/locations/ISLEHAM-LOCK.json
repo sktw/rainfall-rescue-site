@@ -1,0 +1,1 @@
+{"version":"working","name":"ISLEHAM-LOCK","gauges":[{"name":"ISLEHAM-LOCK","ranges":[["1936/01","1949/01"],["1949/03","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/ISLEHAM-LOCK/ISLEHAM-LOCK.pdf"},"history":[{"version":"working","name":"ISLEHAM-LOCK","changes":["New"]}]}

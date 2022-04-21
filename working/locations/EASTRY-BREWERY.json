@@ -1,0 +1,1 @@
+{"version":"working","name":"EASTRY-BREWERY","gauges":[{"name":"EASTRY-BREWERY","ranges":[["1896/01","1899/12"]]},{"name":"EASTRY-BREWERY-2","ranges":[["1904/01","1918/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/EASTRY-BREWERY/EASTRY-BREWERY.pdf"},"history":[{"version":"working","name":"EASTRY-BREWERY","changes":["New"]}]}

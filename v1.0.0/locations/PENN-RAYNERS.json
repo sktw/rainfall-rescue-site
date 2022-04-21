@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"PENN-RAYNERS","gauges":[{"name":"PENN-RAYNERS","ranges":[["1908/01","1909/01"],["1909/05","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/PENN-RAYNERS/PENN-RAYNERS.pdf"},"history":[{"version":"v1.0.0","name":"PENN-RAYNERS","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"FRIMLEY-PUMPING-STATION","gauges":[{"name":"FRIMLEY-PUMPING-STATION","ranges":[["1896/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/FRIMLEY-PUMPING-STATION/FRIMLEY-PUMPING-STATION.pdf"},"history":[{"version":"v1.0.0","name":"FRIMLEY-PUMPING-STATION","changes":["New"]}]}

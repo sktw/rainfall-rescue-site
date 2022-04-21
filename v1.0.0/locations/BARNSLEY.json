@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"BARNSLEY","gauges":[{"name":"BARNSLEY","ranges":[["1872/01","1880/12"],["1882/01","1885/12"],["1887/01","1889/12"]]},{"name":"BARNSLEY-2","ranges":[["1867/04","1922/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/BARNSLEY/BARNSLEY.pdf"},"history":[{"version":"v1.0.0","name":"BARNSLEY","changes":["New"]}]}

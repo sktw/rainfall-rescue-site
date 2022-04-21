@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"WHELDRAKE","gauges":[{"name":"WHELDRAKE","ranges":[["1844/09","1865/08"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/WHELDRAKE/WHELDRAKE.pdf"},"history":[{"version":"v1.0.0","name":"WHELDRAKE","changes":["New"]},{"version":"v1.1.0","name":"WHELDRAKE","changes":[]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"AUCHNASHEEN-HRS","gauges":[{"name":"AUCHNASHEEN-HRS","ranges":[["1872/01","1872/12"],["1877/01","1879/08"],["1882/01","1883/03"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/AUCHNASHEEN-HRS/AUCHNASHEEN-HRS.pdf"},"history":[{"version":"v1.0.0","name":"AUCHNASHEEN-HRS","changes":["New"]}]}

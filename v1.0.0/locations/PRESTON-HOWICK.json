@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"PRESTON-HOWICK","gauges":[{"name":"PRESTON-HOWICK","ranges":[["1845/09","1869/12"]]},{"name":"PRESTON-HOWICK-2","ranges":[["1867/01","1871/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/PRESTON-HOWICK/PRESTON-HOWICK.pdf"},"history":[{"version":"v1.0.0","name":"PRESTON-HOWICK","changes":["New"]}]}

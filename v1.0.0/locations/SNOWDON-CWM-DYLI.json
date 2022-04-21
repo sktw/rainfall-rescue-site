@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"SNOWDON-CWM-DYLI","gauges":[{"name":"SNOWDON-CWM-DYLI","ranges":[["1908/01","1919/07"],["1919/10","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/SNOWDON-CWM-DYLI/SNOWDON-CWM-DYLI.pdf"},"history":[{"version":"v1.0.0","name":"SNOWDON-CWM-DYLI","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"working","name":"BARKING","gauges":[{"name":"BARKING","ranges":[["1870/10","1873/12"]]},{"name":"BARKING-2","ranges":[["1942/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/BARKING/BARKING.pdf"},"history":[{"version":"working","name":"BARKING","changes":["New"]}]}

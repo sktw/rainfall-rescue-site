@@ -1,0 +1,1 @@
+{"version":"working","name":"ELPHIN","gauges":[{"name":"ELPHIN","ranges":[["1945/03","1956/06"]]},{"name":"ELPHIN-2","ranges":[["1956/07","1960/09"]]},{"name":"ELPHIN-3","ranges":[["1960/10","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/ELPHIN/ELPHIN.pdf"},"history":[{"version":"working","name":"ELPHIN","changes":["New"]}]}

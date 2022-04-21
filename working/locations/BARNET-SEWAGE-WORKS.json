@@ -1,0 +1,1 @@
+{"version":"working","name":"BARNET-SEWAGE-WORKS","gauges":[{"name":"BARNET-SEWAGE-WORKS","ranges":[["1929/01","1957/12"],["1959/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/BARNET-SEWAGE-WORKS/BARNET-SEWAGE-WORKS.pdf"},"history":[{"version":"working","name":"BARNET-SEWAGE-WORKS","changes":["New"]}]}

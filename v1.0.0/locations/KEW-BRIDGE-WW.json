@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"KEW-BRIDGE-WW","gauges":[{"name":"KEW-BRIDGE-WW","ranges":[["1906/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/KEW-BRIDGE-WW/KEW-BRIDGE-WW.pdf"},"history":[{"version":"v1.0.0","name":"KEW-BRIDGE-WW","changes":["New"]}]}

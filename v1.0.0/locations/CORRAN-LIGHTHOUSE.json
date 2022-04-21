@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"CORRAN-LIGHTHOUSE","gauges":[{"name":"CORRAN-LIGHTHOUSE","ranges":[["1860/12","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/CORRAN-LIGHTHOUSE/CORRAN-LIGHTHOUSE.pdf"},"history":[{"version":"v1.0.0","name":"CORRAN-LIGHTHOUSE","changes":["New"]}]}

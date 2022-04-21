@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"HARRIS","gauges":[{"name":"HARRIS","ranges":[["1858/10","1861/06"],["1861/11","1861/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/HARRIS/HARRIS.pdf"},"history":[{"version":"v1.0.0","name":"HARRIS","changes":["New"]},{"version":"v1.1.0","name":"HARRIS","changes":[]}]}

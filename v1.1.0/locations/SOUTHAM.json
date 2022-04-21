@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"SOUTHAM","gauges":[{"name":"SOUTHAM","ranges":[["1871/01","1887/12"],["1890/01","1898/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/SOUTHAM/SOUTHAM.pdf"},"history":[{"version":"v1.0.0","name":"SOUTHAM","changes":["New"]},{"version":"v1.1.0","name":"SOUTHAM","changes":[]}]}

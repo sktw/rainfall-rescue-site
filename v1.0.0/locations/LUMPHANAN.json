@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"LUMPHANAN","gauges":[{"name":"LUMPHANAN","ranges":[["1916/12","1953/12"]]},{"name":"LUMPHANAN-2","ranges":[["1953/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/LUMPHANAN/LUMPHANAN.pdf"},"history":[{"version":"v1.0.0","name":"LUMPHANAN","changes":["New"]}]}

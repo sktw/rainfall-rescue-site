@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"HAWICK-GOLDIELANDS","gauges":[{"name":"HAWICK-GOLDIELANDS","ranges":[["1862/01","1874/07"],["1874/10","1874/11"],["1875/01","1880/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/HAWICK-GOLDIELANDS/HAWICK-GOLDIELANDS.pdf"},"history":[{"version":"v1.0.0","name":"HAWICK-GOLDIELANDS","changes":["New"]}]}

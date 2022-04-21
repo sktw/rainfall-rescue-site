@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"STOCKTON-ROPNER-PARK","gauges":[{"name":"STOCKTON-ROPNER-PARK","ranges":[["1901/01","1938/09"],["1938/12","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/STOCKTON-ROPNER-PARK/STOCKTON-ROPNER-PARK.pdf"},"history":[{"version":"v1.0.0","name":"STOCKTON-ROPNER-PARK","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"ABERSOCH","gauges":[{"name":"ABERSOCH","ranges":[["1909/01","1937/12"],["1954/03","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/ABERSOCH/ABERSOCH.pdf"},"history":[{"version":"v1.0.0","name":"ABERSOCH","changes":["New"]},{"version":"v1.1.0","name":"ABERSOCH","changes":[]}]}

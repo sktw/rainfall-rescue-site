@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"WYTHBURN","gauges":[{"name":"WYTHBURN","ranges":[["1877/03","1960/12"]]},{"name":"WYTHBURN-2","ranges":[["1878/06","1879/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/WYTHBURN/WYTHBURN.pdf"},"history":[{"version":"v1.0.0","name":"WYTHBURN","changes":["New"]}]}

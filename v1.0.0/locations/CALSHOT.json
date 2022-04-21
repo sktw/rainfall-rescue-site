@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"CALSHOT","gauges":[{"name":"CALSHOT","ranges":[["1918/01","1919/05"],["1919/07","1940/12"],["1946/05","1953/09"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/CALSHOT/CALSHOT.pdf"},"history":[{"version":"v1.0.0","name":"CALSHOT","changes":["New"]}]}

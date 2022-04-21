@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"DUMFRIES-MARCH-HILL","gauges":[{"name":"DUMFRIES-MARCH-HILL","ranges":[["1850/01","1854/04"],["1854/08","1874/11"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/DUMFRIES-MARCH-HILL/DUMFRIES-MARCH-HILL.pdf"},"history":[{"version":"v1.0.0","name":"DUMFRIES-MARCH-HILL","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"WREXHAM-TREVALYN","gauges":[{"name":"WREXHAM-TREVALYN","ranges":[["1867/01","1867/02"],["1867/07","1903/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/WREXHAM-TREVALYN/WREXHAM-TREVALYN.pdf"},"history":[{"version":"v1.0.0","name":"WREXHAM-TREVALYN","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"ETWALL-SEWAGE-FARM","gauges":[{"name":"ETWALL-SEWAGE-FARM","ranges":[["1910/01","1919/12"],["1931/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/ETWALL-SEWAGE-FARM/ETWALL-SEWAGE-FARM.pdf"},"history":[{"version":"v1.0.0","name":"ETWALL-SEWAGE-FARM","changes":["New"]}]}

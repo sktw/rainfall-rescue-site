@@ -1,0 +1,1 @@
+{"version":"working","name":"LOCH-GLASS","gauges":[{"name":"LOCH-GLASS","ranges":[["1960/01","1960/03"],["1960/06","1960/08"],["1960/11","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/LOCH-GLASS/LOCH-GLASS.pdf"},"history":[{"version":"working","name":"LOCH-GLASS","changes":["New"]}]}

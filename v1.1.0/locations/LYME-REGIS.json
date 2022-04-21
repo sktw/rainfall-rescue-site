@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"LYME-REGIS","gauges":[{"name":"LYME-REGIS","ranges":[["1866/01","1876/03"],["1884/06","1890/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/LYME-REGIS/LYME-REGIS.pdf"},"history":[{"version":"v1.0.0","name":"LYME-REGIS","changes":["New"]},{"version":"v1.1.0","name":"LYME-REGIS","changes":[]}]}

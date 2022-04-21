@@ -1,0 +1,1 @@
+{"version":"working","name":"ELSFORD","gauges":[{"name":"ELSFORD","ranges":[["1906/01","1949/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/ELSFORD/ELSFORD.pdf"},"history":[{"version":"v1.0.0","name":"ELSFORD","changes":["New"]},{"version":"v1.1.0","name":"ELSFORD","changes":[]},{"version":"working","name":"ELSFORD","changes":[]}]}

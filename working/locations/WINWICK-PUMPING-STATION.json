@@ -1,0 +1,1 @@
+{"version":"working","name":"WINWICK-PUMPING-STATION","gauges":[{"name":"WINWICK-PUMPING-STATION","ranges":[["1932/01","1939/12"],["1940/03","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/WINWICK-PUMPING-STATION/WINWICK-PUMPING-STATION.pdf"},"history":[{"version":"working","name":"WINWICK-PUMPING-STATION","changes":["New"]}]}

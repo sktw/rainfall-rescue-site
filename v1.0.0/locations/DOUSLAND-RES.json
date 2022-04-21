@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"DOUSLAND-RES","gauges":[{"name":"DOUSLAND-RES","ranges":[["1912/01","1958/02"],["1958/04","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/DOUSLAND-RES/DOUSLAND-RES.pdf"},"history":[{"version":"v1.0.0","name":"DOUSLAND-RES","changes":["New"]}]}

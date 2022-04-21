@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"DREM-FENTON-BARNS","gauges":[{"name":"DREM-FENTON-BARNS","ranges":[["1863/01","1865/09"],["1866/01","1872/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/DREM-FENTON-BARNS/DREM-FENTON-BARNS.pdf"},"history":[{"version":"v1.0.0","name":"DREM-FENTON-BARNS","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"working","name":"MEOPHAM","gauges":[{"name":"MEOPHAM","ranges":[["1902/01","1919/12"]]},{"name":"MEOPHAM-2","ranges":[["1913/01","1915/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/MEOPHAM/MEOPHAM.pdf"},"history":[{"version":"working","name":"MEOPHAM","changes":["New"]}]}

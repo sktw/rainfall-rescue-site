@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"GLENELG","gauges":[{"name":"GLENELG","ranges":[["1899/01","1926/12"],["1928/01","1931/07"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/GLENELG/GLENELG.pdf"},"history":[{"version":"v1.0.0","name":"GLENELG","changes":["New"]},{"version":"v1.1.0","name":"GLENELG","changes":[]}]}

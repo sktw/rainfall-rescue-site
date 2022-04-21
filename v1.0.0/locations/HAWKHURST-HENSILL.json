@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"HAWKHURST-HENSILL","gauges":[{"name":"HAWKHURST-HENSILL","ranges":[["1905/01","1905/09"],["1905/12","1942/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/HAWKHURST-HENSILL/HAWKHURST-HENSILL.pdf"},"history":[{"version":"v1.0.0","name":"HAWKHURST-HENSILL","changes":["New"]}]}

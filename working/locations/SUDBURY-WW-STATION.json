@@ -1,0 +1,1 @@
+{"version":"working","name":"SUDBURY-WW-STATION","gauges":[{"name":"SUDBURY-WW-STATION","ranges":[["1933/01","1940/12"],["1942/01","1942/12"],["1947/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/SUDBURY-WW-STATION/SUDBURY-WW-STATION.pdf"},"history":[{"version":"working","name":"SUDBURY-WW-STATION","changes":["New"]}]}

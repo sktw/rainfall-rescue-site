@@ -1,0 +1,1 @@
+{"version":"working","name":"CUPAR-BIRKHILL","gauges":[{"name":"CUPAR-BIRKHILL","ranges":[["1863/08","1864/05"],["1864/08","1874/02"],["1877/01","1886/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/CUPAR-BIRKHILL/CUPAR-BIRKHILL.pdf"},"history":[{"version":"working","name":"CUPAR-BIRKHILL","changes":["New"]}]}

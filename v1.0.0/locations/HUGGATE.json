@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"HUGGATE","gauges":[{"name":"HUGGATE","ranges":[["1842/01","1846/08"],["1846/10","1861/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/HUGGATE/HUGGATE.pdf"},"history":[{"version":"v1.0.0","name":"HUGGATE","changes":["New"]}]}

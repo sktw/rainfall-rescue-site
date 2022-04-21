@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"DALTON-PARSONAGE","gauges":[{"name":"DALTON-PARSONAGE","ranges":[["1905/01","1944/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/DALTON-PARSONAGE/DALTON-PARSONAGE.pdf"},"history":[{"version":"v1.0.0","name":"DALTON-PARSONAGE","changes":["New"]}]}

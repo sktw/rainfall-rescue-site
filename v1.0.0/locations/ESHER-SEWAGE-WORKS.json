@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"ESHER-SEWAGE-WORKS","gauges":[{"name":"ESHER-SEWAGE-WORKS","ranges":[["1888/01","1924/12"],["1940/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/ESHER-SEWAGE-WORKS/ESHER-SEWAGE-WORKS.pdf"},"history":[{"version":"v1.0.0","name":"ESHER-SEWAGE-WORKS","changes":["New"]}]}

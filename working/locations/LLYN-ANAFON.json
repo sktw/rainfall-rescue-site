@@ -1,0 +1,1 @@
+{"version":"working","name":"LLYN-ANAFON","gauges":[{"name":"LLYN-ANAFON","ranges":[["1951/01","1955/12"],["1958/01","1959/10"],["1960/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/LLYN-ANAFON/LLYN-ANAFON.pdf"},"history":[{"version":"working","name":"LLYN-ANAFON","changes":["New"]}]}

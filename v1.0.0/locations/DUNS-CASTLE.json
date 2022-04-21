@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"DUNS-CASTLE","gauges":[{"name":"DUNS-CASTLE","ranges":[["1886/01","1951/02"],["1951/09","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/DUNS-CASTLE/DUNS-CASTLE.pdf"},"history":[{"version":"v1.0.0","name":"DUNS-CASTLE","changes":["New"]}]}

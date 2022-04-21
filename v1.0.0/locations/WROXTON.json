@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"WROXTON","gauges":[{"name":"WROXTON","ranges":[["1876/01","1886/08"]]},{"name":"WROXTON-2","ranges":[["1907/01","1918/12"],["1920/01","1936/07"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/WROXTON/WROXTON.pdf"},"history":[{"version":"v1.0.0","name":"WROXTON","changes":["New"]}]}

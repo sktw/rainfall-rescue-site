@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"EAST-COWES-SPRING-HILL","gauges":[{"name":"EAST-COWES-SPRING-HILL","ranges":[["1907/01","1907/09"],["1907/11","1936/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/EAST-COWES-SPRING-HILL/EAST-COWES-SPRING-HILL.pdf"},"history":[{"version":"v1.0.0","name":"EAST-COWES-SPRING-HILL","changes":["New"]}]}

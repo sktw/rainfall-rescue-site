@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"OSWESTRY-MOUNT-RES","gauges":[{"name":"OSWESTRY-MOUNT-RES","ranges":[["1898/01","1921/12"],["1923/03","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/OSWESTRY-MOUNT-RES/OSWESTRY-MOUNT-RES.pdf"},"history":[{"version":"v1.0.0","name":"OSWESTRY-MOUNT-RES","changes":["New"]}]}

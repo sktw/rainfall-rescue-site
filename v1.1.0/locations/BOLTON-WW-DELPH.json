@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"BOLTON-WW-DELPH","gauges":[{"name":"BOLTON-WW-DELPH","ranges":[["1926/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/BOLTON-WW-DELPH/BOLTON-WW-DELPH.pdf"},"history":[{"version":"v1.0.0","name":"BOLTON-WW-DELPH","changes":["New"]},{"version":"v1.1.0","name":"BOLTON-WW-DELPH","changes":[]}]}

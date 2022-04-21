@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"COVENTRY-COUNDON","gauges":[{"name":"COVENTRY-COUNDON","ranges":[["1870/01","1918/04"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/COVENTRY-COUNDON/COVENTRY-COUNDON.pdf"},"history":[{"version":"v1.0.0","name":"COVENTRY-COUNDON","changes":["New"]},{"version":"v1.1.0","name":"COVENTRY-COUNDON","changes":[]}]}

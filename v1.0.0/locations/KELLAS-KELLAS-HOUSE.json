@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"KELLAS-KELLAS-HOUSE","gauges":[{"name":"KELLAS-KELLAS-HOUSE","ranges":[["1933/01","1955/10"],["1956/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/KELLAS-KELLAS-HOUSE/KELLAS-KELLAS-HOUSE.pdf"},"history":[{"version":"v1.0.0","name":"KELLAS-KELLAS-HOUSE","changes":["New"]}]}

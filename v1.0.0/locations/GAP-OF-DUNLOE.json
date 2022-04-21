@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"GAP-OF-DUNLOE","gauges":[{"name":"GAP-OF-DUNLOE","ranges":[["1900/01","1926/02"],["1927/01","1927/02"],["1927/05","1940/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/GAP-OF-DUNLOE/GAP-OF-DUNLOE.pdf"},"history":[{"version":"v1.0.0","name":"GAP-OF-DUNLOE","changes":["New"]}]}

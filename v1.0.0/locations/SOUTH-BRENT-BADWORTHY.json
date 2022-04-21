@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"SOUTH-BRENT-BADWORTHY","gauges":[{"name":"SOUTH-BRENT-BADWORTHY","ranges":[["1918/01","1925/03"],["1925/06","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/SOUTH-BRENT-BADWORTHY/SOUTH-BRENT-BADWORTHY.pdf"},"history":[{"version":"v1.0.0","name":"SOUTH-BRENT-BADWORTHY","changes":["New"]}]}

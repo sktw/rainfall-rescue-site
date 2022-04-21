@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"BRISTOL-SMALL-STREET","gauges":[{"name":"BRISTOL-SMALL-STREET","ranges":[["1855/01","1859/11"],["1860/01","1903/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/BRISTOL-SMALL-STREET/BRISTOL-SMALL-STREET.pdf"},"history":[{"version":"v1.0.0","name":"BRISTOL-SMALL-STREET","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"HURST-CASTLE","gauges":[{"name":"HURST-CASTLE","ranges":[["1877/01","1899/06"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/HURST-CASTLE/HURST-CASTLE.pdf"},"history":[{"version":"v1.0.0","name":"HURST-CASTLE","changes":["New"]},{"version":"v1.1.0","name":"HURST-CASTLE","changes":[]}]}

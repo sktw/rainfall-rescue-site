@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"DUNS-MANDERSTON","gauges":[{"name":"DUNS-MANDERSTON","ranges":[["1900/01","1939/12"],["1940/02","1950/12"],["1951/02","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/DUNS-MANDERSTON/DUNS-MANDERSTON.pdf"},"history":[{"version":"v1.0.0","name":"DUNS-MANDERSTON","changes":["New"]}]}

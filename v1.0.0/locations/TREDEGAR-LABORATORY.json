@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"TREDEGAR-LABORATORY","gauges":[{"name":"TREDEGAR-LABORATORY","ranges":[["1912/01","1916/12"],["1918/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/TREDEGAR-LABORATORY/TREDEGAR-LABORATORY.pdf"},"history":[{"version":"v1.0.0","name":"TREDEGAR-LABORATORY","changes":["New"]}]}

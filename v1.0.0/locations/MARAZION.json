@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"MARAZION","gauges":[{"name":"MARAZION","ranges":[["1848/01","1849/05"],["1849/09","1849/12"],["1879/01","1919/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/MARAZION/MARAZION.pdf"},"history":[{"version":"v1.0.0","name":"MARAZION","changes":["New"]}]}

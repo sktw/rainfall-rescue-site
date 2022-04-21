@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"MANCHESTER-SALE","gauges":[{"name":"MANCHESTER-SALE","ranges":[["1855/01","1861/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/MANCHESTER-SALE/MANCHESTER-SALE.pdf"},"history":[{"version":"v1.0.0","name":"MANCHESTER-SALE","changes":["New"]}]}

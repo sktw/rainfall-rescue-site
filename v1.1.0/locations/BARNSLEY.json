@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"BARNSLEY","gauges":[{"name":"BARNSLEY","ranges":[["1867/04","1922/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/BARNSLEY/BARNSLEY.pdf"},"history":[{"version":"v1.0.0","name":"BARNSLEY","changes":["New"]},{"version":"v1.1.0","name":"BARNSLEY","changes":["Remove BARNSLEY-2"]}]}

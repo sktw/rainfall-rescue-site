@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"WIGTON-AIKBANK","gauges":[{"name":"WIGTON-AIKBANK","ranges":[["1792/01","1810/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/WIGTON-AIKBANK/WIGTON-AIKBANK.pdf"},"history":[{"version":"v1.0.0","name":"WIGTON-AIKBANK","changes":["New"]},{"version":"v1.1.0","name":"WIGTON-AIKBANK","changes":[]}]}

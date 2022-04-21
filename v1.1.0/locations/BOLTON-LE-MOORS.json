@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"BOLTON-LE-MOORS","gauges":[{"name":"BOLTON-LE-MOORS","ranges":[["1831/01","1891/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/BOLTON-LE-MOORS/BOLTON-LE-MOORS.pdf"},"history":[{"version":"v1.0.0","name":"BOLTON-LE-MOORS","changes":["New"]},{"version":"v1.1.0","name":"BOLTON-LE-MOORS","changes":[]}]}

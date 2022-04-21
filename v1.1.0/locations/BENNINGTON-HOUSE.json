@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"BENNINGTON-HOUSE","gauges":[{"name":"BENNINGTON-HOUSE","ranges":[["1884/01","1919/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/BENNINGTON-HOUSE/BENNINGTON-HOUSE.pdf"},"history":[{"version":"v1.0.0","name":"BENNINGTON-HOUSE","changes":["New"]},{"version":"v1.1.0","name":"BENNINGTON-HOUSE","changes":[]}]}

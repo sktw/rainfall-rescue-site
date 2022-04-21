@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"LOWER-PENARTH","gauges":[{"name":"LOWER-PENARTH","ranges":[["1901/09","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/LOWER-PENARTH/LOWER-PENARTH.pdf"},"history":[{"version":"v1.0.0","name":"LOWER-PENARTH","changes":["New"]},{"version":"v1.1.0","name":"LOWER-PENARTH","changes":[]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"CARDIFF-RADYR","gauges":[{"name":"CARDIFF-RADYR","ranges":[["1841/01","1842/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/CARDIFF-RADYR/CARDIFF-RADYR.pdf"},"history":[{"version":"v1.0.0","name":"CARDIFF-RADYR","changes":["New"]}]}

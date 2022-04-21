@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"BIXTER-VEMENTRY","gauges":[{"name":"BIXTER-VEMENTRY","ranges":[["1924/11","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/BIXTER-VEMENTRY/BIXTER-VEMENTRY.pdf"},"history":[{"version":"v1.0.0","name":"BIXTER-VEMENTRY","changes":["New"]},{"version":"v1.1.0","name":"BIXTER-VEMENTRY","changes":[]}]}

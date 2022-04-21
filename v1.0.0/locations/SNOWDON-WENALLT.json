@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"SNOWDON-WENALLT","gauges":[{"name":"SNOWDON-WENALLT","ranges":[["1908/02","1909/01"],["1909/03","1914/10"],["1915/01","1916/12"],["1917/05","1933/11"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/SNOWDON-WENALLT/SNOWDON-WENALLT.pdf"},"history":[{"version":"v1.0.0","name":"SNOWDON-WENALLT","changes":["New"]}]}

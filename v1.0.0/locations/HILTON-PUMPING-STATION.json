@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"HILTON-PUMPING-STATION","gauges":[{"name":"HILTON-PUMPING-STATION","ranges":[["1945/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/HILTON-PUMPING-STATION/HILTON-PUMPING-STATION.pdf"},"history":[{"version":"v1.0.0","name":"HILTON-PUMPING-STATION","changes":["New"]}]}

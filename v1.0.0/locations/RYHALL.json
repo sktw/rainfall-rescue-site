@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"RYHALL","gauges":[{"name":"RYHALL","ranges":[["1865/02","1866/12"],["1869/01","1885/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/RYHALL/RYHALL.pdf"},"history":[{"version":"v1.0.0","name":"RYHALL","changes":["New"]}]}

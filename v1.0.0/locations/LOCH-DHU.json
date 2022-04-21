@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"LOCH-DHU","gauges":[{"name":"LOCH-DHU","ranges":[["1861/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/LOCH-DHU/LOCH-DHU.pdf"},"history":[{"version":"v1.0.0","name":"LOCH-DHU","changes":["New"]}]}

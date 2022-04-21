@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"BOWDEN-HALL","gauges":[{"name":"BOWDEN-HALL","ranges":[["1843/01","1854/12"],["1856/01","1857/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/BOWDEN-HALL/BOWDEN-HALL.pdf"},"history":[{"version":"v1.0.0","name":"BOWDEN-HALL","changes":["New"]},{"version":"v1.1.0","name":"BOWDEN-HALL","changes":[]}]}

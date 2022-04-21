@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"BALBY-SEWAGE-WORKS","gauges":[{"name":"BALBY-SEWAGE-WORKS","ranges":[["1933/01","1959/08"],["1959/10","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/BALBY-SEWAGE-WORKS/BALBY-SEWAGE-WORKS.pdf"},"history":[{"version":"v1.0.0","name":"BALBY-SEWAGE-WORKS","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"SOUTHMINSTER","gauges":[{"name":"SOUTHMINSTER","ranges":[["1899/02","1912/07"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/SOUTHMINSTER/SOUTHMINSTER.pdf"},"history":[{"version":"v1.0.0","name":"SOUTHMINSTER","changes":["New"]},{"version":"v1.1.0","name":"SOUTHMINSTER","changes":[]}]}

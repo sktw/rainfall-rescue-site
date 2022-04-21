@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"SHOEBURYNESS","gauges":[{"name":"SHOEBURYNESS","ranges":[["1865/06","1918/04"],["1920/01","1960/12"]]},{"name":"SHOEBURYNESS-2","ranges":[["1900/01","1919/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/SHOEBURYNESS/SHOEBURYNESS.pdf"},"history":[{"version":"v1.0.0","name":"SHOEBURYNESS","changes":["New"]}]}

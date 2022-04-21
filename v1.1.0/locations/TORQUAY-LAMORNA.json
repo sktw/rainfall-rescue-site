@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"TORQUAY-LAMORNA","gauges":[{"name":"TORQUAY-LAMORNA","ranges":[["1864/01","1888/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/TORQUAY-LAMORNA/TORQUAY-LAMORNA.pdf"},"history":[{"version":"v1.0.0","name":"TORQUAY-LAMORNA","changes":["New"]},{"version":"v1.1.0","name":"TORQUAY-LAMORNA","changes":[]}]}

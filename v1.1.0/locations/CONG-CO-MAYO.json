@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"CONG-CO-MAYO","gauges":[{"name":"CONG-CO-MAYO","ranges":[["1852/01","1856/12"],["1860/01","1860/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/CONG-CO-MAYO/CONG-CO-MAYO.pdf"},"history":[{"version":"v1.0.0","name":"CONG-CO-MAYO","changes":["New"]},{"version":"v1.1.0","name":"CONG-CO-MAYO","changes":[]}]}

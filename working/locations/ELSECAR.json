@@ -1,0 +1,1 @@
+{"version":"working","name":"ELSECAR","gauges":[{"name":"ELSECAR","ranges":[["1867/04","1922/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/ELSECAR/ELSECAR.pdf"},"history":[{"version":"v1.0.0","name":"ELSECAR","changes":["New"]},{"version":"v1.1.0","name":"ELSECAR","changes":[]},{"version":"working","name":"ELSECAR","changes":[]}]}

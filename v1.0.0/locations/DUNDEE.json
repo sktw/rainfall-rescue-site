@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"DUNDEE","gauges":[{"name":"DUNDEE","ranges":[["1853/01","1863/12"]]},{"name":"DUNDEE-2","ranges":[["1864/01","1871/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/DUNDEE/DUNDEE.pdf"},"history":[{"version":"v1.0.0","name":"DUNDEE","changes":["New"]}]}

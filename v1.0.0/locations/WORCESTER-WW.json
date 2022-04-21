@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"WORCESTER-WW","gauges":[{"name":"WORCESTER-WW","ranges":[["1888/01","1895/12"],["1898/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/WORCESTER-WW/WORCESTER-WW.pdf"},"history":[{"version":"v1.0.0","name":"WORCESTER-WW","changes":["New"]}]}

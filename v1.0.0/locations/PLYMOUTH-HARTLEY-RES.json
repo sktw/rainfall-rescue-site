@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"PLYMOUTH-HARTLEY-RES","gauges":[{"name":"PLYMOUTH-HARTLEY-RES","ranges":[["1909/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/PLYMOUTH-HARTLEY-RES/PLYMOUTH-HARTLEY-RES.pdf"},"history":[{"version":"v1.0.0","name":"PLYMOUTH-HARTLEY-RES","changes":["New"]}]}

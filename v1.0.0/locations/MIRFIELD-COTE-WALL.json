@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"MIRFIELD-COTE-WALL","gauges":[{"name":"MIRFIELD-COTE-WALL","ranges":[["1867/01","1873/12"],["1874/02","1939/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/MIRFIELD-COTE-WALL/MIRFIELD-COTE-WALL.pdf"},"history":[{"version":"v1.0.0","name":"MIRFIELD-COTE-WALL","changes":["New"]}]}

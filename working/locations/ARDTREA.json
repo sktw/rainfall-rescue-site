@@ -1,0 +1,1 @@
+{"version":"working","name":"ARDTREA","gauges":[{"name":"ARDTREA","ranges":[["1711/01","1724/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/ARDTREA/ARDTREA.pdf"},"history":[{"version":"v1.0.0","name":"ARDTREA","changes":["New"]},{"version":"v1.1.0","name":"ARDTREA","changes":[]},{"version":"working","name":"ARDTREA","changes":[]}]}

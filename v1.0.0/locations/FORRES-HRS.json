@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"FORRES-HRS","gauges":[{"name":"FORRES-HRS","ranges":[["1880/01","1901/09"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/FORRES-HRS/FORRES-HRS.pdf"},"history":[{"version":"v1.0.0","name":"FORRES-HRS","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"DUNDEE-MANSE","gauges":[{"name":"DUNDEE-MANSE","ranges":[["1836/10","1841/01"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/DUNDEE-MANSE/DUNDEE-MANSE.pdf"},"history":[{"version":"v1.0.0","name":"DUNDEE-MANSE","changes":["New"]},{"version":"v1.1.0","name":"DUNDEE-MANSE","changes":[]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"SANDHURST-LODGE","gauges":[{"name":"SANDHURST-LODGE","ranges":[["1880/02","1911/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/SANDHURST-LODGE/SANDHURST-LODGE.pdf"},"history":[{"version":"v1.0.0","name":"SANDHURST-LODGE","changes":["New"]},{"version":"v1.1.0","name":"SANDHURST-LODGE","changes":[]}]}

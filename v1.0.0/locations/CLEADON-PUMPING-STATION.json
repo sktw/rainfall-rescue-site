@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"CLEADON-PUMPING-STATION","gauges":[{"name":"CLEADON-PUMPING-STATION","ranges":[["1898/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/CLEADON-PUMPING-STATION/CLEADON-PUMPING-STATION.pdf"},"history":[{"version":"v1.0.0","name":"CLEADON-PUMPING-STATION","changes":["New"]}]}

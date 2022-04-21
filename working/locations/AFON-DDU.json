@@ -1,0 +1,1 @@
+{"version":"working","name":"AFON-DDU","gauges":[{"name":"AFON-DDU","ranges":[["1945/01","1959/10"],["1959/12","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/AFON-DDU/AFON-DDU.pdf"},"history":[{"version":"working","name":"AFON-DDU","changes":["New"]}]}

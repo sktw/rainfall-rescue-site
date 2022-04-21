@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"ALDERNEY-HARBOUR","gauges":[{"name":"ALDERNEY-HARBOUR","ranges":[["1851/01","1871/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/ALDERNEY-HARBOUR/ALDERNEY-HARBOUR.pdf"},"history":[{"version":"v1.0.0","name":"ALDERNEY-HARBOUR","changes":["New"]}]}

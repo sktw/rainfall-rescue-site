@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"HADDINGTON-ASYLUM","gauges":[{"name":"HADDINGTON-ASYLUM","ranges":[["1876/01","1899/12"],["1905/01","1911/06"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/HADDINGTON-ASYLUM/HADDINGTON-ASYLUM.pdf"},"history":[{"version":"v1.0.0","name":"HADDINGTON-ASYLUM","changes":["New"]}]}

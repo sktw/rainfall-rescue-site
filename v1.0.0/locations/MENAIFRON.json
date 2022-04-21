@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"MENAIFRON","gauges":[{"name":"MENAIFRON","ranges":[["1865/02","1874/10"],["1879/01","1882/12"],["1911/07","1919/10"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/MENAIFRON/MENAIFRON.pdf"},"history":[{"version":"v1.0.0","name":"MENAIFRON","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"ALDERSHOT-SEWAGE-WORKS","gauges":[{"name":"ALDERSHOT-SEWAGE-WORKS","ranges":[["1904/01","1905/06"],["1905/11","1930/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/ALDERSHOT-SEWAGE-WORKS/ALDERSHOT-SEWAGE-WORKS.pdf"},"history":[{"version":"v1.0.0","name":"ALDERSHOT-SEWAGE-WORKS","changes":["New"]}]}

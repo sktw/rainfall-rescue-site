@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"ISLAY-LOCHINDAUL","gauges":[{"name":"ISLAY-LOCHINDAUL","ranges":[["1870/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/ISLAY-LOCHINDAUL/ISLAY-LOCHINDAUL.pdf"},"history":[{"version":"v1.0.0","name":"ISLAY-LOCHINDAUL","changes":["New"]}]}

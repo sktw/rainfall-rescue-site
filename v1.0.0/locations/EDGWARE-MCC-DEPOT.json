@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"EDGWARE-MCC-DEPOT","gauges":[{"name":"EDGWARE-MCC-DEPOT","ranges":[["1929/01","1940/11"],["1941/01","1955/01"],["1955/04","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/EDGWARE-MCC-DEPOT/EDGWARE-MCC-DEPOT.pdf"},"history":[{"version":"v1.0.0","name":"EDGWARE-MCC-DEPOT","changes":["New"]}]}

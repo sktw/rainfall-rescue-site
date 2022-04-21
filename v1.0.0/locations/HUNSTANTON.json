@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"HUNSTANTON","gauges":[{"name":"HUNSTANTON","ranges":[["1856/01","1894/12"],["1914/05","1914/10"],["1919/05","1919/05"],["1923/05","1955/09"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/HUNSTANTON/HUNSTANTON.pdf"},"history":[{"version":"v1.0.0","name":"HUNSTANTON","changes":["New"]}]}

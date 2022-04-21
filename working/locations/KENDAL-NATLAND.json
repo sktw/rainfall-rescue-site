@@ -1,0 +1,1 @@
+{"version":"working","name":"KENDAL-NATLAND","gauges":[{"name":"KENDAL-NATLAND","ranges":[["1888/01","1897/12"]]},{"name":"KENDAL-NATLAND-2","ranges":[["1899/01","1906/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/KENDAL-NATLAND/KENDAL-NATLAND.pdf"},"history":[{"version":"working","name":"KENDAL-NATLAND","changes":["New"]}]}

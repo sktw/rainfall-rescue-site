@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"GIRVAN-PINMORE","gauges":[{"name":"GIRVAN-PINMORE","ranges":[["1866/01","1940/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/GIRVAN-PINMORE/GIRVAN-PINMORE.pdf"},"history":[{"version":"v1.0.0","name":"GIRVAN-PINMORE","changes":["New"]},{"version":"v1.1.0","name":"GIRVAN-PINMORE","changes":[]}]}

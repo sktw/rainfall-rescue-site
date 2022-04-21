@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"ROSS-BROAD-ST","gauges":[{"name":"ROSS-BROAD-ST","ranges":[["1852/01","1855/01"],["1855/04","1855/04"],["1855/06","1855/10"],["1856/01","1865/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/ROSS-BROAD-ST/ROSS-BROAD-ST.pdf"},"history":[{"version":"v1.0.0","name":"ROSS-BROAD-ST","changes":["New"]}]}

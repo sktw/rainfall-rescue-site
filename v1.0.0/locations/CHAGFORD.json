@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"CHAGFORD","gauges":[{"name":"CHAGFORD","ranges":[["1862/01","1864/05"],["1864/08","1865/04"],["1865/07","1867/05"],["1867/08","1870/05"],["1870/07","1872/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/CHAGFORD/CHAGFORD.pdf"},"history":[{"version":"v1.0.0","name":"CHAGFORD","changes":["New"]}]}

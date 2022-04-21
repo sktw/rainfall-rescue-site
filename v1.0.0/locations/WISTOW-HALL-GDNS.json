@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"WISTOW-HALL-GDNS","gauges":[{"name":"WISTOW-HALL-GDNS","ranges":[["1905/01","1911/12"],["1912/05","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/WISTOW-HALL-GDNS/WISTOW-HALL-GDNS.pdf"},"history":[{"version":"v1.0.0","name":"WISTOW-HALL-GDNS","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"STON-EASTON","gauges":[{"name":"STON-EASTON","ranges":[["1869/01","1871/08"],["1871/11","1916/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/STON-EASTON/STON-EASTON.pdf"},"history":[{"version":"v1.0.0","name":"STON-EASTON","changes":["New"]}]}

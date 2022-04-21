@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"SOUTH-WALSHAM","gauges":[{"name":"SOUTH-WALSHAM","ranges":[["1879/01","1888/07"],["1889/10","1894/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/SOUTH-WALSHAM/SOUTH-WALSHAM.pdf"},"history":[{"version":"v1.0.0","name":"SOUTH-WALSHAM","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"working","name":"CONLIG-RESERVOIR","gauges":[{"name":"CONLIG-RESERVOIR","ranges":[["1949/01","1949/12"],["1951/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/CONLIG-RESERVOIR/CONLIG-RESERVOIR.pdf"},"history":[{"version":"working","name":"CONLIG-RESERVOIR","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"DEPTFORD-PUMPING-STATION","gauges":[{"name":"DEPTFORD-PUMPING-STATION","ranges":[["1865/01","1887/12"],["1888/08","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/DEPTFORD-PUMPING-STATION/DEPTFORD-PUMPING-STATION.pdf"},"history":[{"version":"v1.0.0","name":"DEPTFORD-PUMPING-STATION","changes":["New"]}]}

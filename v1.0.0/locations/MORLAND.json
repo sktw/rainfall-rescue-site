@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"MORLAND","gauges":[{"name":"MORLAND","ranges":[["1902/01","1944/12"]]},{"name":"MORLAND-2","ranges":[["1928/01","1935/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/MORLAND/MORLAND.pdf"},"history":[{"version":"v1.0.0","name":"MORLAND","changes":["New"]}]}

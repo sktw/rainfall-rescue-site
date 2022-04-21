@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"FORDE-ABBEY","gauges":[{"name":"FORDE-ABBEY","ranges":[["1861/01","1864/12"]]},{"name":"FORDE-ABBEY-2","ranges":[["1916/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/FORDE-ABBEY/FORDE-ABBEY.pdf"},"history":[{"version":"v1.0.0","name":"FORDE-ABBEY","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"working","name":"RHUM-KILMORY","gauges":[{"name":"RHUM-KILMORY","ranges":[["1957/11","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/RHUM-KILMORY/RHUM-KILMORY.pdf"},"history":[{"version":"working","name":"RHUM-KILMORY","changes":["New"]}]}

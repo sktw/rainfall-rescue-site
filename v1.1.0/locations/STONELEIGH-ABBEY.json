@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"STONELEIGH-ABBEY","gauges":[{"name":"STONELEIGH-ABBEY","ranges":[["1858/01","1862/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/STONELEIGH-ABBEY/STONELEIGH-ABBEY.pdf"},"history":[{"version":"v1.0.0","name":"STONELEIGH-ABBEY","changes":["New"]},{"version":"v1.1.0","name":"STONELEIGH-ABBEY","changes":[]}]}

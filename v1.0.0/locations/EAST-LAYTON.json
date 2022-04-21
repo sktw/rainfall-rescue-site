@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"EAST-LAYTON","gauges":[{"name":"EAST-LAYTON","ranges":[["1875/08","1913/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/EAST-LAYTON/EAST-LAYTON.pdf"},"history":[{"version":"v1.0.0","name":"EAST-LAYTON","changes":["New"]}]}

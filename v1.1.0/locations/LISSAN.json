@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"LISSAN","gauges":[{"name":"LISSAN","ranges":[["1873/01","1899/12"],["1900/03","1916/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/LISSAN/LISSAN.pdf"},"history":[{"version":"v1.0.0","name":"LISSAN","changes":["New"]},{"version":"v1.1.0","name":"LISSAN","changes":[]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"HOLYWELL-HALL","gauges":[{"name":"HOLYWELL-HALL","ranges":[["1905/01","1907/12"],["1911/01","1924/12"],["1927/01","1929/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/HOLYWELL-HALL/HOLYWELL-HALL.pdf"},"history":[{"version":"v1.0.0","name":"HOLYWELL-HALL","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"BATTERSEA-WW","gauges":[{"name":"BATTERSEA-WW","ranges":[["1890/01","1930/03"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/BATTERSEA-WW/BATTERSEA-WW.pdf"},"history":[{"version":"v1.0.0","name":"BATTERSEA-WW","changes":["New"]},{"version":"v1.1.0","name":"BATTERSEA-WW","changes":[]}]}

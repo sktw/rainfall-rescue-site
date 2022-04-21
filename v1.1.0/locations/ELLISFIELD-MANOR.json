@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"ELLISFIELD-MANOR","gauges":[{"name":"ELLISFIELD-MANOR","ranges":[["1906/01","1957/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/ELLISFIELD-MANOR/ELLISFIELD-MANOR.pdf"},"history":[{"version":"v1.0.0","name":"ELLISFIELD-MANOR","changes":["New"]},{"version":"v1.1.0","name":"ELLISFIELD-MANOR","changes":[]}]}

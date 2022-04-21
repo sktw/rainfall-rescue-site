@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"YOUNGSBURY","gauges":[{"name":"YOUNGSBURY","ranges":[["1787/01","1789/01"],["1789/05","1791/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/YOUNGSBURY/YOUNGSBURY.pdf"},"history":[{"version":"v1.0.0","name":"YOUNGSBURY","changes":["New"]}]}

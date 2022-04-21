@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"GREENOCK-MIX","gauges":[{"name":"GREENOCK-MIX","ranges":[["1833/01","1833/12"],["1846/01","1849/08"],["1853/01","1873/03"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/GREENOCK-MIX/GREENOCK-MIX.pdf"},"history":[{"version":"v1.0.0","name":"GREENOCK-MIX","changes":["New"]}]}

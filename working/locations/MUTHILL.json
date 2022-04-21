@@ -1,0 +1,1 @@
+{"version":"working","name":"MUTHILL","gauges":[{"name":"MUTHILL","ranges":[["1863/01","1874/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/MUTHILL/MUTHILL.pdf"},"history":[{"version":"v1.0.0","name":"MUTHILL","changes":["New"]},{"version":"v1.1.0","name":"MUTHILL","changes":[]},{"version":"working","name":"MUTHILL","changes":[]}]}

@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"CROMAR-COLDSTONE-LOANHEAD","gauges":[{"name":"CROMAR-COLDSTONE-LOANHEAD","ranges":[["1873/01","1921/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/CROMAR-COLDSTONE-LOANHEAD/CROMAR-COLDSTONE-LOANHEAD.pdf"},"history":[{"version":"v1.0.0","name":"CROMAR-COLDSTONE-LOANHEAD","changes":["New"]}]}

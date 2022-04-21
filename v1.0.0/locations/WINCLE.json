@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"WINCLE","gauges":[{"name":"WINCLE","ranges":[["1864/01","1869/12"],["1871/01","1901/08"],["1901/10","1907/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/WINCLE/WINCLE.pdf"},"history":[{"version":"v1.0.0","name":"WINCLE","changes":["New"]}]}

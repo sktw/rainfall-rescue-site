@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"SYWELL-HALL","gauges":[{"name":"SYWELL-HALL","ranges":[["1898/01","1937/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/SYWELL-HALL/SYWELL-HALL.pdf"},"history":[{"version":"v1.0.0","name":"SYWELL-HALL","changes":["New"]},{"version":"v1.1.0","name":"SYWELL-HALL","changes":[]}]}

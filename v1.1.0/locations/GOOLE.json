@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"GOOLE","gauges":[{"name":"GOOLE","ranges":[["1907/06","1960/12"]]},{"name":"GOOLE-2","ranges":[["1863/01","1907/04"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/GOOLE/GOOLE.pdf"},"history":[{"version":"v1.0.0","name":"GOOLE","changes":["New"]},{"version":"v1.1.0","name":"GOOLE","changes":["Add GOOLE-2"]}]}

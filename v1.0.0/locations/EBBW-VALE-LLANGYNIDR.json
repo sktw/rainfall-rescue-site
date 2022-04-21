@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"EBBW-VALE-LLANGYNIDR","gauges":[{"name":"EBBW-VALE-LLANGYNIDR","ranges":[["1903/01","1940/12"],["1941/02","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/EBBW-VALE-LLANGYNIDR/EBBW-VALE-LLANGYNIDR.pdf"},"history":[{"version":"v1.0.0","name":"EBBW-VALE-LLANGYNIDR","changes":["New"]}]}

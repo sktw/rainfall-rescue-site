@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"DUNSFOLD","gauges":[{"name":"DUNSFOLD","ranges":[["1861/01","1894/12"],["1896/01","1898/12"]]},{"name":"DUNSFOLD-2","ranges":[["1872/01","1872/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/DUNSFOLD/DUNSFOLD.pdf"},"history":[{"version":"v1.0.0","name":"DUNSFOLD","changes":["New"]}]}

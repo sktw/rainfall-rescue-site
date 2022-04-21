@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"PWLLHELI-WEST-END","gauges":[{"name":"PWLLHELI-WEST-END","ranges":[["1930/05","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/PWLLHELI-WEST-END/PWLLHELI-WEST-END.pdf"},"history":[{"version":"v1.0.0","name":"PWLLHELI-WEST-END","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"working","name":"PATESHILL-RES","gauges":[{"name":"PATESHILL-RES","ranges":[["1940/01","1960/12"]]},{"name":"PATESHILL-RES-2","ranges":[["1957/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/PATESHILL-RES/PATESHILL-RES.pdf"},"history":[{"version":"working","name":"PATESHILL-RES","changes":["New"]}]}

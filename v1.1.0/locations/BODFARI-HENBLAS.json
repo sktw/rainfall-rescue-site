@@ -1,0 +1,1 @@
+{"version":"v1.1.0","name":"BODFARI-HENBLAS","gauges":[{"name":"BODFARI-HENBLAS","ranges":[["1898/01","1913/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.1.0/DATA/BODFARI-HENBLAS/BODFARI-HENBLAS.pdf"},"history":[{"version":"v1.0.0","name":"BODFARI-HENBLAS","changes":["New"]},{"version":"v1.1.0","name":"BODFARI-HENBLAS","changes":[]}]}

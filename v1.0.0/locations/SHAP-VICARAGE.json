@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"SHAP-VICARAGE","gauges":[{"name":"SHAP-VICARAGE","ranges":[["1899/01","1905/09"],["1906/01","1912/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/SHAP-VICARAGE/SHAP-VICARAGE.pdf"},"history":[{"version":"v1.0.0","name":"SHAP-VICARAGE","changes":["New"]}]}

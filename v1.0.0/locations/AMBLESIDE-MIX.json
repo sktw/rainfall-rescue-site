@@ -1,0 +1,1 @@
+{"version":"v1.0.0","name":"AMBLESIDE-MIX","gauges":[{"name":"AMBLESIDE-MIX","ranges":[["1895/03","1895/12"],["1896/03","1948/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/AMBLESIDE-MIX/AMBLESIDE-MIX.pdf"},"history":[{"version":"v1.0.0","name":"AMBLESIDE-MIX","changes":["New"]}]}

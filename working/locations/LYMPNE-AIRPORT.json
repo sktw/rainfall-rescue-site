@@ -1,0 +1,1 @@
+{"version":"working","name":"LYMPNE-AIRPORT","gauges":[{"name":"LYMPNE-AIRPORT","ranges":[["1920/01","1931/12"]]},{"name":"LYMPNE-AIRPORT-2","ranges":[["1930/10","1954/10"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/LYMPNE-AIRPORT/LYMPNE-AIRPORT.pdf"},"history":[{"version":"working","name":"LYMPNE-AIRPORT","changes":["New"]}]}
