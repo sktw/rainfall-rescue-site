@@ -1,1 +1,1 @@
-{"version":"working","name":"CROWLE","gauges":[{"name":"CROWLE","ranges":[["1959/05","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/CROWLE/CROWLE.pdf"},"history":[{"version":"working","name":"CROWLE","changes":["New"]}]}
+{"version":"working","name":"CROWLE","gauges":[{"name":"CROWLE","ranges":[["1959/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CROWLE"},"history":[{"version":"working","name":"CROWLE","changes":["New"]}]}

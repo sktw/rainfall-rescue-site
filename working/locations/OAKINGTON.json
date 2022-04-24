@@ -1,1 +1,1 @@
-{"version":"working","name":"OAKINGTON","gauges":[{"name":"OAKINGTON","ranges":[["1926/01","1946/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/OAKINGTON/OAKINGTON.pdf"},"history":[{"version":"working","name":"OAKINGTON","changes":["New"]}]}
+{"version":"working","name":"OAKINGTON","gauges":[{"name":"OAKINGTON","ranges":[["1926/01","1946/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/OAKINGTON"},"history":[{"version":"working","name":"OAKINGTON","changes":["New"]}]}

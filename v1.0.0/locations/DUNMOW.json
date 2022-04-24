@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"DUNMOW","gauges":[{"name":"DUNMOW","ranges":[["1851/07","1879/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/DUNMOW/DUNMOW.pdf"},"history":[{"version":"v1.0.0","name":"DUNMOW","changes":["New"]}]}
+{"version":"v1.0.0","name":"DUNMOW","gauges":[{"name":"DUNMOW","ranges":[["1851/07","1879/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/DUNMOW"},"history":[{"version":"v1.0.0","name":"DUNMOW","changes":["New"]}]}

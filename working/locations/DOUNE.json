@@ -1,1 +1,1 @@
-{"version":"working","name":"DOUNE","gauges":[{"name":"DOUNE","ranges":[["1904/01","1912/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/DOUNE/DOUNE.pdf"},"history":[{"version":"working","name":"DOUNE","changes":["New"]}]}
+{"version":"working","name":"DOUNE","gauges":[{"name":"DOUNE","ranges":[["1904/01","1912/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DOUNE"},"history":[{"version":"working","name":"DOUNE","changes":["New"]}]}

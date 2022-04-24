@@ -1,1 +1,1 @@
-{"version":"working","name":"ANNALONG","gauges":[{"name":"ANNALONG","ranges":[["1877/03","1877/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/ANNALONG/ANNALONG.pdf"},"history":[{"version":"working","name":"ANNALONG","changes":["New"]}]}
+{"version":"working","name":"ANNALONG","gauges":[{"name":"ANNALONG","ranges":[["1877/03","1877/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ANNALONG"},"history":[{"version":"working","name":"ANNALONG","changes":["New"]}]}

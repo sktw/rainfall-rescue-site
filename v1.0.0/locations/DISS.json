@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"DISS","gauges":[{"name":"DISS","ranges":[["1870/09","1870/11"],["1871/01","1895/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/DISS/DISS.pdf"},"history":[{"version":"v1.0.0","name":"DISS","changes":["New"]}]}
+{"version":"v1.0.0","name":"DISS","gauges":[{"name":"DISS","ranges":[["1870/09","1870/11"],["1871/01","1895/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/DISS"},"history":[{"version":"v1.0.0","name":"DISS","changes":["New"]}]}

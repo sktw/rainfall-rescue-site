@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"PARK-GLASGOW","gauges":[{"name":"PARK-GLASGOW","ranges":[["1843/01","1851/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/PARK-GLASGOW/PARK-GLASGOW.pdf"},"history":[{"version":"v1.0.0","name":"PARK-GLASGOW","changes":["New"]}]}
+{"version":"v1.0.0","name":"PARK-GLASGOW","gauges":[{"name":"PARK-GLASGOW","ranges":[["1843/01","1851/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/PARK-GLASGOW"},"history":[{"version":"v1.0.0","name":"PARK-GLASGOW","changes":["New"]}]}

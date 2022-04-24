@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"SLINDON","gauges":[{"name":"SLINDON","ranges":[["1856/10","1857/04"],["1860/01","1863/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/SLINDON/SLINDON.pdf"},"history":[{"version":"v1.0.0","name":"SLINDON","changes":["New"]}]}
+{"version":"v1.0.0","name":"SLINDON","gauges":[{"name":"SLINDON","ranges":[["1856/10","1857/04"],["1860/01","1863/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/SLINDON"},"history":[{"version":"v1.0.0","name":"SLINDON","changes":["New"]}]}

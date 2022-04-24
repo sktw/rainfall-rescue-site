@@ -1,1 +1,1 @@
-{"version":"working","name":"LAUDER","gauges":[{"name":"LAUDER","ranges":[["1960/11","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/LAUDER/LAUDER.pdf"},"history":[{"version":"working","name":"LAUDER","changes":["New"]}]}
+{"version":"working","name":"LAUDER","gauges":[{"name":"LAUDER","ranges":[["1960/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LAUDER"},"history":[{"version":"working","name":"LAUDER","changes":["New"]}]}

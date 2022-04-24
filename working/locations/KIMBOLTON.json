@@ -1,1 +1,1 @@
-{"version":"working","name":"KIMBOLTON","gauges":[{"name":"KIMBOLTON","ranges":[["1788/01","1788/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/KIMBOLTON/KIMBOLTON.pdf"},"history":[{"version":"working","name":"KIMBOLTON","changes":["New"]}]}
+{"version":"working","name":"KIMBOLTON","gauges":[{"name":"KIMBOLTON","ranges":[["1788/01","1788/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KIMBOLTON"},"history":[{"version":"working","name":"KIMBOLTON","changes":["New"]}]}

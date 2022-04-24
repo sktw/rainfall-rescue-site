@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"NEW-GALLOWAY","gauges":[{"name":"NEW-GALLOWAY","ranges":[["1865/03","1881/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/NEW-GALLOWAY/NEW-GALLOWAY.pdf"},"history":[{"version":"v1.0.0","name":"NEW-GALLOWAY","changes":["New"]}]}
+{"version":"v1.0.0","name":"NEW-GALLOWAY","gauges":[{"name":"NEW-GALLOWAY","ranges":[["1865/03","1881/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/NEW-GALLOWAY"},"history":[{"version":"v1.0.0","name":"NEW-GALLOWAY","changes":["New"]}]}

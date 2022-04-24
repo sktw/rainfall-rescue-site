@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"MAIDSTONE","gauges":[{"name":"MAIDSTONE","ranges":[["1848/10","1857/09"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/MAIDSTONE/MAIDSTONE.pdf"},"history":[{"version":"v1.0.0","name":"MAIDSTONE","changes":["New"]}]}
+{"version":"v1.0.0","name":"MAIDSTONE","gauges":[{"name":"MAIDSTONE","ranges":[["1848/10","1857/09"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/MAIDSTONE"},"history":[{"version":"v1.0.0","name":"MAIDSTONE","changes":["New"]}]}

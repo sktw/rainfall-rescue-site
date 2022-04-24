@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"TERRINGTON","gauges":[{"name":"TERRINGTON","ranges":[["1876/01","1894/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/TERRINGTON/TERRINGTON.pdf"},"history":[{"version":"v1.0.0","name":"TERRINGTON","changes":["New"]}]}
+{"version":"v1.0.0","name":"TERRINGTON","gauges":[{"name":"TERRINGTON","ranges":[["1876/01","1894/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/TERRINGTON"},"history":[{"version":"v1.0.0","name":"TERRINGTON","changes":["New"]}]}

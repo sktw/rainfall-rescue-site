@@ -1,1 +1,1 @@
-{"version":"working","name":"MACHNO","gauges":[{"name":"MACHNO","ranges":[["1945/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/MACHNO/MACHNO.pdf"},"history":[{"version":"working","name":"MACHNO","changes":["New"]}]}
+{"version":"working","name":"MACHNO","gauges":[{"name":"MACHNO","ranges":[["1945/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MACHNO"},"history":[{"version":"working","name":"MACHNO","changes":["New"]}]}

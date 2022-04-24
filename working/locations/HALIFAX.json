@@ -1,1 +1,1 @@
-{"version":"working","name":"HALIFAX","gauges":[{"name":"HALIFAX","ranges":[["1725/03","1727/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/HALIFAX/HALIFAX.pdf"},"history":[{"version":"working","name":"HALIFAX","changes":["New"]}]}
+{"version":"working","name":"HALIFAX","gauges":[{"name":"HALIFAX","ranges":[["1725/03","1727/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HALIFAX"},"history":[{"version":"working","name":"HALIFAX","changes":["New"]}]}

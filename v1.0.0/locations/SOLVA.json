@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"SOLVA","gauges":[{"name":"SOLVA","ranges":[["1862/01","1884/04"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/SOLVA/SOLVA.pdf"},"history":[{"version":"v1.0.0","name":"SOLVA","changes":["New"]}]}
+{"version":"v1.0.0","name":"SOLVA","gauges":[{"name":"SOLVA","ranges":[["1862/01","1884/04"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/SOLVA"},"history":[{"version":"v1.0.0","name":"SOLVA","changes":["New"]}]}

@@ -1,1 +1,1 @@
-{"version":"working","name":"BAINBRIDGE","gauges":[{"name":"BAINBRIDGE","ranges":[["1957/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/BAINBRIDGE/BAINBRIDGE.pdf"},"history":[{"version":"working","name":"BAINBRIDGE","changes":["New"]}]}
+{"version":"working","name":"BAINBRIDGE","gauges":[{"name":"BAINBRIDGE","ranges":[["1957/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BAINBRIDGE"},"history":[{"version":"working","name":"BAINBRIDGE","changes":["New"]}]}

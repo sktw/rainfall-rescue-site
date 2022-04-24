@@ -1,1 +1,1 @@
-{"version":"working","name":"COATBRIDGE","gauges":[{"name":"COATBRIDGE","ranges":[["1951/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/COATBRIDGE/COATBRIDGE.pdf"},"history":[{"version":"working","name":"COATBRIDGE","changes":["New"]}]}
+{"version":"working","name":"COATBRIDGE","gauges":[{"name":"COATBRIDGE","ranges":[["1951/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/COATBRIDGE"},"history":[{"version":"working","name":"COATBRIDGE","changes":["New"]}]}

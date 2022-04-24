@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"ASKHAM-BRYAN","gauges":[{"name":"ASKHAM-BRYAN","ranges":[["1935/11","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/ASKHAM-BRYAN/ASKHAM-BRYAN.pdf"},"history":[{"version":"v1.0.0","name":"ASKHAM-BRYAN","changes":["New"]}]}
+{"version":"v1.0.0","name":"ASKHAM-BRYAN","gauges":[{"name":"ASKHAM-BRYAN","ranges":[["1935/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/ASKHAM-BRYAN"},"history":[{"version":"v1.0.0","name":"ASKHAM-BRYAN","changes":["New"]}]}

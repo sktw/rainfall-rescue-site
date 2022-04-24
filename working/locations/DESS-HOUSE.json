@@ -1,1 +1,1 @@
-{"version":"working","name":"DESS-HOUSE","gauges":[{"name":"DESS-HOUSE","ranges":[["1921/01","1948/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/DESS-HOUSE/DESS-HOUSE.pdf"},"history":[{"version":"working","name":"DESS-HOUSE","changes":["New"]}]}
+{"version":"working","name":"DESS-HOUSE","gauges":[{"name":"DESS-HOUSE","ranges":[["1921/01","1948/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DESS-HOUSE"},"history":[{"version":"working","name":"DESS-HOUSE","changes":["New"]}]}

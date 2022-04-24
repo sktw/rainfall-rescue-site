@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"CHESWICK","gauges":[{"name":"CHESWICK","ranges":[["1847/01","1849/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/CHESWICK/CHESWICK.pdf"},"history":[{"version":"v1.0.0","name":"CHESWICK","changes":["New"]}]}
+{"version":"v1.0.0","name":"CHESWICK","gauges":[{"name":"CHESWICK","ranges":[["1847/01","1849/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/CHESWICK"},"history":[{"version":"v1.0.0","name":"CHESWICK","changes":["New"]}]}

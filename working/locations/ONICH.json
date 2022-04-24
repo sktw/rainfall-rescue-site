@@ -1,1 +1,1 @@
-{"version":"working","name":"ONICH","gauges":[{"name":"ONICH","ranges":[["1923/06","1926/06"],["1928/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/ONICH/ONICH.pdf"},"history":[{"version":"working","name":"ONICH","changes":["New"]}]}
+{"version":"working","name":"ONICH","gauges":[{"name":"ONICH","ranges":[["1923/06","1926/06"],["1928/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ONICH"},"history":[{"version":"working","name":"ONICH","changes":["New"]}]}

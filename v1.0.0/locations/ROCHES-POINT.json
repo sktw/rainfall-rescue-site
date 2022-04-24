@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"ROCHES-POINT","gauges":[{"name":"ROCHES-POINT","ranges":[["1877/01","1940/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/ROCHES-POINT/ROCHES-POINT.pdf"},"history":[{"version":"v1.0.0","name":"ROCHES-POINT","changes":["New"]}]}
+{"version":"v1.0.0","name":"ROCHES-POINT","gauges":[{"name":"ROCHES-POINT","ranges":[["1877/01","1940/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/ROCHES-POINT"},"history":[{"version":"v1.0.0","name":"ROCHES-POINT","changes":["New"]}]}

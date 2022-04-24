@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"TULLAMORE","gauges":[{"name":"TULLAMORE","ranges":[["1850/01","1883/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/TULLAMORE/TULLAMORE.pdf"},"history":[{"version":"v1.0.0","name":"TULLAMORE","changes":["New"]}]}
+{"version":"v1.0.0","name":"TULLAMORE","gauges":[{"name":"TULLAMORE","ranges":[["1850/01","1883/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/TULLAMORE"},"history":[{"version":"v1.0.0","name":"TULLAMORE","changes":["New"]}]}

@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"FYFIELD","gauges":[{"name":"FYFIELD","ranges":[["1784/01","1792/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/FYFIELD/FYFIELD.pdf"},"history":[{"version":"v1.0.0","name":"FYFIELD","changes":["New"]}]}
+{"version":"v1.0.0","name":"FYFIELD","gauges":[{"name":"FYFIELD","ranges":[["1784/01","1792/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/FYFIELD"},"history":[{"version":"v1.0.0","name":"FYFIELD","changes":["New"]}]}

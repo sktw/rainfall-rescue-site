@@ -1,1 +1,1 @@
-{"version":"working","name":"BAMFORD","gauges":[{"name":"BAMFORD","ranges":[["1839/10","1841/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/BAMFORD/BAMFORD.pdf"},"history":[{"version":"working","name":"BAMFORD","changes":["New"]}]}
+{"version":"working","name":"BAMFORD","gauges":[{"name":"BAMFORD","ranges":[["1839/10","1841/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BAMFORD"},"history":[{"version":"working","name":"BAMFORD","changes":["New"]}]}

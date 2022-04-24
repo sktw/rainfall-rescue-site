@@ -1,1 +1,1 @@
-{"version":"working","name":"LUPTON-RES","gauges":[{"name":"LUPTON-RES","ranges":[["1941/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/LUPTON-RES/LUPTON-RES.pdf"},"history":[{"version":"working","name":"LUPTON-RES","changes":["New"]}]}
+{"version":"working","name":"LUPTON-RES","gauges":[{"name":"LUPTON-RES","ranges":[["1941/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LUPTON-RES"},"history":[{"version":"working","name":"LUPTON-RES","changes":["New"]}]}

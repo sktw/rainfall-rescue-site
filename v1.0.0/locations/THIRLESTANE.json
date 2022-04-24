@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"THIRLESTANE","gauges":[{"name":"THIRLESTANE","ranges":[["1856/01","1881/10"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/THIRLESTANE/THIRLESTANE.pdf"},"history":[{"version":"v1.0.0","name":"THIRLESTANE","changes":["New"]}]}
+{"version":"v1.0.0","name":"THIRLESTANE","gauges":[{"name":"THIRLESTANE","ranges":[["1856/01","1881/10"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/THIRLESTANE"},"history":[{"version":"v1.0.0","name":"THIRLESTANE","changes":["New"]}]}

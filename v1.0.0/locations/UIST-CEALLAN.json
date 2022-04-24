@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"UIST-CEALLAN","gauges":[{"name":"UIST-CEALLAN","ranges":[["1861/04","1861/10"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/UIST-CEALLAN/UIST-CEALLAN.pdf"},"history":[{"version":"v1.0.0","name":"UIST-CEALLAN","changes":["New"]}]}
+{"version":"v1.0.0","name":"UIST-CEALLAN","gauges":[{"name":"UIST-CEALLAN","ranges":[["1861/04","1861/10"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/UIST-CEALLAN"},"history":[{"version":"v1.0.0","name":"UIST-CEALLAN","changes":["New"]}]}

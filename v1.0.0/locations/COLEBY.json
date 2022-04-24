@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"COLEBY","gauges":[{"name":"COLEBY","ranges":[["1855/01","1858/02"],["1858/04","1861/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/COLEBY/COLEBY.pdf"},"history":[{"version":"v1.0.0","name":"COLEBY","changes":["New"]}]}
+{"version":"v1.0.0","name":"COLEBY","gauges":[{"name":"COLEBY","ranges":[["1855/01","1858/02"],["1858/04","1861/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/COLEBY"},"history":[{"version":"v1.0.0","name":"COLEBY","changes":["New"]}]}

@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"SANDRINGHAM","gauges":[{"name":"SANDRINGHAM","ranges":[["1903/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/SANDRINGHAM/SANDRINGHAM.pdf"},"history":[{"version":"v1.0.0","name":"SANDRINGHAM","changes":["New"]}]}
+{"version":"v1.0.0","name":"SANDRINGHAM","gauges":[{"name":"SANDRINGHAM","ranges":[["1903/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/SANDRINGHAM"},"history":[{"version":"v1.0.0","name":"SANDRINGHAM","changes":["New"]}]}

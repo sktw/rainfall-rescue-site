@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"WITCOMBE-RES","gauges":[{"name":"WITCOMBE-RES","ranges":[["1863/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/WITCOMBE-RES/WITCOMBE-RES.pdf"},"history":[{"version":"v1.0.0","name":"WITCOMBE-RES","changes":["New"]}]}
+{"version":"v1.0.0","name":"WITCOMBE-RES","gauges":[{"name":"WITCOMBE-RES","ranges":[["1863/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/WITCOMBE-RES"},"history":[{"version":"v1.0.0","name":"WITCOMBE-RES","changes":["New"]}]}

@@ -1,1 +1,1 @@
-{"version":"working","name":"BRECON-WW","gauges":[{"name":"BRECON-WW","ranges":[["1939/12","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/BRECON-WW/BRECON-WW.pdf"},"history":[{"version":"working","name":"BRECON-WW","changes":["New"]}]}
+{"version":"working","name":"BRECON-WW","gauges":[{"name":"BRECON-WW","ranges":[["1939/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BRECON-WW"},"history":[{"version":"working","name":"BRECON-WW","changes":["New"]}]}

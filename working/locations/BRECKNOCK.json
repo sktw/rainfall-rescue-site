@@ -1,1 +1,1 @@
-{"version":"working","name":"BRECKNOCK","gauges":[{"name":"BRECKNOCK","ranges":[["1870/01","1887/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/BRECKNOCK/BRECKNOCK.pdf"},"history":[{"version":"working","name":"BRECKNOCK","changes":["New"]}]}
+{"version":"working","name":"BRECKNOCK","gauges":[{"name":"BRECKNOCK","ranges":[["1870/01","1887/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BRECKNOCK"},"history":[{"version":"working","name":"BRECKNOCK","changes":["New"]}]}

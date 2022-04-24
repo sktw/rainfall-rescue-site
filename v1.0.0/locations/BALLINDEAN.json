@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"BALLINDEAN","gauges":[{"name":"BALLINDEAN","ranges":[["1815/12","1816/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/BALLINDEAN/BALLINDEAN.pdf"},"history":[{"version":"v1.0.0","name":"BALLINDEAN","changes":["New"]}]}
+{"version":"v1.0.0","name":"BALLINDEAN","gauges":[{"name":"BALLINDEAN","ranges":[["1815/12","1816/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/BALLINDEAN"},"history":[{"version":"v1.0.0","name":"BALLINDEAN","changes":["New"]}]}

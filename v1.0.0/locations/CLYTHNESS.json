@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"CLYTHNESS","gauges":[{"name":"CLYTHNESS","ranges":[["1917/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/CLYTHNESS/CLYTHNESS.pdf"},"history":[{"version":"v1.0.0","name":"CLYTHNESS","changes":["New"]}]}
+{"version":"v1.0.0","name":"CLYTHNESS","gauges":[{"name":"CLYTHNESS","ranges":[["1917/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/CLYTHNESS"},"history":[{"version":"v1.0.0","name":"CLYTHNESS","changes":["New"]}]}

@@ -1,1 +1,1 @@
-{"version":"working","name":"HOLMSLEY","gauges":[{"name":"HOLMSLEY","ranges":[["1952/06","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/HOLMSLEY/HOLMSLEY.pdf"},"history":[{"version":"working","name":"HOLMSLEY","changes":["New"]}]}
+{"version":"working","name":"HOLMSLEY","gauges":[{"name":"HOLMSLEY","ranges":[["1952/06","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HOLMSLEY"},"history":[{"version":"working","name":"HOLMSLEY","changes":["New"]}]}

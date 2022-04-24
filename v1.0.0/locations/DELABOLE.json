@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"DELABOLE","gauges":[{"name":"DELABOLE","ranges":[["1935/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/DELABOLE/DELABOLE.pdf"},"history":[{"version":"v1.0.0","name":"DELABOLE","changes":["New"]}]}
+{"version":"v1.0.0","name":"DELABOLE","gauges":[{"name":"DELABOLE","ranges":[["1935/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/DELABOLE"},"history":[{"version":"v1.0.0","name":"DELABOLE","changes":["New"]}]}

@@ -1,1 +1,1 @@
-{"version":"working","name":"WOLL","gauges":[{"name":"WOLL","ranges":[["1780/01","1780/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/WOLL/WOLL.pdf"},"history":[{"version":"working","name":"WOLL","changes":["New"]}]}
+{"version":"working","name":"WOLL","gauges":[{"name":"WOLL","ranges":[["1780/01","1780/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WOLL"},"history":[{"version":"working","name":"WOLL","changes":["New"]}]}

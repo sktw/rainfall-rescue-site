@@ -1,1 +1,1 @@
-{"version":"working","name":"HEYTESBURY","gauges":[{"name":"HEYTESBURY","ranges":[["1920/01","1939/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/HEYTESBURY/HEYTESBURY.pdf"},"history":[{"version":"working","name":"HEYTESBURY","changes":["New"]}]}
+{"version":"working","name":"HEYTESBURY","gauges":[{"name":"HEYTESBURY","ranges":[["1920/01","1939/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HEYTESBURY"},"history":[{"version":"working","name":"HEYTESBURY","changes":["New"]}]}

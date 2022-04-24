@@ -1,1 +1,1 @@
-{"version":"working","name":"OLNEY-WW","gauges":[{"name":"OLNEY-WW","ranges":[["1937/01","1959/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/OLNEY-WW/OLNEY-WW.pdf"},"history":[{"version":"working","name":"OLNEY-WW","changes":["New"]}]}
+{"version":"working","name":"OLNEY-WW","gauges":[{"name":"OLNEY-WW","ranges":[["1937/01","1959/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/OLNEY-WW"},"history":[{"version":"working","name":"OLNEY-WW","changes":["New"]}]}

@@ -1,1 +1,1 @@
-{"version":"working","name":"TEBAY","gauges":[{"name":"TEBAY","ranges":[["1878/01","1882/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/TEBAY/TEBAY.pdf"},"history":[{"version":"working","name":"TEBAY","changes":["New"]}]}
+{"version":"working","name":"TEBAY","gauges":[{"name":"TEBAY","ranges":[["1878/01","1882/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TEBAY"},"history":[{"version":"working","name":"TEBAY","changes":["New"]}]}

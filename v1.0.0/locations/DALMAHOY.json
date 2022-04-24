@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"DALMAHOY","gauges":[{"name":"DALMAHOY","ranges":[["1888/01","1902/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/DALMAHOY/DALMAHOY.pdf"},"history":[{"version":"v1.0.0","name":"DALMAHOY","changes":["New"]}]}
+{"version":"v1.0.0","name":"DALMAHOY","gauges":[{"name":"DALMAHOY","ranges":[["1888/01","1902/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/DALMAHOY"},"history":[{"version":"v1.0.0","name":"DALMAHOY","changes":["New"]}]}

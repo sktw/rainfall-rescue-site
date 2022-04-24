@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"CROWDEN-HALL","gauges":[{"name":"CROWDEN-HALL","ranges":[["1846/11","1851/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/CROWDEN-HALL/CROWDEN-HALL.pdf"},"history":[{"version":"v1.0.0","name":"CROWDEN-HALL","changes":["New"]}]}
+{"version":"v1.0.0","name":"CROWDEN-HALL","gauges":[{"name":"CROWDEN-HALL","ranges":[["1846/11","1851/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/CROWDEN-HALL"},"history":[{"version":"v1.0.0","name":"CROWDEN-HALL","changes":["New"]}]}

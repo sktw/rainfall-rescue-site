@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"UPHALL-EIGHT","gauges":[{"name":"UPHALL-EIGHT","ranges":[["1912/01","1960/06"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/UPHALL-EIGHT/UPHALL-EIGHT.pdf"},"history":[{"version":"v1.0.0","name":"UPHALL-EIGHT","changes":["New"]}]}
+{"version":"v1.0.0","name":"UPHALL-EIGHT","gauges":[{"name":"UPHALL-EIGHT","ranges":[["1912/01","1960/06"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/UPHALL-EIGHT"},"history":[{"version":"v1.0.0","name":"UPHALL-EIGHT","changes":["New"]}]}

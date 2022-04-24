@@ -1,1 +1,1 @@
-{"version":"working","name":"BARHOLM","gauges":[{"name":"BARHOLM","ranges":[["1937/10","1953/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/BARHOLM/BARHOLM.pdf"},"history":[{"version":"working","name":"BARHOLM","changes":["New"]}]}
+{"version":"working","name":"BARHOLM","gauges":[{"name":"BARHOLM","ranges":[["1937/10","1953/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BARHOLM"},"history":[{"version":"working","name":"BARHOLM","changes":["New"]}]}

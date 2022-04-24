@@ -1,1 +1,1 @@
-{"version":"working","name":"HOPEHEAD","gauges":[{"name":"HOPEHEAD","ranges":[["1944/06","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/HOPEHEAD/HOPEHEAD.pdf"},"history":[{"version":"working","name":"HOPEHEAD","changes":["New"]}]}
+{"version":"working","name":"HOPEHEAD","gauges":[{"name":"HOPEHEAD","ranges":[["1944/06","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HOPEHEAD"},"history":[{"version":"working","name":"HOPEHEAD","changes":["New"]}]}

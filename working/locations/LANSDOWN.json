@@ -1,1 +1,1 @@
-{"version":"working","name":"LANSDOWN","gauges":[{"name":"LANSDOWN","ranges":[["1931/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/LANSDOWN/LANSDOWN.pdf"},"history":[{"version":"working","name":"LANSDOWN","changes":["New"]}]}
+{"version":"working","name":"LANSDOWN","gauges":[{"name":"LANSDOWN","ranges":[["1931/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LANSDOWN"},"history":[{"version":"working","name":"LANSDOWN","changes":["New"]}]}

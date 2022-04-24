@@ -1,1 +1,1 @@
-{"version":"working","name":"SKIPWITH","gauges":[{"name":"SKIPWITH","ranges":[["1896/01","1906/04"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/SKIPWITH/SKIPWITH.pdf"},"history":[{"version":"working","name":"SKIPWITH","changes":["New"]}]}
+{"version":"working","name":"SKIPWITH","gauges":[{"name":"SKIPWITH","ranges":[["1896/01","1906/04"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SKIPWITH"},"history":[{"version":"working","name":"SKIPWITH","changes":["New"]}]}

@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"SOUTHWICK","gauges":[{"name":"SOUTHWICK","ranges":[["1725/06","1739/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/SOUTHWICK/SOUTHWICK.pdf"},"history":[{"version":"v1.0.0","name":"SOUTHWICK","changes":["New"]}]}
+{"version":"v1.0.0","name":"SOUTHWICK","gauges":[{"name":"SOUTHWICK","ranges":[["1725/06","1739/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/SOUTHWICK"},"history":[{"version":"v1.0.0","name":"SOUTHWICK","changes":["New"]}]}

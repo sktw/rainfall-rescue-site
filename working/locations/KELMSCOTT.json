@@ -1,1 +1,1 @@
-{"version":"working","name":"KELMSCOTT","gauges":[{"name":"KELMSCOTT","ranges":[["1930/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/KELMSCOTT/KELMSCOTT.pdf"},"history":[{"version":"working","name":"KELMSCOTT","changes":["New"]}]}
+{"version":"working","name":"KELMSCOTT","gauges":[{"name":"KELMSCOTT","ranges":[["1930/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KELMSCOTT"},"history":[{"version":"working","name":"KELMSCOTT","changes":["New"]}]}

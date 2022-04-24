@@ -1,1 +1,1 @@
-{"version":"working","name":"WISETON","gauges":[{"name":"WISETON","ranges":[["1958/11","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/WISETON/WISETON.pdf"},"history":[{"version":"working","name":"WISETON","changes":["New"]}]}
+{"version":"working","name":"WISETON","gauges":[{"name":"WISETON","ranges":[["1958/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WISETON"},"history":[{"version":"working","name":"WISETON","changes":["New"]}]}

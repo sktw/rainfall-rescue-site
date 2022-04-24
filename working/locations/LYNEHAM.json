@@ -1,1 +1,1 @@
-{"version":"working","name":"LYNEHAM","gauges":[{"name":"LYNEHAM","ranges":[["1897/03","1933/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/LYNEHAM/LYNEHAM.pdf"},"history":[{"version":"working","name":"LYNEHAM","changes":["New"]}]}
+{"version":"working","name":"LYNEHAM","gauges":[{"name":"LYNEHAM","ranges":[["1897/03","1933/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LYNEHAM"},"history":[{"version":"working","name":"LYNEHAM","changes":["New"]}]}

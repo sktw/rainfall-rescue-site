@@ -1,1 +1,1 @@
-{"version":"v1.0.0","name":"ARMAGH","gauges":[{"name":"ARMAGH","ranges":[["1840/01","1865/12"],["1867/01","1867/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/v1.0.0/DATA/ARMAGH/ARMAGH.pdf"},"history":[{"version":"v1.0.0","name":"ARMAGH","changes":["New"]}]}
+{"version":"v1.0.0","name":"ARMAGH","gauges":[{"name":"ARMAGH","ranges":[["1840/01","1865/12"],["1867/01","1867/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v1.0.0/DATA/ARMAGH"},"history":[{"version":"v1.0.0","name":"ARMAGH","changes":["New"]}]}

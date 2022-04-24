@@ -1,1 +1,1 @@
-{"version":"working","name":"DUNOON","gauges":[{"name":"DUNOON","ranges":[["1935/05","1953/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/DUNOON/DUNOON.pdf"},"history":[{"version":"working","name":"DUNOON","changes":["New"]}]}
+{"version":"working","name":"DUNOON","gauges":[{"name":"DUNOON","ranges":[["1935/05","1953/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DUNOON"},"history":[{"version":"working","name":"DUNOON","changes":["New"]}]}

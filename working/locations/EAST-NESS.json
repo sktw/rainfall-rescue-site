@@ -1,1 +1,1 @@
-{"version":"working","name":"EAST-NESS","gauges":[{"name":"EAST-NESS","ranges":[["1953/04","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/EAST-NESS/EAST-NESS.pdf"},"history":[{"version":"working","name":"EAST-NESS","changes":["New"]}]}
+{"version":"working","name":"EAST-NESS","gauges":[{"name":"EAST-NESS","ranges":[["1953/04","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EAST-NESS"},"history":[{"version":"working","name":"EAST-NESS","changes":["New"]}]}

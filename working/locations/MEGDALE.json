@@ -1,1 +1,1 @@
-{"version":"working","name":"MEGDALE","gauges":[{"name":"MEGDALE","ranges":[["1959/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/MEGDALE/MEGDALE.pdf"},"history":[{"version":"working","name":"MEGDALE","changes":["New"]}]}
+{"version":"working","name":"MEGDALE","gauges":[{"name":"MEGDALE","ranges":[["1959/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MEGDALE"},"history":[{"version":"working","name":"MEGDALE","changes":["New"]}]}

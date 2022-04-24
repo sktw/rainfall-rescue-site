@@ -1,1 +1,1 @@
-{"version":"working","name":"LISBURN-WW","gauges":[{"name":"LISBURN-WW","ranges":[["1941/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/LISBURN-WW/LISBURN-WW.pdf"},"history":[{"version":"working","name":"LISBURN-WW","changes":["New"]}]}
+{"version":"working","name":"LISBURN-WW","gauges":[{"name":"LISBURN-WW","ranges":[["1941/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LISBURN-WW"},"history":[{"version":"working","name":"LISBURN-WW","changes":["New"]}]}

@@ -1,1 +1,1 @@
-{"version":"working","name":"GREAT-HEY","gauges":[{"name":"GREAT-HEY","ranges":[["1931/01","1960/12"]]}],"links":{"TYRSheets":"https://github.com/ed-hawkins/rainfall-rescue/blob/working/DATA/GREAT-HEY/GREAT-HEY.pdf"},"history":[{"version":"working","name":"GREAT-HEY","changes":["New"]}]}
+{"version":"working","name":"GREAT-HEY","gauges":[{"name":"GREAT-HEY","ranges":[["1931/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GREAT-HEY"},"history":[{"version":"working","name":"GREAT-HEY","changes":["New"]}]}
