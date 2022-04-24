@@ -6,6 +6,14 @@
   overflow-x: auto;
 }
 
+.rr-icon {
+  width: 1em;
+  height: 1em;
+  fill: currentColor;
+  line-height: 1;
+  vertical-align: -0.125rem;
+}
+
 .rr-background-color-0 {
   background-color: #ec9393 !important;
 }
