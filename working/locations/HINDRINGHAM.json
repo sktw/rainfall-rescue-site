@@ -1,0 +1,1 @@
+{"version":"working","name":"HINDRINGHAM","gauges":[{"name":"HINDRINGHAM","ranges":[["1875/01","1884/02"]]},{"name":"HINDRINGHAM-2","ranges":[["1873/10","1873/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HINDRINGHAM"},"history":[{"version":"working","name":"HINDRINGHAM","changes":["New"]}]}

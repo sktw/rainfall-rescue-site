@@ -1,0 +1,1 @@
+{"version":"working","name":"IPSWICH-ROUNDWOOD","gauges":[{"name":"IPSWICH-ROUNDWOOD","ranges":[["1927/09","1933/02"]]},{"name":"IPSWICH-ROUNDWOOD-2","ranges":[["1933/04","1939/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/IPSWICH-ROUNDWOOD"},"history":[{"version":"working","name":"IPSWICH-ROUNDWOOD","changes":["New"]}]}
