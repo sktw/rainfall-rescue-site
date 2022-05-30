@@ -1,5 +1,5 @@
 .navbar-light .navbar-toggler-icon {
-  background-image: url("/rainfall-rescue-site/static/icons/navbar-toggler-icon.svg");
+  background-image: url("/rainfall-rescue-site/icons/navbar-toggler-icon.svg");
 }
 
 .rr-overflow-x-auto {
@@ -111,6 +111,21 @@
 .rr-info__popover {
   min-width: 25vw;
   max-width: 100%;
+}
+
+.rr-clearable-input {
+  padding-right: 42px;
+}
+
+.rr-clearable-input__addon {
+  display: flex;
+  align-items: center;
+  padding: 0 0.75rem;
+  margin-left: -42px;
+}
+
+.rr-clearable-input__clear-button {
+  font-size: 0.75rem;
 }
 
 .rr-location-history-line__version {
@@ -320,21 +335,6 @@
 .rr-suggest-input__suggestion-active {
   color: #1e2125;
   background-color: #e9ecef;
-}
-
-.rr-suggest-input {
-  padding-right: 42px;
-}
-
-.rr-suggest-input__addon {
-  display: flex;
-  align-items: center;
-  padding: 0 0.75rem;
-  margin-left: -42px;
-}
-
-.rr-suggest-input__clear-button {
-  font-size: 0.75rem;
 }
 
 .rr-table__frozen-column {
