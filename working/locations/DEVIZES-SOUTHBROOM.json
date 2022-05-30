@@ -1,0 +1,1 @@
+{"version":"working","name":"DEVIZES-SOUTHBROOM","gauges":[{"name":"DEVIZES-SOUTHBROOM","ranges":[["1911/01","1913/12"]]},{"name":"DEVIZES-SOUTHBROOM-2","ranges":[["1920/02","1925/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DEVIZES-SOUTHBROOM"},"history":[{"version":"working","name":"DEVIZES-SOUTHBROOM","changes":["New"]}]}

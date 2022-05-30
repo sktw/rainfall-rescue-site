@@ -1,0 +1,1 @@
+{"version":"working","name":"LISS-HEATHMOUNT","gauges":[{"name":"LISS-HEATHMOUNT","ranges":[["1913/01","1914/12"],["1919/06","1936/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LISS-HEATHMOUNT"},"history":[{"version":"working","name":"LISS-HEATHMOUNT","changes":["New"]}]}
