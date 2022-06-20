@@ -128,6 +128,41 @@
   font-size: 0.75rem;
 }
 
+.rr-icon-button {
+  box-sizing: content-box;
+  width: 1em;
+  height: 1em;
+  padding: 0.25em 0.25em;
+  color: #000;
+  background-color: #fff;
+  border: 0;
+  border-radius: 0.25rem;
+  opacity: 0.5;
+  vertical-align: 0;
+}
+
+.rr-icon-button > svg {
+  vertical-align: 0;
+}
+
+.rr-icon-button:hover {
+  color: #000;
+  text-decoration: none;
+  opacity: 0.75;
+}
+
+.rr-icon-button:focus {
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+  opacity: 1;
+}
+
+.rr-icon-button:disabled {
+  pointer-events: none;
+  user-select: none;
+  opacity: 0.25;
+}
+
 .rr-location-history-line__version {
   font-weight: bold;
 }
@@ -192,7 +227,7 @@
 
 .rr-gauges-table {
   table-layout: fixed;
-  min-width: 1070px;
+  margin-bottom: 0;
 }
 
 @media (min-width: 768px) {
@@ -225,6 +260,10 @@
   overflow-x: auto;
 }
 
+.rr-gauges-table__name {
+  width: 300px;
+}
+
 .rr-gauges-table__counties {
   width: 250px;
 }
@@ -245,6 +284,16 @@
 }
 
 .rr-gauges-table__distance {
+  text-align: right;
+  width: 140px;
+}
+
+.rr-gauges-table__lon {
+  text-align: right;
+  width: 140px;
+}
+
+.rr-gauges-table__lat {
   text-align: right;
   width: 140px;
 }
@@ -301,6 +350,11 @@
     flex: 1 1 0;
   }
 }
+.rr-gauges-table-data-download__button {
+  width: 2rem;
+  height: 2rem;
+}
+
 .rr-map__container {
   height: 80vh;
 }
@@ -383,4 +437,16 @@
 
 .rr-table__sort-button:focus, .rr-table__sort-button:active {
   outline: none;
+}
+
+.rr-display-columns__label {
+  cursor: pointer;
+}
+
+.rr-display-columns__label--disabled {
+  opacity: 0.5;
+}
+
+.rr-display-columns__item {
+  cursor: pointer;
 }
