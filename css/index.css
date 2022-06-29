@@ -165,6 +165,7 @@
 
 .rr-location-history-line__version {
   font-weight: bold;
+  flex-basis: 5rem;
 }
 
 .rr-location-history-line__changes {
@@ -219,6 +220,7 @@
 
 .rr-gauge-history-line__version {
   font-weight: bold;
+  flex-basis: 5rem;
 }
 
 .rr-gauge-history-line__changes {
