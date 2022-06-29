@@ -1,1 +1,1 @@
-{"version":"working","name":"HURLESTON","gauges":[{"name":"HURLESTON","ranges":[["1960/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HURLESTON"},"history":[{"version":"working","name":"HURLESTON","changes":["New"]}]}
+{"version":"working","name":"HURLESTON","gauges":[{"name":"HURLESTON","ranges":[["1960/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HURLESTON"},"history":[{"version":"working","location":"HURLESTON","changes":["New"]}]}

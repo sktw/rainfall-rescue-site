@@ -1,1 +1,1 @@
-{"version":"working","name":"SIPSON","gauges":[{"name":"SIPSON","ranges":[["1934/01","1946/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SIPSON"},"history":[{"version":"working","name":"SIPSON","changes":["New"]}]}
+{"version":"working","name":"SIPSON","gauges":[{"name":"SIPSON","ranges":[["1934/01","1946/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SIPSON"},"history":[{"version":"working","location":"SIPSON","changes":["New"]}]}

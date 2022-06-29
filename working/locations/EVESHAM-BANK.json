@@ -1,1 +1,1 @@
-{"version":"working","name":"EVESHAM-BANK","gauges":[{"name":"EVESHAM-BANK","ranges":[["1880/02","1892/10"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EVESHAM-BANK"},"history":[{"version":"working","name":"EVESHAM-BANK","changes":["New"]}]}
+{"version":"working","name":"EVESHAM-BANK","gauges":[{"name":"EVESHAM-BANK","ranges":[["1880/02","1892/10"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EVESHAM-BANK"},"history":[{"version":"working","location":"EVESHAM-BANK","changes":["New"]}]}

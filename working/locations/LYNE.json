@@ -1,1 +1,1 @@
-{"version":"working","name":"LYNE","gauges":[{"name":"LYNE","ranges":[["1867/01","1867/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LYNE"},"history":[{"version":"working","name":"LYNE","changes":["New"]}]}
+{"version":"working","name":"LYNE","gauges":[{"name":"LYNE","ranges":[["1867/01","1867/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LYNE"},"history":[{"version":"working","location":"LYNE","changes":["New"]}]}

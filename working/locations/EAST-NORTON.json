@@ -1,1 +1,1 @@
-{"version":"working","name":"EAST-NORTON","gauges":[{"name":"EAST-NORTON","ranges":[["1932/08","1949/04"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EAST-NORTON"},"history":[{"version":"working","name":"EAST-NORTON","changes":["New"]}]}
+{"version":"working","name":"EAST-NORTON","gauges":[{"name":"EAST-NORTON","ranges":[["1932/08","1949/04"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EAST-NORTON"},"history":[{"version":"working","location":"EAST-NORTON","changes":["New"]}]}

@@ -1,1 +1,1 @@
-{"version":"working","name":"ROOKHOPE","gauges":[{"name":"ROOKHOPE","ranges":[["1960/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ROOKHOPE"},"history":[{"version":"working","name":"ROOKHOPE","changes":["New"]}]}
+{"version":"working","name":"ROOKHOPE","gauges":[{"name":"ROOKHOPE","ranges":[["1960/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ROOKHOPE"},"history":[{"version":"working","location":"ROOKHOPE","changes":["New"]}]}

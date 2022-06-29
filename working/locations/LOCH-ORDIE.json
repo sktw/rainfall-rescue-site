@@ -1,1 +1,1 @@
-{"version":"working","name":"LOCH-ORDIE","gauges":[{"name":"LOCH-ORDIE","ranges":[["1959/04","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LOCH-ORDIE"},"history":[{"version":"working","name":"LOCH-ORDIE","changes":["New"]}]}
+{"version":"working","name":"LOCH-ORDIE","gauges":[{"name":"LOCH-ORDIE","ranges":[["1959/04","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LOCH-ORDIE"},"history":[{"version":"working","location":"LOCH-ORDIE","changes":["New"]}]}

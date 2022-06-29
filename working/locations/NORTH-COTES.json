@@ -1,1 +1,1 @@
-{"version":"working","name":"NORTH-COTES","gauges":[{"name":"NORTH-COTES","ranges":[["1952/07","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/NORTH-COTES"},"history":[{"version":"working","name":"NORTH-COTES","changes":["New"]}]}
+{"version":"working","name":"NORTH-COTES","gauges":[{"name":"NORTH-COTES","ranges":[["1952/07","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/NORTH-COTES"},"history":[{"version":"working","location":"NORTH-COTES","changes":["New"]}]}

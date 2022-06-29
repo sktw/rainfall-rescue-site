@@ -1,1 +1,1 @@
-{"version":"working","name":"NORTON-LOCK","gauges":[{"name":"NORTON-LOCK","ranges":[["1952/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/NORTON-LOCK"},"history":[{"version":"working","name":"NORTON-LOCK","changes":["New"]}]}
+{"version":"working","name":"NORTON-LOCK","gauges":[{"name":"NORTON-LOCK","ranges":[["1952/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/NORTON-LOCK"},"history":[{"version":"working","location":"NORTON-LOCK","changes":["New"]}]}

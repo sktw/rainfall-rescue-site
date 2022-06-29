@@ -1,1 +1,1 @@
-{"version":"working","name":"YARMOUTH","gauges":[{"name":"YARMOUTH","ranges":[["1802/01","1802/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/YARMOUTH"},"history":[{"version":"working","name":"YARMOUTH","changes":["New"]}]}
+{"version":"working","name":"YARMOUTH","gauges":[{"name":"YARMOUTH","ranges":[["1802/01","1802/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/YARMOUTH"},"history":[{"version":"working","location":"YARMOUTH","changes":["New"]}]}

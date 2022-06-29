@@ -1,1 +1,1 @@
-{"version":"working","name":"TEMPLE-CLOUD","gauges":[{"name":"TEMPLE-CLOUD","ranges":[["1905/01","1926/06"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TEMPLE-CLOUD"},"history":[{"version":"working","name":"TEMPLE-CLOUD","changes":["New"]}]}
+{"version":"working","name":"TEMPLE-CLOUD","gauges":[{"name":"TEMPLE-CLOUD","ranges":[["1905/01","1926/06"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TEMPLE-CLOUD"},"history":[{"version":"working","location":"TEMPLE-CLOUD","changes":["New"]}]}

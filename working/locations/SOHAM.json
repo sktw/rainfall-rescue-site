@@ -1,1 +1,1 @@
-{"version":"working","name":"SOHAM","gauges":[{"name":"SOHAM","ranges":[["1898/04","1915/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SOHAM"},"history":[{"version":"working","name":"SOHAM","changes":["New"]}]}
+{"version":"working","name":"SOHAM","gauges":[{"name":"SOHAM","ranges":[["1898/04","1915/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SOHAM"},"history":[{"version":"working","location":"SOHAM","changes":["New"]}]}

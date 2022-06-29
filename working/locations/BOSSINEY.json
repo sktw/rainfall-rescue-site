@@ -1,1 +1,1 @@
-{"version":"working","name":"BOSSINEY","gauges":[{"name":"BOSSINEY","ranges":[["1942/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BOSSINEY"},"history":[{"version":"working","name":"BOSSINEY","changes":["New"]}]}
+{"version":"working","name":"BOSSINEY","gauges":[{"name":"BOSSINEY","ranges":[["1942/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BOSSINEY"},"history":[{"version":"working","location":"BOSSINEY","changes":["New"]}]}

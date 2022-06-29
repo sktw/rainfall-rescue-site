@@ -1,1 +1,1 @@
-{"version":"working","name":"FROLESWORTH","gauges":[{"name":"FROLESWORTH","ranges":[["1929/02","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FROLESWORTH"},"history":[{"version":"working","name":"FROLESWORTH","changes":["New"]}]}
+{"version":"working","name":"FROLESWORTH","gauges":[{"name":"FROLESWORTH","ranges":[["1929/02","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FROLESWORTH"},"history":[{"version":"working","location":"FROLESWORTH","changes":["New"]}]}

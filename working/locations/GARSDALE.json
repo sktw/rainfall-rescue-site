@@ -1,1 +1,1 @@
-{"version":"working","name":"GARSDALE","gauges":[{"name":"GARSDALE","ranges":[["1777/01","1779/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GARSDALE"},"history":[{"version":"working","name":"GARSDALE","changes":["New"]}]}
+{"version":"working","name":"GARSDALE","gauges":[{"name":"GARSDALE","ranges":[["1777/01","1779/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GARSDALE"},"history":[{"version":"working","location":"GARSDALE","changes":["New"]}]}

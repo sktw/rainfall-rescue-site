@@ -1,1 +1,1 @@
-{"version":"working","name":"PEWSEY-OARE","gauges":[{"name":"PEWSEY-OARE","ranges":[["1939/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PEWSEY-OARE"},"history":[{"version":"working","name":"PEWSEY-OARE","changes":["New"]}]}
+{"version":"working","name":"PEWSEY-OARE","gauges":[{"name":"PEWSEY-OARE","ranges":[["1939/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PEWSEY-OARE"},"history":[{"version":"working","location":"PEWSEY-OARE","changes":["New"]}]}

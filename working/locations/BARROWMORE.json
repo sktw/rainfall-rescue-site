@@ -1,1 +1,1 @@
-{"version":"working","name":"BARROWMORE","gauges":[{"name":"BARROWMORE","ranges":[["1951/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BARROWMORE"},"history":[{"version":"working","name":"BARROWMORE","changes":["New"]}]}
+{"version":"working","name":"BARROWMORE","gauges":[{"name":"BARROWMORE","ranges":[["1951/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BARROWMORE"},"history":[{"version":"working","location":"BARROWMORE","changes":["New"]}]}

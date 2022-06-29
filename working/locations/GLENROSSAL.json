@@ -1,1 +1,1 @@
-{"version":"working","name":"GLENROSSAL","gauges":[{"name":"GLENROSSAL","ranges":[["1950/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLENROSSAL"},"history":[{"version":"working","name":"GLENROSSAL","changes":["New"]}]}
+{"version":"working","name":"GLENROSSAL","gauges":[{"name":"GLENROSSAL","ranges":[["1950/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLENROSSAL"},"history":[{"version":"working","location":"GLENROSSAL","changes":["New"]}]}

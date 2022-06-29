@@ -1,1 +1,1 @@
-{"version":"working","name":"KINETON","gauges":[{"name":"KINETON","ranges":[["1959/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KINETON"},"history":[{"version":"working","name":"KINETON","changes":["New"]}]}
+{"version":"working","name":"KINETON","gauges":[{"name":"KINETON","ranges":[["1959/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KINETON"},"history":[{"version":"working","location":"KINETON","changes":["New"]}]}

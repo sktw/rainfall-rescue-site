@@ -1,1 +1,1 @@
-{"version":"working","name":"LEIGHTON","gauges":[{"name":"LEIGHTON","ranges":[["1800/01","1805/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LEIGHTON"},"history":[{"version":"working","name":"LEIGHTON","changes":["New"]}]}
+{"version":"working","name":"LEIGHTON","gauges":[{"name":"LEIGHTON","ranges":[["1800/01","1805/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LEIGHTON"},"history":[{"version":"working","location":"LEIGHTON","changes":["New"]}]}

@@ -1,1 +1,1 @@
-{"version":"working","name":"ISLIP","gauges":[{"name":"ISLIP","ranges":[["1904/01","1921/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ISLIP"},"history":[{"version":"working","name":"ISLIP","changes":["New"]}]}
+{"version":"working","name":"ISLIP","gauges":[{"name":"ISLIP","ranges":[["1904/01","1921/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ISLIP"},"history":[{"version":"working","location":"ISLIP","changes":["New"]}]}

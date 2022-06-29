@@ -1,1 +1,1 @@
-{"version":"working","name":"FINEDON-HALL","gauges":[{"name":"FINEDON-HALL","ranges":[["1904/01","1912/09"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FINEDON-HALL"},"history":[{"version":"working","name":"FINEDON-HALL","changes":["New"]}]}
+{"version":"working","name":"FINEDON-HALL","gauges":[{"name":"FINEDON-HALL","ranges":[["1904/01","1912/09"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FINEDON-HALL"},"history":[{"version":"working","location":"FINEDON-HALL","changes":["New"]}]}

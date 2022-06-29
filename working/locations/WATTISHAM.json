@@ -1,1 +1,1 @@
-{"version":"working","name":"WATTISHAM","gauges":[{"name":"WATTISHAM","ranges":[["1959/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WATTISHAM"},"history":[{"version":"working","name":"WATTISHAM","changes":["New"]}]}
+{"version":"working","name":"WATTISHAM","gauges":[{"name":"WATTISHAM","ranges":[["1959/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WATTISHAM"},"history":[{"version":"working","location":"WATTISHAM","changes":["New"]}]}

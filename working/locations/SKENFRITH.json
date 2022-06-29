@@ -1,1 +1,1 @@
-{"version":"working","name":"SKENFRITH","gauges":[{"name":"SKENFRITH","ranges":[["1942/09","1960/07"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SKENFRITH"},"history":[{"version":"working","name":"SKENFRITH","changes":["New"]}]}
+{"version":"working","name":"SKENFRITH","gauges":[{"name":"SKENFRITH","ranges":[["1942/09","1960/07"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SKENFRITH"},"history":[{"version":"working","location":"SKENFRITH","changes":["New"]}]}

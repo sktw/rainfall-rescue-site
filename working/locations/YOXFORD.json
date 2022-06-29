@@ -1,1 +1,1 @@
-{"version":"working","name":"YOXFORD","gauges":[{"name":"YOXFORD","ranges":[["1871/01","1877/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/YOXFORD"},"history":[{"version":"working","name":"YOXFORD","changes":["New"]}]}
+{"version":"working","name":"YOXFORD","gauges":[{"name":"YOXFORD","ranges":[["1871/01","1877/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/YOXFORD"},"history":[{"version":"working","location":"YOXFORD","changes":["New"]}]}

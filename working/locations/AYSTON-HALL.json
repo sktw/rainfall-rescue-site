@@ -1,1 +1,1 @@
-{"version":"working","name":"AYSTON-HALL","gauges":[{"name":"AYSTON-HALL","ranges":[["1873/01","1884/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/AYSTON-HALL"},"history":[{"version":"working","name":"AYSTON-HALL","changes":["New"]}]}
+{"version":"working","name":"AYSTON-HALL","gauges":[{"name":"AYSTON-HALL","ranges":[["1873/01","1884/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/AYSTON-HALL"},"history":[{"version":"working","location":"AYSTON-HALL","changes":["New"]}]}

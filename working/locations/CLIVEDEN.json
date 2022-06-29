@@ -1,1 +1,1 @@
-{"version":"working","name":"CLIVEDEN","gauges":[{"name":"CLIVEDEN","ranges":[["1885/01","1888/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CLIVEDEN"},"history":[{"version":"working","name":"CLIVEDEN","changes":["New"]}]}
+{"version":"working","name":"CLIVEDEN","gauges":[{"name":"CLIVEDEN","ranges":[["1885/01","1888/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CLIVEDEN"},"history":[{"version":"working","location":"CLIVEDEN","changes":["New"]}]}

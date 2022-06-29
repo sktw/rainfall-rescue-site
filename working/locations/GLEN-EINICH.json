@@ -1,1 +1,1 @@
-{"version":"working","name":"GLEN-EINICH","gauges":[{"name":"GLEN-EINICH","ranges":[["1960/09","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLEN-EINICH"},"history":[{"version":"working","name":"GLEN-EINICH","changes":["New"]}]}
+{"version":"working","name":"GLEN-EINICH","gauges":[{"name":"GLEN-EINICH","ranges":[["1960/09","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLEN-EINICH"},"history":[{"version":"working","location":"GLEN-EINICH","changes":["New"]}]}

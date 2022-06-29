@@ -1,1 +1,1 @@
-{"version":"working","name":"HENLEY-HALL","gauges":[{"name":"HENLEY-HALL","ranges":[["1923/01","1945/08"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HENLEY-HALL"},"history":[{"version":"working","name":"HENLEY-HALL","changes":["New"]}]}
+{"version":"working","name":"HENLEY-HALL","gauges":[{"name":"HENLEY-HALL","ranges":[["1923/01","1945/08"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HENLEY-HALL"},"history":[{"version":"working","location":"HENLEY-HALL","changes":["New"]}]}

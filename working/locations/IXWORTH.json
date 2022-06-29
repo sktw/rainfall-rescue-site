@@ -1,1 +1,1 @@
-{"version":"working","name":"IXWORTH","gauges":[{"name":"IXWORTH","ranges":[["1866/01","1878/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/IXWORTH"},"history":[{"version":"working","name":"IXWORTH","changes":["New"]}]}
+{"version":"working","name":"IXWORTH","gauges":[{"name":"IXWORTH","ranges":[["1866/01","1878/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/IXWORTH"},"history":[{"version":"working","location":"IXWORTH","changes":["New"]}]}

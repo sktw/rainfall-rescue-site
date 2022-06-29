@@ -1,1 +1,1 @@
-{"version":"working","name":"DEDHAM","gauges":[{"name":"DEDHAM","ranges":[["1949/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DEDHAM"},"history":[{"version":"working","name":"DEDHAM","changes":["New"]}]}
+{"version":"working","name":"DEDHAM","gauges":[{"name":"DEDHAM","ranges":[["1949/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DEDHAM"},"history":[{"version":"working","location":"DEDHAM","changes":["New"]}]}

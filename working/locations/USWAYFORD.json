@@ -1,1 +1,1 @@
-{"version":"working","name":"USWAYFORD","gauges":[{"name":"USWAYFORD","ranges":[["1952/07","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/USWAYFORD"},"history":[{"version":"working","name":"USWAYFORD","changes":["New"]}]}
+{"version":"working","name":"USWAYFORD","gauges":[{"name":"USWAYFORD","ranges":[["1952/07","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/USWAYFORD"},"history":[{"version":"working","location":"USWAYFORD","changes":["New"]}]}

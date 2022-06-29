@@ -1,1 +1,1 @@
-{"version":"working","name":"WHITHORN","gauges":[{"name":"WHITHORN","ranges":[["1901/01","1917/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WHITHORN"},"history":[{"version":"working","name":"WHITHORN","changes":["New"]}]}
+{"version":"working","name":"WHITHORN","gauges":[{"name":"WHITHORN","ranges":[["1901/01","1917/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WHITHORN"},"history":[{"version":"working","location":"WHITHORN","changes":["New"]}]}

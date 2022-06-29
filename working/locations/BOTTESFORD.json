@@ -1,1 +1,1 @@
-{"version":"working","name":"BOTTESFORD","gauges":[{"name":"BOTTESFORD","ranges":[["1888/03","1894/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BOTTESFORD"},"history":[{"version":"working","name":"BOTTESFORD","changes":["New"]}]}
+{"version":"working","name":"BOTTESFORD","gauges":[{"name":"BOTTESFORD","ranges":[["1888/03","1894/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BOTTESFORD"},"history":[{"version":"working","location":"BOTTESFORD","changes":["New"]}]}

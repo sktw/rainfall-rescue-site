@@ -1,1 +1,1 @@
-{"version":"working","name":"PENSELWOOD","gauges":[{"name":"PENSELWOOD","ranges":[["1937/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PENSELWOOD"},"history":[{"version":"working","name":"PENSELWOOD","changes":["New"]}]}
+{"version":"working","name":"PENSELWOOD","gauges":[{"name":"PENSELWOOD","ranges":[["1937/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PENSELWOOD"},"history":[{"version":"working","location":"PENSELWOOD","changes":["New"]}]}

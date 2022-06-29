@@ -1,1 +1,1 @@
-{"version":"working","name":"LAIRG-DAM","gauges":[{"name":"LAIRG-DAM","ranges":[["1958/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LAIRG-DAM"},"history":[{"version":"working","name":"LAIRG-DAM","changes":["New"]}]}
+{"version":"working","name":"LAIRG-DAM","gauges":[{"name":"LAIRG-DAM","ranges":[["1958/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LAIRG-DAM"},"history":[{"version":"working","location":"LAIRG-DAM","changes":["New"]}]}

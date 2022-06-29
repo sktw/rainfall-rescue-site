@@ -1,1 +1,1 @@
-{"version":"working","name":"ILCHESTER","gauges":[{"name":"ILCHESTER","ranges":[["1863/01","1875/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ILCHESTER"},"history":[{"version":"working","name":"ILCHESTER","changes":["New"]}]}
+{"version":"working","name":"ILCHESTER","gauges":[{"name":"ILCHESTER","ranges":[["1863/01","1875/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ILCHESTER"},"history":[{"version":"working","location":"ILCHESTER","changes":["New"]}]}

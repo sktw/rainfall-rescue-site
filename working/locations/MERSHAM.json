@@ -1,1 +1,1 @@
-{"version":"working","name":"MERSHAM","gauges":[{"name":"MERSHAM","ranges":[["1957/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MERSHAM"},"history":[{"version":"working","name":"MERSHAM","changes":["New"]}]}
+{"version":"working","name":"MERSHAM","gauges":[{"name":"MERSHAM","ranges":[["1957/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MERSHAM"},"history":[{"version":"working","location":"MERSHAM","changes":["New"]}]}

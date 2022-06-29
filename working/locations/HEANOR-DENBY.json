@@ -1,1 +1,1 @@
-{"version":"working","name":"HEANOR-DENBY","gauges":[{"name":"HEANOR-DENBY","ranges":[["1933/11","1946/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HEANOR-DENBY"},"history":[{"version":"working","name":"HEANOR-DENBY","changes":["New"]}]}
+{"version":"working","name":"HEANOR-DENBY","gauges":[{"name":"HEANOR-DENBY","ranges":[["1933/11","1946/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HEANOR-DENBY"},"history":[{"version":"working","location":"HEANOR-DENBY","changes":["New"]}]}

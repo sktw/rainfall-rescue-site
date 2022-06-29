@@ -1,1 +1,1 @@
-{"version":"working","name":"MAGHULL","gauges":[{"name":"MAGHULL","ranges":[["1881/01","1889/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MAGHULL"},"history":[{"version":"working","name":"MAGHULL","changes":["New"]}]}
+{"version":"working","name":"MAGHULL","gauges":[{"name":"MAGHULL","ranges":[["1881/01","1889/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MAGHULL"},"history":[{"version":"working","location":"MAGHULL","changes":["New"]}]}

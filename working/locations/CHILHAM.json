@@ -1,1 +1,1 @@
-{"version":"working","name":"CHILHAM","gauges":[{"name":"CHILHAM","ranges":[["1874/01","1881/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHILHAM"},"history":[{"version":"working","name":"CHILHAM","changes":["New"]}]}
+{"version":"working","name":"CHILHAM","gauges":[{"name":"CHILHAM","ranges":[["1874/01","1881/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHILHAM"},"history":[{"version":"working","location":"CHILHAM","changes":["New"]}]}

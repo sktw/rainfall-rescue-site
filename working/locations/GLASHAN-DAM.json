@@ -1,1 +1,1 @@
-{"version":"working","name":"GLASHAN-DAM","gauges":[{"name":"GLASHAN-DAM","ranges":[["1960/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLASHAN-DAM"},"history":[{"version":"working","name":"GLASHAN-DAM","changes":["New"]}]}
+{"version":"working","name":"GLASHAN-DAM","gauges":[{"name":"GLASHAN-DAM","ranges":[["1960/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLASHAN-DAM"},"history":[{"version":"working","location":"GLASHAN-DAM","changes":["New"]}]}

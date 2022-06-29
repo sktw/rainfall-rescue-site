@@ -1,1 +1,1 @@
-{"version":"working","name":"SHOTTS-RES","gauges":[{"name":"SHOTTS-RES","ranges":[["1945/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SHOTTS-RES"},"history":[{"version":"working","name":"SHOTTS-RES","changes":["New"]}]}
+{"version":"working","name":"SHOTTS-RES","gauges":[{"name":"SHOTTS-RES","ranges":[["1945/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SHOTTS-RES"},"history":[{"version":"working","location":"SHOTTS-RES","changes":["New"]}]}

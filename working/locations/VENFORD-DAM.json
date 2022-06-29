@@ -1,1 +1,1 @@
-{"version":"working","name":"VENFORD-DAM","gauges":[{"name":"VENFORD-DAM","ranges":[["1927/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/VENFORD-DAM"},"history":[{"version":"working","name":"VENFORD-DAM","changes":["New"]}]}
+{"version":"working","name":"VENFORD-DAM","gauges":[{"name":"VENFORD-DAM","ranges":[["1927/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/VENFORD-DAM"},"history":[{"version":"working","location":"VENFORD-DAM","changes":["New"]}]}

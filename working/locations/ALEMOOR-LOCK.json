@@ -1,1 +1,1 @@
-{"version":"working","name":"ALEMOOR-LOCK","gauges":[{"name":"ALEMOOR-LOCK","ranges":[["1958/09","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ALEMOOR-LOCK"},"history":[{"version":"working","name":"ALEMOOR-LOCK","changes":["New"]}]}
+{"version":"working","name":"ALEMOOR-LOCK","gauges":[{"name":"ALEMOOR-LOCK","ranges":[["1958/09","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ALEMOOR-LOCK"},"history":[{"version":"working","location":"ALEMOOR-LOCK","changes":["New"]}]}

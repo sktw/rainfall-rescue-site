@@ -1,1 +1,1 @@
-{"version":"working","name":"HADLOW-PLACE","gauges":[{"name":"HADLOW-PLACE","ranges":[["1908/07","1920/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HADLOW-PLACE"},"history":[{"version":"working","name":"HADLOW-PLACE","changes":["New"]}]}
+{"version":"working","name":"HADLOW-PLACE","gauges":[{"name":"HADLOW-PLACE","ranges":[["1908/07","1920/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HADLOW-PLACE"},"history":[{"version":"working","location":"HADLOW-PLACE","changes":["New"]}]}

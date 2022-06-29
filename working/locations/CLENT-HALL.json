@@ -1,1 +1,1 @@
-{"version":"working","name":"CLENT-HALL","gauges":[{"name":"CLENT-HALL","ranges":[["1929/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CLENT-HALL"},"history":[{"version":"working","name":"CLENT-HALL","changes":["New"]}]}
+{"version":"working","name":"CLENT-HALL","gauges":[{"name":"CLENT-HALL","ranges":[["1929/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CLENT-HALL"},"history":[{"version":"working","location":"CLENT-HALL","changes":["New"]}]}

@@ -1,1 +1,1 @@
-{"version":"working","name":"FILEY-HR","gauges":[{"name":"FILEY-HR","ranges":[["1955/08","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FILEY-HR"},"history":[{"version":"working","name":"FILEY-HR","changes":["New"]}]}
+{"version":"working","name":"FILEY-HR","gauges":[{"name":"FILEY-HR","ranges":[["1955/08","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FILEY-HR"},"history":[{"version":"working","location":"FILEY-HR","changes":["New"]}]}

@@ -1,1 +1,1 @@
-{"version":"working","name":"KESTON-TOWER","gauges":[{"name":"KESTON-TOWER","ranges":[["1882/07","1897/04"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KESTON-TOWER"},"history":[{"version":"working","name":"KESTON-TOWER","changes":["New"]}]}
+{"version":"working","name":"KESTON-TOWER","gauges":[{"name":"KESTON-TOWER","ranges":[["1882/07","1897/04"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KESTON-TOWER"},"history":[{"version":"working","location":"KESTON-TOWER","changes":["New"]}]}

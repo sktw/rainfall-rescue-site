@@ -1,1 +1,1 @@
-{"version":"working","name":"MERE-DOWN","gauges":[{"name":"MERE-DOWN","ranges":[["1881/09","1899/02"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MERE-DOWN"},"history":[{"version":"working","name":"MERE-DOWN","changes":["New"]}]}
+{"version":"working","name":"MERE-DOWN","gauges":[{"name":"MERE-DOWN","ranges":[["1881/09","1899/02"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MERE-DOWN"},"history":[{"version":"working","location":"MERE-DOWN","changes":["New"]}]}

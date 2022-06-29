@@ -1,1 +1,1 @@
-{"version":"working","name":"SKYE-GRULA","gauges":[{"name":"SKYE-GRULA","ranges":[["1942/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SKYE-GRULA"},"history":[{"version":"working","name":"SKYE-GRULA","changes":["New"]}]}
+{"version":"working","name":"SKYE-GRULA","gauges":[{"name":"SKYE-GRULA","ranges":[["1942/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SKYE-GRULA"},"history":[{"version":"working","location":"SKYE-GRULA","changes":["New"]}]}

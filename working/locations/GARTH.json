@@ -1,1 +1,1 @@
-{"version":"working","name":"GARTH","gauges":[{"name":"GARTH","ranges":[["1937/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GARTH"},"history":[{"version":"working","name":"GARTH","changes":["New"]}]}
+{"version":"working","name":"GARTH","gauges":[{"name":"GARTH","ranges":[["1937/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GARTH"},"history":[{"version":"working","location":"GARTH","changes":["New"]}]}

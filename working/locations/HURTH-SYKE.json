@@ -1,1 +1,1 @@
-{"version":"working","name":"HURTH-SYKE","gauges":[{"name":"HURTH-SYKE","ranges":[["1875/11","1884/01"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HURTH-SYKE"},"history":[{"version":"working","name":"HURTH-SYKE","changes":["New"]}]}
+{"version":"working","name":"HURTH-SYKE","gauges":[{"name":"HURTH-SYKE","ranges":[["1875/11","1884/01"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HURTH-SYKE"},"history":[{"version":"working","location":"HURTH-SYKE","changes":["New"]}]}

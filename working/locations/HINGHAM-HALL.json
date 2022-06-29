@@ -1,1 +1,1 @@
-{"version":"working","name":"HINGHAM-HALL","gauges":[{"name":"HINGHAM-HALL","ranges":[["1909/01","1918/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HINGHAM-HALL"},"history":[{"version":"working","name":"HINGHAM-HALL","changes":["New"]}]}
+{"version":"working","name":"HINGHAM-HALL","gauges":[{"name":"HINGHAM-HALL","ranges":[["1909/01","1918/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HINGHAM-HALL"},"history":[{"version":"working","location":"HINGHAM-HALL","changes":["New"]}]}
