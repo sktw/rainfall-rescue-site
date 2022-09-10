@@ -1,0 +1,1 @@
+{"version":"working","name":"PORTHCAWL","gauges":[{"name":"PORTHCAWL","ranges":[["1904/03","1909/11"],["1910/01","1911/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PORTHCAWL"},"history":[{"version":"working","location":"PORTHCAWL","changes":["New"]}]}

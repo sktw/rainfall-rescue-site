@@ -1,0 +1,1 @@
+{"version":"working","name":"NORTHAM-FAIRLEA","gauges":[{"name":"NORTHAM-FAIRLEA","ranges":[["1910/04","1915/12"],["1917/01","1926/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NORTHAM-FAIRLEA"},"history":[{"version":"working","location":"NORTHAM-FAIRLEA","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"working","name":"OAKWOOD-RESERVOIR","gauges":[{"name":"OAKWOOD-RESERVOIR","ranges":[["1938/12","1940/04"]]},{"name":"OAKWOOD-RESERVOIR-2","ranges":[["1956/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/OAKWOOD-RESERVOIR"},"history":[{"version":"working","location":"OAKWOOD-RESERVOIR","changes":["New"]}]}

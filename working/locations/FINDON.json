@@ -1,0 +1,1 @@
+{"version":"working","name":"FINDON","gauges":[{"name":"FINDON","ranges":[["1864/01","1865/12"],["1872/01","1872/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/FINDON"},"history":[{"version":"working","location":"FINDON","changes":["New"]}]}

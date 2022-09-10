@@ -1,0 +1,1 @@
+{"version":"working","name":"EALING-GORDON-ROAD","gauges":[{"name":"EALING-GORDON-ROAD","ranges":[["1892/01","1911/12"]]},{"name":"EALING-GORDON-ROAD-2","ranges":[["1924/08","1928/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EALING-GORDON-ROAD"},"history":[{"version":"working","location":"EALING-GORDON-ROAD","changes":["New"]}]}

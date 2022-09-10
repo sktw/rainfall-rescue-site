@@ -1,0 +1,1 @@
+{"version":"working","name":"BEDDGELERT","gauges":[{"name":"BEDDGELERT","ranges":[["1842/06","1843/05"]]},{"name":"BEDDGELERT-2","ranges":[["1864/06","1868/04"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BEDDGELERT"},"history":[{"version":"working","location":"BEDDGELERT","changes":["New"]}]}

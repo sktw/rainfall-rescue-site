@@ -1,0 +1,1 @@
+{"version":"working","name":"NANTWICH-BEAM-BRIDGE","gauges":[{"name":"NANTWICH-BEAM-BRIDGE","ranges":[["1944/01","1957/12"],["1959/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NANTWICH-BEAM-BRIDGE"},"history":[{"version":"working","location":"NANTWICH-BEAM-BRIDGE","changes":["New"]}]}

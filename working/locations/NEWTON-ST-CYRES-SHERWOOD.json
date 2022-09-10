@@ -1,0 +1,1 @@
+{"version":"working","name":"NEWTON-ST-CYRES-SHERWOOD","gauges":[{"name":"NEWTON-ST-CYRES-SHERWOOD","ranges":[["1910/01","1915/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEWTON-ST-CYRES-SHERWOOD"},"history":[{"version":"working","location":"NEWTON-ST-CYRES-SHERWOOD","changes":["New"]}]}

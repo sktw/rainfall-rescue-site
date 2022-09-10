@@ -1,0 +1,1 @@
+{"version":"working","name":"RANSONMOOR-PUMPING-STATION","gauges":[{"name":"RANSONMOOR-PUMPING-STATION","ranges":[["1953/02","1960/03"],["1960/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RANSONMOOR-PUMPING-STATION"},"history":[{"version":"working","location":"RANSONMOOR-PUMPING-STATION","changes":["New"]}]}

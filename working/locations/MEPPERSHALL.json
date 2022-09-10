@@ -1,0 +1,1 @@
+{"version":"working","name":"MEPPERSHALL","gauges":[{"name":"MEPPERSHALL","ranges":[["1922/01","1928/03"],["1928/05","1928/06"],["1928/08","1934/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MEPPERSHALL"},"history":[{"version":"working","location":"MEPPERSHALL","changes":["New"]}]}

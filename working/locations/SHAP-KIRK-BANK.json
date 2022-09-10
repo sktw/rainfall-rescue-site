@@ -1,0 +1,1 @@
+{"version":"working","name":"SHAP-KIRK-BANK","gauges":[{"name":"SHAP-KIRK-BANK","ranges":[["1918/10","1926/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHAP-KIRK-BANK"},"history":[{"version":"working","location":"SHAP-KIRK-BANK","changes":["New"]}]}

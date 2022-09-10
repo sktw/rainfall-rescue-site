@@ -1,0 +1,1 @@
+{"version":"working","name":"CAMDEN-ROAD-NORTH","gauges":[{"name":"CAMDEN-ROAD-NORTH","ranges":[["1877/01","1891/12"]]},{"name":"CAMDEN-ROAD-NORTH-2","ranges":[["1879/01","1891/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CAMDEN-ROAD-NORTH"},"history":[{"version":"working","location":"CAMDEN-ROAD-NORTH","changes":["New"]}]}

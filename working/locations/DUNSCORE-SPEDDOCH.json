@@ -1,0 +1,1 @@
+{"version":"working","name":"DUNSCORE-SPEDDOCH","gauges":[{"name":"DUNSCORE-SPEDDOCH","ranges":[["1937/01","1939/12"],["1940/03","1940/07"],["1940/09","1943/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DUNSCORE-SPEDDOCH"},"history":[{"version":"working","location":"DUNSCORE-SPEDDOCH","changes":["New"]}]}

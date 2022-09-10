@@ -1,0 +1,1 @@
+{"version":"working","name":"HALIFAX-WW-COPPY","gauges":[{"name":"HALIFAX-WW-COPPY","ranges":[["1949/01","1951/12"],["1952/02","1956/03"],["1956/05","1957/12"],["1958/02","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HALIFAX-WW-COPPY"},"history":[{"version":"working","location":"HALIFAX-WW-COPPY","changes":["New"]}]}

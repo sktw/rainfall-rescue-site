@@ -1,0 +1,1 @@
+{"version":"working","name":"BUDE-BRAMBLE-HILL","gauges":[{"name":"BUDE-BRAMBLE-HILL","ranges":[["1914/01","1925/04"]]},{"name":"BUDE-BRAMBLE-HILL-2","ranges":[["1925/06","1928/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BUDE-BRAMBLE-HILL"},"history":[{"version":"working","location":"BUDE-BRAMBLE-HILL","changes":["New"]}]}

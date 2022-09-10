@@ -1,0 +1,1 @@
+{"version":"working","name":"BETTWS-GARMON","gauges":[{"name":"BETTWS-GARMON","ranges":[["1920/04","1926/12"]]},{"name":"BETTWS-GARMON-2","ranges":[["1920/01","1931/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BETTWS-GARMON"},"history":[{"version":"working","location":"BETTWS-GARMON","changes":["New"]}]}

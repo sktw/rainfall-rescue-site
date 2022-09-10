@@ -1,0 +1,1 @@
+{"version":"working","name":"DAVA-STATION","gauges":[{"name":"DAVA-STATION","ranges":[["1872/01","1880/12"]]},{"name":"DAVA-STATION-2","ranges":[["1958/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DAVA-STATION"},"history":[{"version":"working","location":"DAVA-STATION","changes":["New"]}]}

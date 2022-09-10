@@ -1,0 +1,1 @@
+{"version":"working","name":"TROWBRIDGE","gauges":[{"name":"TROWBRIDGE","ranges":[["1884/01","1884/09"],["1884/11","1889/08"]]},{"name":"TROWBRIDGE-2","ranges":[["1883/01","1883/11"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TROWBRIDGE"},"history":[{"version":"working","location":"TROWBRIDGE","changes":["New"]}]}

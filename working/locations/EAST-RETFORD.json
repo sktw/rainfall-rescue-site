@@ -1,0 +1,1 @@
+{"version":"working","name":"EAST-RETFORD","gauges":[{"name":"EAST-RETFORD","ranges":[["1860/01","1866/01"],["1866/03","1867/02"],["1867/04","1867/05"],["1867/07","1867/10"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EAST-RETFORD"},"history":[{"version":"working","location":"EAST-RETFORD","changes":["New"]}]}

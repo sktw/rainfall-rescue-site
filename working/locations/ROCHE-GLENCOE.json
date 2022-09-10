@@ -1,0 +1,1 @@
+{"version":"working","name":"ROCHE-GLENCOE","gauges":[{"name":"ROCHE-GLENCOE","ranges":[["1905/01","1916/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROCHE-GLENCOE"},"history":[{"version":"working","location":"ROCHE-GLENCOE","changes":["New"]}]}
