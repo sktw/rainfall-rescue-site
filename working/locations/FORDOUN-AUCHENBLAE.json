@@ -1,0 +1,1 @@
+{"version":"working","name":"FORDOUN-AUCHENBLAE","gauges":[{"name":"FORDOUN-AUCHENBLAE","ranges":[["1931/01","1943/12"]]},{"name":"FORDOUN-AUCHENBLAE-2","ranges":[["1944/04","1953/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/FORDOUN-AUCHENBLAE"},"history":[{"version":"working","location":"FORDOUN-AUCHENBLAE","changes":["New"]}]}

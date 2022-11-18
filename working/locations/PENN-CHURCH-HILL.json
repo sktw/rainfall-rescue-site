@@ -1,0 +1,1 @@
+{"version":"working","name":"PENN-CHURCH-HILL","gauges":[{"name":"PENN-CHURCH-HILL","ranges":[["1925/01","1931/08"]]},{"name":"PENN-CHURCH-HILL-2","ranges":[["1931/10","1933/06"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PENN-CHURCH-HILL"},"history":[{"version":"working","location":"PENN-CHURCH-HILL","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"working","name":"HALTON-CAMP","gauges":[{"name":"HALTON-CAMP","ranges":[["1936/01","1941/01"],["1941/03","1941/06"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HALTON-CAMP"},"history":[{"version":"working","location":"HALTON-CAMP","changes":["New"]}]}

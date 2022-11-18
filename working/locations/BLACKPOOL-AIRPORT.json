@@ -1,0 +1,1 @@
+{"version":"working","name":"BLACKPOOL-AIRPORT","gauges":[{"name":"BLACKPOOL-AIRPORT","ranges":[["1942/01","1945/09"],["1946/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BLACKPOOL-AIRPORT"},"history":[{"version":"working","location":"BLACKPOOL-AIRPORT","changes":["New"]}]}
