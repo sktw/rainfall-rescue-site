@@ -1,0 +1,1 @@
+{"version":"working","name":"NUTFIELD-ELSTREE","gauges":[{"name":"NUTFIELD-ELSTREE","ranges":[["1926/06","1930/12"]]},{"name":"NUTFIELD-ELSTREE-2","ranges":[["1929/11","1934/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NUTFIELD-ELSTREE"},"history":[{"version":"working","location":"NUTFIELD-ELSTREE","changes":["New"]}]}

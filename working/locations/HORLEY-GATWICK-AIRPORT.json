@@ -1,0 +1,1 @@
+{"version":"working","name":"HORLEY-GATWICK-AIRPORT","gauges":[{"name":"HORLEY-GATWICK-AIRPORT","ranges":[["1958/06","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORLEY-GATWICK-AIRPORT"},"history":[{"version":"working","location":"HORLEY-GATWICK-AIRPORT","changes":["New"]}]}

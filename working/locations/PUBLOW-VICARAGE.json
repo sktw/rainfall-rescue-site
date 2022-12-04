@@ -1,0 +1,1 @@
+{"version":"working","name":"PUBLOW-VICARAGE","gauges":[{"name":"PUBLOW-VICARAGE","ranges":[["1902/06","1907/12"]]},{"name":"PUBLOW-VICARAGE-2","ranges":[["1908/01","1911/07"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PUBLOW-VICARAGE"},"history":[{"version":"working","location":"PUBLOW-VICARAGE","changes":["New"]}]}

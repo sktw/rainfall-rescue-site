@@ -1,0 +1,1 @@
+{"version":"working","name":"TROON","gauges":[{"name":"TROON","ranges":[["1930/01","1946/08"],["1946/10","1946/10"],["1946/12","1947/01"],["1947/06","1947/06"],["1947/08","1947/09"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TROON"},"history":[{"version":"working","location":"TROON","changes":["New"]}]}

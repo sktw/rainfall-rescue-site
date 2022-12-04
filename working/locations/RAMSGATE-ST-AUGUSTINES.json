@@ -1,0 +1,1 @@
+{"version":"working","name":"RAMSGATE-ST-AUGUSTINES","gauges":[{"name":"RAMSGATE-ST-AUGUSTINES","ranges":[["1876/01","1880/06"],["1880/09","1881/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RAMSGATE-ST-AUGUSTINES"},"history":[{"version":"working","location":"RAMSGATE-ST-AUGUSTINES","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"working","name":"AXMINSTER-UPLYME","gauges":[{"name":"AXMINSTER-UPLYME","ranges":[["1930/01","1938/01"],["1938/05","1938/05"],["1938/07","1938/08"],["1938/12","1938/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/AXMINSTER-UPLYME"},"history":[{"version":"working","location":"AXMINSTER-UPLYME","changes":["New"]}]}

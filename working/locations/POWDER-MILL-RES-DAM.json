@@ -1,0 +1,1 @@
+{"version":"working","name":"POWDER-MILL-RES-DAM","gauges":[{"name":"POWDER-MILL-RES-DAM","ranges":[["1960/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/POWDER-MILL-RES-DAM"},"history":[{"version":"working","location":"POWDER-MILL-RES-DAM","changes":["New"]}]}

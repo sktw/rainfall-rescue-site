@@ -1,0 +1,1 @@
+{"version":"working","name":"SRON-MOR","gauges":[{"name":"SRON-MOR","ranges":[["1947/01","1952/12"],["1955/01","1957/12"],["1959/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SRON-MOR"},"history":[{"version":"working","location":"SRON-MOR","changes":["New"]}]}
