@@ -1,0 +1,1 @@
+{"version":"working","name":"WHALSAY-SALTNESS","gauges":[{"name":"WHALSAY-SALTNESS","ranges":[["1952/01","1957/05"]]},{"name":"WHALSAY-SALTNESS-2","ranges":[["1957/06","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WHALSAY-SALTNESS"},"history":[{"version":"working","location":"WHALSAY-SALTNESS","changes":["New"]}]}

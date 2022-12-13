@@ -1,0 +1,1 @@
+{"version":"working","name":"SHAP-HILLFIELD","gauges":[{"name":"SHAP-HILLFIELD","ranges":[["1896/01","1898/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHAP-HILLFIELD"},"history":[{"version":"working","location":"SHAP-HILLFIELD","changes":["New"]}]}

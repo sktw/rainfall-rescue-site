@@ -1,0 +1,1 @@
+{"version":"working","name":"WELLS-WESTBURY","gauges":[{"name":"WELLS-WESTBURY","ranges":[["1883/12","1887/04"]]},{"name":"WELLS-WESTBURY-2","ranges":[["1887/06","1891/04"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WELLS-WESTBURY"},"history":[{"version":"working","location":"WELLS-WESTBURY","changes":["New"]}]}

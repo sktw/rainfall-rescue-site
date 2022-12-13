@@ -1,0 +1,1 @@
+{"version":"working","name":"NASH","gauges":[{"name":"NASH","ranges":[["1954/08","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NASH"},"history":[{"version":"working","location":"NASH","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"working","name":"SUTTON-COLDFIELD","gauges":[{"name":"SUTTON-COLDFIELD","ranges":[["1890/01","1895/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SUTTON-COLDFIELD"},"history":[{"version":"working","location":"SUTTON-COLDFIELD","changes":["New"]}]}

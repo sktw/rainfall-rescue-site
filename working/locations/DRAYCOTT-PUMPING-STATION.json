@@ -1,0 +1,1 @@
+{"version":"working","name":"DRAYCOTT-PUMPING-STATION","gauges":[{"name":"DRAYCOTT-PUMPING-STATION","ranges":[["1960/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DRAYCOTT-PUMPING-STATION"},"history":[{"version":"working","location":"DRAYCOTT-PUMPING-STATION","changes":["New"]}]}

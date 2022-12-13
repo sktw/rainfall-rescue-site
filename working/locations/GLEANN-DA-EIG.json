@@ -1,0 +1,1 @@
+{"version":"working","name":"GLEANN-DA-EIG","gauges":[{"name":"GLEANN-DA-EIG","ranges":[["1955/01","1958/01"],["1958/09","1960/10"]]},{"name":"GLEANN-DA-EIG-2","ranges":[["1958/02","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLEANN-DA-EIG"},"history":[{"version":"working","location":"GLEANN-DA-EIG","changes":["New"]}]}

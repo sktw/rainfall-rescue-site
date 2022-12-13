@@ -1,0 +1,1 @@
+{"version":"working","name":"SETTLE-BROWN-HILL","gauges":[{"name":"SETTLE-BROWN-HILL","ranges":[["1959/01","1959/02"],["1959/04","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SETTLE-BROWN-HILL"},"history":[{"version":"working","location":"SETTLE-BROWN-HILL","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"working","name":"NORTHAM-LODGE","gauges":[{"name":"NORTHAM-LODGE","ranges":[["1950/01","1956/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NORTHAM-LODGE"},"history":[{"version":"working","location":"NORTHAM-LODGE","changes":["New"]}]}

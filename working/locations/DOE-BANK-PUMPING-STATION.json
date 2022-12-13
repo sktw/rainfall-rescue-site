@@ -1,0 +1,1 @@
+{"version":"working","name":"DOE-BANK-PUMPING-STATION","gauges":[{"name":"DOE-BANK-PUMPING-STATION","ranges":[["1959/06","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DOE-BANK-PUMPING-STATION"},"history":[{"version":"working","location":"DOE-BANK-PUMPING-STATION","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"working","name":"KESWICK-GRETA-BANK","gauges":[{"name":"KESWICK-GRETA-BANK","ranges":[["1864/01","1865/12"],["1867/01","1869/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KESWICK-GRETA-BANK"},"history":[{"version":"working","location":"KESWICK-GRETA-BANK","changes":["New"]}]}
