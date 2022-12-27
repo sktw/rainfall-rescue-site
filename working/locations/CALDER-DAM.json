@@ -1,0 +1,1 @@
+{"version":"working","name":"CALDER-DAM","gauges":[{"name":"CALDER-DAM","ranges":[["1952/05","1955/12"],["1956/03","1956/06"],["1956/09","1956/09"],["1957/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CALDER-DAM"},"history":[{"version":"working","location":"CALDER-DAM","changes":["New"]}]}

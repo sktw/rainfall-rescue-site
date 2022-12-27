@@ -1,1 +1,1 @@
-{"version":"working","name":"BACTON","gauges":[{"name":"BACTON","ranges":[["1900/01","1905/12"],["1911/01","1916/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BACTON"},"history":[{"version":"working","location":"BACTON","changes":["New"]}]}
+{"version":"working","name":"BACTON","gauges":[{"name":"BACTON","ranges":[["1893/10","1905/12"],["1911/01","1916/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BACTON"},"history":[{"version":"working","location":"BACTON","changes":["New"]}]}

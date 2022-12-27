@@ -1,0 +1,1 @@
+{"version":"working","name":"WEST-PORLOCK","gauges":[{"name":"WEST-PORLOCK","ranges":[["1932/01","1932/05"],["1933/01","1951/05"]]},{"name":"WEST-PORLOCK-2","ranges":[["1951/06","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEST-PORLOCK"},"history":[{"version":"working","location":"WEST-PORLOCK","changes":["New"]}]}
