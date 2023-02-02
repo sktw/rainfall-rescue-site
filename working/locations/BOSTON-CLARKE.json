@@ -1,1 +1,0 @@
-{"version":"working","name":"BOSTON-CLARKE","gauges":[{"name":"BOSTON-CLARKE","ranges":[["1906/01","1912/03"]]},{"name":"BOSTON-CLARKE-2","ranges":[["1912/04","1916/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BOSTON-CLARKE"},"history":[{"version":"working","location":"BOSTON-CLARKE","changes":["New"]}]}

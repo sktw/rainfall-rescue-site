@@ -1,1 +1,0 @@
-{"version":"working","name":"BROMLEY","gauges":[{"name":"BROMLEY","ranges":[["1927/01","1960/12"]]},{"name":"BROMLEY-2","ranges":[["1883/01","1883/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BROMLEY"},"history":[{"version":"working","location":"BROMLEY","changes":["New"]}]}

@@ -1,1 +1,0 @@
-{"version":"working","name":"EAST-BUDLEIGH","gauges":[{"name":"EAST-BUDLEIGH","ranges":[["1874/01","1874/12"],["1876/01","1890/12"],["1897/01","1904/12"],["1906/01","1906/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EAST-BUDLEIGH"},"history":[{"version":"working","location":"EAST-BUDLEIGH","changes":["New"]}]}

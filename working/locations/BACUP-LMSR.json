@@ -1,1 +1,0 @@
-{"version":"working","name":"BACUP-LMSR","gauges":[{"name":"BACUP-LMSR","ranges":[["1929/01","1952/12"],["1953/03","1953/10"],["1953/12","1954/09"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BACUP-LMSR"},"history":[{"version":"working","location":"BACUP-LMSR","changes":["New"]}]}

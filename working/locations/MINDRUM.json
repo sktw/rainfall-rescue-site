@@ -1,1 +1,0 @@
-{"version":"working","name":"MINDRUM","gauges":[{"name":"MINDRUM","ranges":[["1949/01","1959/12"]]},{"name":"MINDRUM-2","ranges":[["1959/04","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MINDRUM"},"history":[{"version":"working","location":"MINDRUM","changes":["New"]}]}

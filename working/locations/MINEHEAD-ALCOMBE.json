@@ -1,1 +1,0 @@
-{"version":"working","name":"MINEHEAD-ALCOMBE","gauges":[{"name":"MINEHEAD-ALCOMBE","ranges":[["1895/01","1900/08"]]},{"name":"MINEHEAD-ALCOMBE-2","ranges":[["1900/10","1906/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MINEHEAD-ALCOMBE"},"history":[{"version":"working","location":"MINEHEAD-ALCOMBE","changes":["New"]}]}

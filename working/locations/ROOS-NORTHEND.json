@@ -1,1 +1,0 @@
-{"version":"working","name":"ROOS-NORTHEND","gauges":[{"name":"ROOS-NORTHEND","ranges":[["1919/07","1919/12"],["1921/01","1924/12"],["1926/01","1926/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ROOS-NORTHEND"},"history":[{"version":"working","location":"ROOS-NORTHEND","changes":["New"]}]}

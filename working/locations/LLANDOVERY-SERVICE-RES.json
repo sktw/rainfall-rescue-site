@@ -1,1 +1,0 @@
-{"version":"working","name":"LLANDOVERY-SERVICE-RES","gauges":[{"name":"LLANDOVERY-SERVICE-RES","ranges":[["1953/01","1953/12"],["1956/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LLANDOVERY-SERVICE-RES"},"history":[{"version":"working","location":"LLANDOVERY-SERVICE-RES","changes":["New"]}]}

@@ -1,1 +1,0 @@
-{"version":"working","name":"BEINN-LEABHAIN","gauges":[{"name":"BEINN-LEABHAIN","ranges":[["1952/01","1960/12"]]},{"name":"BEINN-LEABHAIN-2","ranges":[["1959/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BEINN-LEABHAIN"},"history":[{"version":"working","location":"BEINN-LEABHAIN","changes":["New"]}]}

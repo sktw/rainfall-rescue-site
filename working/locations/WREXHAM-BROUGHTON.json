@@ -1,1 +1,0 @@
-{"version":"working","name":"WREXHAM-BROUGHTON","gauges":[{"name":"WREXHAM-BROUGHTON","ranges":[["1891/01","1893/02"]]},{"name":"WREXHAM-BROUGHTON-2","ranges":[["1893/04","1921/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WREXHAM-BROUGHTON"},"history":[{"version":"working","location":"WREXHAM-BROUGHTON","changes":["New"]}]}

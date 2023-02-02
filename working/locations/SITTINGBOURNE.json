@@ -1,1 +1,0 @@
-{"version":"working","name":"SITTINGBOURNE","gauges":[{"name":"SITTINGBOURNE","ranges":[["1870/01","1877/12"],["1879/01","1879/12"]]},{"name":"SITTINGBOURNE-2","ranges":[["1949/04","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SITTINGBOURNE"},"history":[{"version":"working","location":"SITTINGBOURNE","changes":["New"]}]}

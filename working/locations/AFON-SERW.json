@@ -1,1 +1,0 @@
-{"version":"working","name":"AFON-SERW","gauges":[{"name":"AFON-SERW","ranges":[["1945/01","1959/10"],["1959/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/AFON-SERW"},"history":[{"version":"working","location":"AFON-SERW","changes":["New"]}]}

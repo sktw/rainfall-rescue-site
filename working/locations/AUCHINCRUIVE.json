@@ -1,1 +1,0 @@
-{"version":"working","name":"AUCHINCRUIVE","gauges":[{"name":"AUCHINCRUIVE","ranges":[["1931/01","1944/08"]]},{"name":"AUCHINCRUIVE-2","ranges":[["1944/09","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/AUCHINCRUIVE"},"history":[{"version":"working","location":"AUCHINCRUIVE","changes":["New"]}]}

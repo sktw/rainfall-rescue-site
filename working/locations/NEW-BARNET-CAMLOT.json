@@ -1,1 +1,0 @@
-{"version":"working","name":"NEW-BARNET-CAMLOT","gauges":[{"name":"NEW-BARNET-CAMLOT","ranges":[["1895/01","1897/02"],["1897/05","1897/06"],["1897/09","1903/12"],["1911/01","1916/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEW-BARNET-CAMLOT"},"history":[{"version":"working","location":"NEW-BARNET-CAMLOT","changes":["New"]}]}

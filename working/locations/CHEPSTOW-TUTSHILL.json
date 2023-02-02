@@ -1,1 +1,0 @@
-{"version":"working","name":"CHEPSTOW-TUTSHILL","gauges":[{"name":"CHEPSTOW-TUTSHILL","ranges":[["1860/09","1873/12"]]},{"name":"CHEPSTOW-TUTSHILL-2","ranges":[["1894/01","1897/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHEPSTOW-TUTSHILL"},"history":[{"version":"working","location":"CHEPSTOW-TUTSHILL","changes":["New"]}]}

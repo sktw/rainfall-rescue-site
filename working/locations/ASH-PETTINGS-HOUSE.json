@@ -1,1 +1,0 @@
-{"version":"working","name":"ASH-PETTINGS-HOUSE","gauges":[{"name":"ASH-PETTINGS-HOUSE","ranges":[["1890/07","1894/12"]]},{"name":"ASH-PETTINGS-HOUSE-2","ranges":[["1893/01","1905/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ASH-PETTINGS-HOUSE"},"history":[{"version":"working","location":"ASH-PETTINGS-HOUSE","changes":["New"]}]}

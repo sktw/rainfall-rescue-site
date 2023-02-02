@@ -1,1 +1,0 @@
-{"version":"working","name":"HENFIELD-TOWNMEAD","gauges":[{"name":"HENFIELD-TOWNMEAD","ranges":[["1923/01","1934/10"]]},{"name":"HENFIELD-TOWNMEAD-2","ranges":[["1934/11","1956/06"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HENFIELD-TOWNMEAD"},"history":[{"version":"working","location":"HENFIELD-TOWNMEAD","changes":["New"]}]}

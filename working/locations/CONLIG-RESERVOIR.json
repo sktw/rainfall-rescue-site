@@ -1,1 +1,0 @@
-{"version":"working","name":"CONLIG-RESERVOIR","gauges":[{"name":"CONLIG-RESERVOIR","ranges":[["1949/01","1949/12"],["1951/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CONLIG-RESERVOIR"},"history":[{"version":"working","location":"CONLIG-RESERVOIR","changes":["New"]}]}

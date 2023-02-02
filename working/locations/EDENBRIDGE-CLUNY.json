@@ -1,1 +1,0 @@
-{"version":"working","name":"EDENBRIDGE-CLUNY","gauges":[{"name":"EDENBRIDGE-CLUNY","ranges":[["1907/09","1913/12"]]},{"name":"EDENBRIDGE-CLUNY-2","ranges":[["1913/01","1913/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EDENBRIDGE-CLUNY"},"history":[{"version":"working","location":"EDENBRIDGE-CLUNY","changes":["New"]}]}

@@ -1,1 +1,0 @@
-{"version":"working","name":"LLANFAELOG","gauges":[{"name":"LLANFAELOG","ranges":[["1920/01","1935/12"]]},{"name":"LLANFAELOG-2","ranges":[["1932/01","1935/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LLANFAELOG"},"history":[{"version":"working","location":"LLANFAELOG","changes":["New"]}]}

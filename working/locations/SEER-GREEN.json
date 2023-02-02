@@ -1,1 +1,0 @@
-{"version":"working","name":"SEER-GREEN","gauges":[{"name":"SEER-GREEN","ranges":[["1957/04","1957/12"],["1958/02","1958/03"],["1958/11","1958/11"],["1959/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SEER-GREEN"},"history":[{"version":"working","location":"SEER-GREEN","changes":["New"]}]}

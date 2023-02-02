@@ -1,1 +1,0 @@
-{"version":"working","name":"GRAVENEY-MARSHES","gauges":[{"name":"GRAVENEY-MARSHES","ranges":[["1928/01","1944/09"]]},{"name":"GRAVENEY-MARSHES-2","ranges":[["1933/01","1933/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GRAVENEY-MARSHES"},"history":[{"version":"working","location":"GRAVENEY-MARSHES","changes":["New"]}]}

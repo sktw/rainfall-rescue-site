@@ -1,1 +1,0 @@
-{"version":"working","name":"FINGLEN","gauges":[{"name":"FINGLEN","ranges":[["1954/01","1957/12"]]},{"name":"FINGLEN-2","ranges":[["1955/04","1960/12"]]},{"name":"FINGLEN-3","ranges":[["1958/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/FINGLEN"},"history":[{"version":"working","location":"FINGLEN","changes":["New"]}]}

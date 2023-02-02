@@ -1,1 +1,0 @@
-{"version":"working","name":"BIGNOR","gauges":[{"name":"BIGNOR","ranges":[["1930/01","1960/12"]]},{"name":"BIGNOR-2","ranges":[["1924/10","1930/06"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BIGNOR"},"history":[{"version":"working","location":"BIGNOR","changes":["New"]}]}

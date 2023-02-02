@@ -1,1 +1,0 @@
-{"version":"working","name":"UXBRIDGE-COWLEY","gauges":[{"name":"UXBRIDGE-COWLEY","ranges":[["1890/07","1908/01"]]},{"name":"UXBRIDGE-COWLEY-2","ranges":[["1953/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/UXBRIDGE-COWLEY"},"history":[{"version":"working","location":"UXBRIDGE-COWLEY","changes":["New"]}]}

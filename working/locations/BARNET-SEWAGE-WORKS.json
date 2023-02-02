@@ -1,1 +1,0 @@
-{"version":"working","name":"BARNET-SEWAGE-WORKS","gauges":[{"name":"BARNET-SEWAGE-WORKS","ranges":[["1929/01","1957/12"],["1959/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BARNET-SEWAGE-WORKS"},"history":[{"version":"working","location":"BARNET-SEWAGE-WORKS","changes":["New"]}]}

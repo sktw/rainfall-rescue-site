@@ -1,1 +1,0 @@
-{"version":"working","name":"MORDEN-HALL","gauges":[{"name":"MORDEN-HALL","ranges":[["1936/10","1945/09"]]},{"name":"MORDEN-HALL-2","ranges":[["1945/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MORDEN-HALL"},"history":[{"version":"working","location":"MORDEN-HALL","changes":["New"]}]}

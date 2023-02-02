@@ -1,1 +1,0 @@
-{"version":"working","name":"AMBLE","gauges":[{"name":"AMBLE","ranges":[["1937/01","1939/03"],["1939/06","1942/01"],["1942/03","1942/09"],["1942/11","1942/11"],["1945/01","1947/05"],["1947/09","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/AMBLE"},"history":[{"version":"working","location":"AMBLE","changes":["New"]}]}

@@ -1,1 +1,0 @@
-{"version":"working","name":"EASTBOURNE-COAST-GUARD-STN","gauges":[{"name":"EASTBOURNE-COAST-GUARD-STN","ranges":[["1942/03","1942/09"],["1952/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EASTBOURNE-COAST-GUARD-STN"},"history":[{"version":"working","location":"EASTBOURNE-COAST-GUARD-STN","changes":["New"]}]}

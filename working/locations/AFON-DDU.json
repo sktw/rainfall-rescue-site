@@ -1,1 +1,0 @@
-{"version":"working","name":"AFON-DDU","gauges":[{"name":"AFON-DDU","ranges":[["1945/01","1959/10"],["1959/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/AFON-DDU"},"history":[{"version":"working","location":"AFON-DDU","changes":["New"]}]}

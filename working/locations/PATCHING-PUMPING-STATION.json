@@ -1,1 +1,0 @@
-{"version":"working","name":"PATCHING-PUMPING-STATION","gauges":[{"name":"PATCHING-PUMPING-STATION","ranges":[["1952/01","1952/07"],["1952/09","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PATCHING-PUMPING-STATION"},"history":[{"version":"working","location":"PATCHING-PUMPING-STATION","changes":["New"]}]}

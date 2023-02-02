@@ -1,1 +1,0 @@
-{"version":"working","name":"LYMPNE-AIRPORT","gauges":[{"name":"LYMPNE-AIRPORT","ranges":[["1920/01","1931/12"]]},{"name":"LYMPNE-AIRPORT-2","ranges":[["1930/10","1954/10"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LYMPNE-AIRPORT"},"history":[{"version":"working","location":"LYMPNE-AIRPORT","changes":["New"]}]}

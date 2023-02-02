@@ -1,1 +1,0 @@
-{"version":"working","name":"SWANSEA-HARBOUR","gauges":[{"name":"SWANSEA-HARBOUR","ranges":[["1901/01","1901/02"],["1901/04","1901/04"],["1902/01","1910/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SWANSEA-HARBOUR"},"history":[{"version":"working","location":"SWANSEA-HARBOUR","changes":["New"]}]}

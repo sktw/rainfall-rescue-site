@@ -1,1 +1,0 @@
-{"version":"working","name":"LAIRG-CRASK","gauges":[{"name":"LAIRG-CRASK","ranges":[["1953/01","1958/06"],["1958/11","1959/01"]]},{"name":"LAIRG-CRASK-OVEREXPOSED","ranges":[["1946/11","1952/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LAIRG-CRASK"},"history":[{"version":"working","location":"LAIRG-CRASK","changes":["New"]}]}

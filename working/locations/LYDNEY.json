@@ -1,1 +1,0 @@
-{"version":"working","name":"LYDNEY","gauges":[{"name":"LYDNEY","ranges":[["1890/07","1894/12"]]},{"name":"LYDNEY-2","ranges":[["1907/01","1908/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LYDNEY"},"history":[{"version":"working","location":"LYDNEY","changes":["New"]}]}

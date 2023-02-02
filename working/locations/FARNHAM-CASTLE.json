@@ -1,1 +1,0 @@
-{"version":"working","name":"FARNHAM-CASTLE","gauges":[{"name":"FARNHAM-CASTLE","ranges":[["1892/01","1911/12"]]},{"name":"FARNHAM-CASTLE-2","ranges":[["1939/04","1958/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FARNHAM-CASTLE"},"history":[{"version":"working","location":"FARNHAM-CASTLE","changes":["New"]}]}

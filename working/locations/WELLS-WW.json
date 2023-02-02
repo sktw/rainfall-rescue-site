@@ -1,1 +1,0 @@
-{"version":"working","name":"WELLS-WW","gauges":[{"name":"WELLS-WW","ranges":[["1950/03","1953/01"],["1953/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WELLS-WW"},"history":[{"version":"working","location":"WELLS-WW","changes":["New"]}]}

@@ -1,1 +1,0 @@
-{"version":"working","name":"GLASGOW-LINN-PARK","gauges":[{"name":"GLASGOW-LINN-PARK","ranges":[["1924/01","1924/12"],["1926/01","1930/12"],["1932/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLASGOW-LINN-PARK"},"history":[{"version":"working","location":"GLASGOW-LINN-PARK","changes":["New"]}]}

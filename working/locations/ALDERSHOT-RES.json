@@ -1,1 +1,0 @@
-{"version":"working","name":"ALDERSHOT-RES","gauges":[{"name":"ALDERSHOT-RES","ranges":[["1925/10","1930/12"]]},{"name":"ALDERSHOT-RES-2","ranges":[["1931/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ALDERSHOT-RES"},"history":[{"version":"working","location":"ALDERSHOT-RES","changes":["New"]}]}

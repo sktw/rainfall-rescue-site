@@ -1,1 +1,0 @@
-{"version":"working","name":"TIREE-HYNISH-HOUSE","gauges":[{"name":"TIREE-HYNISH-HOUSE","ranges":[["1866/01","1874/12"]]},{"name":"TIREE-HYNISH-HOUSE-2","ranges":[["1927/11","1931/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TIREE-HYNISH-HOUSE"},"history":[{"version":"working","location":"TIREE-HYNISH-HOUSE","changes":["New"]}]}

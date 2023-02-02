@@ -1,1 +1,0 @@
-{"version":"working","name":"WEST-TOFTS","gauges":[{"name":"WEST-TOFTS","ranges":[["1866/05","1879/12"]]},{"name":"WEST-TOFTS-2","ranges":[["1960/01","1960/01"],["1960/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-TOFTS"},"history":[{"version":"working","location":"WEST-TOFTS","changes":["New"]}]}

@@ -1,1 +1,0 @@
-{"version":"working","name":"TADWORTH","gauges":[{"name":"TADWORTH","ranges":[["1924/01","1929/07"]]},{"name":"TADWORTH-2","ranges":[["1929/09","1931/12"],["1932/09","1951/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TADWORTH"},"history":[{"version":"working","location":"TADWORTH","changes":["New"]}]}
