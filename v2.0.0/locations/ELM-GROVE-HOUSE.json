@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ELM-GROVE-HOUSE","gauges":[{"name":"ELM-GROVE-HOUSE","ranges":[["1873/09","1874/12"]]},{"name":"ELM-GROVE-HOUSE-2","ranges":[["1899/04","1901/10"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ELM-GROVE-HOUSE"},"history":[{"version":"v2.0.0","location":"ELM-GROVE-HOUSE","changes":["New"]}]}

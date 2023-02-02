@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SAXMUNDHAM-AGRIC-DEM-PLOT","gauges":[{"name":"SAXMUNDHAM-AGRIC-DEM-PLOT","ranges":[["1933/01","1950/02"],["1950/05","1953/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SAXMUNDHAM-AGRIC-DEM-PLOT"},"history":[{"version":"v2.0.0","location":"SAXMUNDHAM-AGRIC-DEM-PLOT","changes":["New"]}]}

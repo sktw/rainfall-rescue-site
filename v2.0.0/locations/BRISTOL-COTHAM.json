@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BRISTOL-COTHAM","gauges":[{"name":"BRISTOL-COTHAM","ranges":[["1920/01","1926/02"]]},{"name":"BRISTOL-COTHAM-2","ranges":[["1926/04","1930/11"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BRISTOL-COTHAM"},"history":[{"version":"v2.0.0","location":"BRISTOL-COTHAM","changes":["New"]}]}

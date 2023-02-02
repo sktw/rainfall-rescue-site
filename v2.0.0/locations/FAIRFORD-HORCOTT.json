@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"FAIRFORD-HORCOTT","gauges":[{"name":"FAIRFORD-HORCOTT","ranges":[["1889/11","1903/12"],["1904/05","1904/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/FAIRFORD-HORCOTT"},"history":[{"version":"v2.0.0","location":"FAIRFORD-HORCOTT","changes":["New"]}]}

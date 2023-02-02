@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"TANWORTH-IN-ARDEN","gauges":[{"name":"TANWORTH-IN-ARDEN","ranges":[["1909/04","1916/12"],["1921/01","1923/02"],["1923/04","1927/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/TANWORTH-IN-ARDEN"},"history":[{"version":"v2.0.0","location":"TANWORTH-IN-ARDEN","changes":["New"]}]}

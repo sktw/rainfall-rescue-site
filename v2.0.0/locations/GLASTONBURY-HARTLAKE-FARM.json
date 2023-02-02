@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"GLASTONBURY-HARTLAKE-FARM","gauges":[{"name":"GLASTONBURY-HARTLAKE-FARM","ranges":[["1952/10","1954/05"],["1954/07","1957/11"],["1958/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/GLASTONBURY-HARTLAKE-FARM"},"history":[{"version":"v2.0.0","location":"GLASTONBURY-HARTLAKE-FARM","changes":["New"]}]}

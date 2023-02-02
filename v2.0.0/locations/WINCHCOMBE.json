@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WINCHCOMBE","gauges":[{"name":"WINCHCOMBE","ranges":[["1899/01","1918/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WINCHCOMBE"},"history":[{"version":"v2.0.0","location":"WINCHCOMBE","changes":["New"]}]}

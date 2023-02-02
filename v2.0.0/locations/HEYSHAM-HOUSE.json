@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HEYSHAM-HOUSE","gauges":[{"name":"HEYSHAM-HOUSE","ranges":[["1893/01","1895/01"],["1895/04","1918/12"]]},{"name":"HEYSHAM-HOUSE-2","ranges":[["1892/01","1898/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HEYSHAM-HOUSE"},"history":[{"version":"v2.0.0","location":"HEYSHAM-HOUSE","changes":["New"]}]}

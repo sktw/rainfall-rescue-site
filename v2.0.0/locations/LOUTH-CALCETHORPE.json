@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LOUTH-CALCETHORPE","gauges":[{"name":"LOUTH-CALCETHORPE","ranges":[["1871/01","1876/12"]]},{"name":"LOUTH-CALCETHORPE-2","ranges":[["1873/06","1880/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LOUTH-CALCETHORPE"},"history":[{"version":"v2.0.0","location":"LOUTH-CALCETHORPE","changes":["New"]}]}

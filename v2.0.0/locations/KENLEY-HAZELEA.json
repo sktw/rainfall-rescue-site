@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"KENLEY-HAZELEA","gauges":[{"name":"KENLEY-HAZELEA","ranges":[["1894/03","1896/10"],["1897/01","1903/12"]]},{"name":"KENLEY-HAZELEA-2","ranges":[["1904/01","1912/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/KENLEY-HAZELEA"},"history":[{"version":"v2.0.0","location":"KENLEY-HAZELEA","changes":["New"]}]}

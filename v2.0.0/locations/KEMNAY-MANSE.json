@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"KEMNAY-MANSE","gauges":[{"name":"KEMNAY-MANSE","ranges":[["1864/01","1876/12"]]},{"name":"KEMNAY-MANSE-2","ranges":[["1864/01","1876/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/KEMNAY-MANSE"},"history":[{"version":"v2.0.0","location":"KEMNAY-MANSE","changes":["New"]}]}

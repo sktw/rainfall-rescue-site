@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SUTTON-CAMBORNE-ROAD","gauges":[{"name":"SUTTON-CAMBORNE-ROAD","ranges":[["1909/01","1932/05"],["1932/07","1932/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SUTTON-CAMBORNE-ROAD"},"history":[{"version":"v2.0.0","location":"SUTTON-CAMBORNE-ROAD","changes":["New"]}]}

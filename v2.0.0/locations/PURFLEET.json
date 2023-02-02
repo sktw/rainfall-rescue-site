@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"PURFLEET","gauges":[{"name":"PURFLEET","ranges":[["1935/12","1954/09"]]},{"name":"PURFLEET-2","ranges":[["1931/08","1932/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/PURFLEET"},"history":[{"version":"v2.0.0","location":"PURFLEET","changes":["New"]}]}

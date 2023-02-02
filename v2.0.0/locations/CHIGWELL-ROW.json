@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CHIGWELL-ROW","gauges":[{"name":"CHIGWELL-ROW","ranges":[["1877/01","1880/07"],["1880/09","1881/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CHIGWELL-ROW"},"history":[{"version":"v2.0.0","location":"CHIGWELL-ROW","changes":["New"]}]}

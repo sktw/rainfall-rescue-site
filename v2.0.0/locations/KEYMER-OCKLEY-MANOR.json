@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"KEYMER-OCKLEY-MANOR","gauges":[{"name":"KEYMER-OCKLEY-MANOR","ranges":[["1892/01","1896/01"],["1896/03","1897/07"],["1897/09","1909/12"],["1913/01","1915/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/KEYMER-OCKLEY-MANOR"},"history":[{"version":"v2.0.0","location":"KEYMER-OCKLEY-MANOR","changes":["New"]}]}

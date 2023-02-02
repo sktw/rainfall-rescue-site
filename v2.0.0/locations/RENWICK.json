@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"RENWICK","gauges":[{"name":"RENWICK","ranges":[["1912/01","1916/12"],["1918/01","1933/12"],["1946/06","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/RENWICK"},"history":[{"version":"v2.0.0","location":"RENWICK","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"TORSIDE-CLOUGH-EDGE","gauges":[{"name":"TORSIDE-CLOUGH-EDGE","ranges":[["1934/01","1949/07"],["1949/09","1950/08"],["1950/11","1959/03"],["1959/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/TORSIDE-CLOUGH-EDGE"},"history":[{"version":"v2.0.0","location":"TORSIDE-CLOUGH-EDGE","changes":["New"]}]}

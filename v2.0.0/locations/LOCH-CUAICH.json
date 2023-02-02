@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LOCH-CUAICH","gauges":[{"name":"LOCH-CUAICH","ranges":[["1938/01","1949/04"],["1949/07","1949/11"],["1950/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LOCH-CUAICH"},"history":[{"version":"v2.0.0","location":"LOCH-CUAICH","changes":["New"]}]}

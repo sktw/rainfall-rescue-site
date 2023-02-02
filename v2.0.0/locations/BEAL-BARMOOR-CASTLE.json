@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BEAL-BARMOOR-CASTLE","gauges":[{"name":"BEAL-BARMOOR-CASTLE","ranges":[["1899/02","1912/12"]]},{"name":"BEAL-BARMOOR-CASTLE-2","ranges":[["1898/01","1898/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BEAL-BARMOOR-CASTLE"},"history":[{"version":"v2.0.0","location":"BEAL-BARMOOR-CASTLE","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BIRMINGHAM-MOSELEY","gauges":[{"name":"BIRMINGHAM-MOSELEY","ranges":[["1863/01","1875/12"],["1881/01","1882/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BIRMINGHAM-MOSELEY"},"history":[{"version":"v2.0.0","location":"BIRMINGHAM-MOSELEY","changes":["New"]}]}

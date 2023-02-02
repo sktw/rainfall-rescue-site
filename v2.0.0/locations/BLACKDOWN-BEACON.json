@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BLACKDOWN-BEACON","gauges":[{"name":"BLACKDOWN-BEACON","ranges":[["1952/08","1953/03"],["1953/08","1953/08"],["1953/10","1953/10"],["1953/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BLACKDOWN-BEACON"},"history":[{"version":"v2.0.0","location":"BLACKDOWN-BEACON","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BRIXHAM","gauges":[{"name":"BRIXHAM","ranges":[["1933/01","1948/12"]]},{"name":"BRIXHAM-2","ranges":[["1949/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BRIXHAM"},"history":[{"version":"v2.0.0","location":"BRIXHAM","changes":["New"]}]}

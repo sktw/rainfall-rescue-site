@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BURNHAM-MARKET","gauges":[{"name":"BURNHAM-MARKET","ranges":[["1924/01","1926/12"],["1938/01","1938/12"],["1943/01","1953/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BURNHAM-MARKET"},"history":[{"version":"v2.0.0","location":"BURNHAM-MARKET","changes":["New"]}]}

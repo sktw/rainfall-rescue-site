@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LAIRIG-ARNAN","gauges":[{"name":"LAIRIG-ARNAN","ranges":[["1948/01","1959/07"]]},{"name":"LAIRIG-ARNAN-2","ranges":[["1957/10","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LAIRIG-ARNAN"},"history":[{"version":"v2.0.0","location":"LAIRIG-ARNAN","changes":["New"]}]}

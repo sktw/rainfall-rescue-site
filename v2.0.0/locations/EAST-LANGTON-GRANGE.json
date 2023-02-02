@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"EAST-LANGTON-GRANGE","gauges":[{"name":"EAST-LANGTON-GRANGE","ranges":[["1906/01","1918/12"],["1919/03","1924/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/EAST-LANGTON-GRANGE"},"history":[{"version":"v2.0.0","location":"EAST-LANGTON-GRANGE","changes":["New"]}]}

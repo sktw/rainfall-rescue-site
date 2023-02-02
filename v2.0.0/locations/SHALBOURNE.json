@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SHALBOURNE","gauges":[{"name":"SHALBOURNE","ranges":[["1881/05","1911/12"]]},{"name":"SHALBOURNE-2","ranges":[["1912/03","1914/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SHALBOURNE"},"history":[{"version":"v2.0.0","location":"SHALBOURNE","changes":["New"]}]}

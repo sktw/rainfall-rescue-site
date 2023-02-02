@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LANGSETT-RES","gauges":[{"name":"LANGSETT-RES","ranges":[["1948/06","1951/12"],["1952/02","1953/01"],["1953/03","1954/12"],["1955/02","1958/12"],["1959/02","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LANGSETT-RES"},"history":[{"version":"v2.0.0","location":"LANGSETT-RES","changes":["New"]}]}

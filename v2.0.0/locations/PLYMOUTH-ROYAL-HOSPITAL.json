@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"PLYMOUTH-ROYAL-HOSPITAL","gauges":[{"name":"PLYMOUTH-ROYAL-HOSPITAL","ranges":[["1766/01","1768/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/PLYMOUTH-ROYAL-HOSPITAL"},"history":[{"version":"v2.0.0","location":"PLYMOUTH-ROYAL-HOSPITAL","changes":["New"]}]}

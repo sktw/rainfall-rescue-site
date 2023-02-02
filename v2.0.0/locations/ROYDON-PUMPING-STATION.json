@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ROYDON-PUMPING-STATION","gauges":[{"name":"ROYDON-PUMPING-STATION","ranges":[["1945/08","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ROYDON-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"ROYDON-PUMPING-STATION","changes":["New"]}]}

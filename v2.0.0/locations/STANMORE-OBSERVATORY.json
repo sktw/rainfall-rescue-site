@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"STANMORE-OBSERVATORY","gauges":[{"name":"STANMORE-OBSERVATORY","ranges":[["1890/01","1898/05"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/STANMORE-OBSERVATORY"},"history":[{"version":"v2.0.0","location":"STANMORE-OBSERVATORY","changes":["New"]}]}

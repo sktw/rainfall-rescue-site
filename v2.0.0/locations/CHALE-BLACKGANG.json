@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CHALE-BLACKGANG","gauges":[{"name":"CHALE-BLACKGANG","ranges":[["1917/01","1922/12"]]},{"name":"CHALE-BLACKGANG-2","ranges":[["1926/09","1930/02"],["1930/04","1938/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CHALE-BLACKGANG"},"history":[{"version":"v2.0.0","location":"CHALE-BLACKGANG","changes":["New"]}]}

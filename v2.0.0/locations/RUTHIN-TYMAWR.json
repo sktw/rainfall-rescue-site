@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"RUTHIN-TYMAWR","gauges":[{"name":"RUTHIN-TYMAWR","ranges":[["1908/01","1921/12"],["1923/01","1923/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/RUTHIN-TYMAWR"},"history":[{"version":"v2.0.0","location":"RUTHIN-TYMAWR","changes":["New"]}]}

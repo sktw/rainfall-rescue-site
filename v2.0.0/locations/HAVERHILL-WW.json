@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HAVERHILL-WW","gauges":[{"name":"HAVERHILL-WW","ranges":[["1940/01","1957/04"],["1957/06","1957/07"],["1957/09","1957/10"],["1957/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HAVERHILL-WW"},"history":[{"version":"v2.0.0","location":"HAVERHILL-WW","changes":["New"]}]}

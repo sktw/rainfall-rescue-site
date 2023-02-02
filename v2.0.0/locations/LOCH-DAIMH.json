@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LOCH-DAIMH","gauges":[{"name":"LOCH-DAIMH","ranges":[["1955/01","1958/10"]]},{"name":"LOCH-DAIMH-2","ranges":[["1957/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LOCH-DAIMH"},"history":[{"version":"v2.0.0","location":"LOCH-DAIMH","changes":["New"]}]}

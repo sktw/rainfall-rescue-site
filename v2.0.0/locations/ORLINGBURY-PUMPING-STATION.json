@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ORLINGBURY-PUMPING-STATION","gauges":[{"name":"ORLINGBURY-PUMPING-STATION","ranges":[["1935/01","1940/09"],["1940/11","1957/05"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ORLINGBURY-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"ORLINGBURY-PUMPING-STATION","changes":["New"]}]}

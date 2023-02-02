@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"NORTHOLT-AIRPORT","gauges":[{"name":"NORTHOLT-AIRPORT","ranges":[["1948/01","1954/10"]]},{"name":"NORTHOLT-AIRPORT-2","ranges":[["1954/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/NORTHOLT-AIRPORT"},"history":[{"version":"v2.0.0","location":"NORTHOLT-AIRPORT","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"AVENING-HOUSE","gauges":[{"name":"AVENING-HOUSE","ranges":[["1907/10","1915/04"],["1915/06","1919/01"],["1919/03","1922/12"],["1923/02","1937/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/AVENING-HOUSE"},"history":[{"version":"v2.0.0","location":"AVENING-HOUSE","changes":["New"]}]}

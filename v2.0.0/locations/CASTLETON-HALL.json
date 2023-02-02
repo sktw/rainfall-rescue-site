@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CASTLETON-HALL","gauges":[{"name":"CASTLETON-HALL","ranges":[["1870/10","1871/08"],["1871/11","1877/09"],["1877/12","1885/06"],["1885/08","1885/08"],["1885/11","1885/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CASTLETON-HALL"},"history":[{"version":"v2.0.0","location":"CASTLETON-HALL","changes":["New"]}]}

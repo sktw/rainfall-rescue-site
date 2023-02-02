@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BATCHWORTH-PUMPING-STATION","gauges":[{"name":"BATCHWORTH-PUMPING-STATION","ranges":[["1931/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BATCHWORTH-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"BATCHWORTH-PUMPING-STATION","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MANORBIER-VICARAGE","gauges":[{"name":"MANORBIER-VICARAGE","ranges":[["1888/03","1891/10"]]},{"name":"MANORBIER-VICARAGE-2","ranges":[["1925/01","1929/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MANORBIER-VICARAGE"},"history":[{"version":"v2.0.0","location":"MANORBIER-VICARAGE","changes":["New"]}]}

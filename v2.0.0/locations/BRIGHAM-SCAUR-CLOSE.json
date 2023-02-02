@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BRIGHAM-SCAUR-CLOSE","gauges":[{"name":"BRIGHAM-SCAUR-CLOSE","ranges":[["1883/01","1888/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BRIGHAM-SCAUR-CLOSE"},"history":[{"version":"v2.0.0","location":"BRIGHAM-SCAUR-CLOSE","changes":["New"]}]}

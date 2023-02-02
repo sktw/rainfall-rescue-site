@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HOLLESLEY-MANOR","gauges":[{"name":"HOLLESLEY-MANOR","ranges":[["1908/01","1915/06"]]},{"name":"HOLLESLEY-MANOR-2","ranges":[["1915/07","1915/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HOLLESLEY-MANOR"},"history":[{"version":"v2.0.0","location":"HOLLESLEY-MANOR","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"STROUD-RUSCOMBE","gauges":[{"name":"STROUD-RUSCOMBE","ranges":[["1946/06","1949/12"],["1951/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/STROUD-RUSCOMBE"},"history":[{"version":"v2.0.0","location":"STROUD-RUSCOMBE","changes":["New"]}]}

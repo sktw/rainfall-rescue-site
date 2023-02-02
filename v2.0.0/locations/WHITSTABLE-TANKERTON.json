@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WHITSTABLE-TANKERTON","gauges":[{"name":"WHITSTABLE-TANKERTON","ranges":[["1906/06","1906/10"],["1906/12","1915/04"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WHITSTABLE-TANKERTON"},"history":[{"version":"v2.0.0","location":"WHITSTABLE-TANKERTON","changes":["New"]}]}

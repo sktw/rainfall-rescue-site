@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BRUAR-INTAKE","gauges":[{"name":"BRUAR-INTAKE","ranges":[["1957/04","1957/07"],["1957/10","1958/12"],["1959/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BRUAR-INTAKE"},"history":[{"version":"v2.0.0","location":"BRUAR-INTAKE","changes":["New"]}]}

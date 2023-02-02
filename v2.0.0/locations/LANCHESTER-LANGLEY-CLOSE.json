@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LANCHESTER-LANGLEY-CLOSE","gauges":[{"name":"LANCHESTER-LANGLEY-CLOSE","ranges":[["1942/01","1948/05"],["1948/08","1956/08"],["1959/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LANCHESTER-LANGLEY-CLOSE"},"history":[{"version":"v2.0.0","location":"LANCHESTER-LANGLEY-CLOSE","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"PERTH-PITCULLEN-HOUSE","gauges":[{"name":"PERTH-PITCULLEN-HOUSE","ranges":[["1900/01","1908/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/PERTH-PITCULLEN-HOUSE"},"history":[{"version":"v2.0.0","location":"PERTH-PITCULLEN-HOUSE","changes":["New"]}]}

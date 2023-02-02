@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DISS-EARLY","gauges":[{"name":"DISS-EARLY","ranges":[["1802/01","1802/12"],["1806/01","1807/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DISS-EARLY"},"history":[{"version":"v2.0.0","location":"DISS-EARLY","changes":["New"]}]}

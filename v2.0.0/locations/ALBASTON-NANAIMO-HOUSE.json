@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ALBASTON-NANAIMO-HOUSE","gauges":[{"name":"ALBASTON-NANAIMO-HOUSE","ranges":[["1913/04","1921/12"],["1922/02","1922/03"],["1922/05","1929/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ALBASTON-NANAIMO-HOUSE"},"history":[{"version":"v2.0.0","location":"ALBASTON-NANAIMO-HOUSE","changes":["New"]}]}

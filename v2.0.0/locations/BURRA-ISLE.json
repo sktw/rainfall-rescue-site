@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BURRA-ISLE","gauges":[{"name":"BURRA-ISLE","ranges":[["1951/08","1956/07"],["1956/09","1956/11"],["1957/01","1959/03"],["1959/06","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BURRA-ISLE"},"history":[{"version":"v2.0.0","location":"BURRA-ISLE","changes":["New"]}]}

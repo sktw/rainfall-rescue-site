@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MELTON-MOWBRAY","gauges":[{"name":"MELTON-MOWBRAY","ranges":[["1861/09","1865/05"]]},{"name":"MELTON-MOWBRAY-2","ranges":[["1913/01","1925/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MELTON-MOWBRAY"},"history":[{"version":"v2.0.0","location":"MELTON-MOWBRAY","changes":["New"]}]}

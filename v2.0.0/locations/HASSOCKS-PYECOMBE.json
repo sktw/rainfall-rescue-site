@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HASSOCKS-PYECOMBE","gauges":[{"name":"HASSOCKS-PYECOMBE","ranges":[["1899/03","1907/07"],["1907/10","1914/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HASSOCKS-PYECOMBE"},"history":[{"version":"v2.0.0","location":"HASSOCKS-PYECOMBE","changes":["New"]}]}

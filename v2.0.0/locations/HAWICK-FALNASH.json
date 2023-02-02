@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HAWICK-FALNASH","gauges":[{"name":"HAWICK-FALNASH","ranges":[["1862/01","1864/10"],["1864/12","1866/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HAWICK-FALNASH"},"history":[{"version":"v2.0.0","location":"HAWICK-FALNASH","changes":["New"]}]}

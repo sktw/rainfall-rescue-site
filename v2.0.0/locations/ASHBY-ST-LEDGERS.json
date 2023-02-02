@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ASHBY-ST-LEDGERS","gauges":[{"name":"ASHBY-ST-LEDGERS","ranges":[["1917/01","1918/12"],["1920/01","1922/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ASHBY-ST-LEDGERS"},"history":[{"version":"v2.0.0","location":"ASHBY-ST-LEDGERS","changes":["New"]}]}

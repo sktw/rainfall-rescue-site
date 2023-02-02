@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"TILFORD-BROWNHOLM","gauges":[{"name":"TILFORD-BROWNHOLM","ranges":[["1932/05","1937/12"]]},{"name":"TILFORD-BROWNHOLM-2","ranges":[["1937/12","1948/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/TILFORD-BROWNHOLM"},"history":[{"version":"v2.0.0","location":"TILFORD-BROWNHOLM","changes":["New"]}]}

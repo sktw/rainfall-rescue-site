@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"FINNINGLEY-AIRFIELD","gauges":[{"name":"FINNINGLEY-AIRFIELD","ranges":[["1942/01","1942/12"],["1943/03","1954/03"],["1958/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/FINNINGLEY-AIRFIELD"},"history":[{"version":"v2.0.0","location":"FINNINGLEY-AIRFIELD","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LONDON-WHITEHALL","gauges":[{"name":"LONDON-WHITEHALL","ranges":[["1854/11","1860/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LONDON-WHITEHALL"},"history":[{"version":"v2.0.0","location":"LONDON-WHITEHALL","changes":["New"]}]}

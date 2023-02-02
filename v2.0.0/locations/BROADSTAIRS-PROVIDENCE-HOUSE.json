@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BROADSTAIRS-PROVIDENCE-HOUSE","gauges":[{"name":"BROADSTAIRS-PROVIDENCE-HOUSE","ranges":[["1900/01","1901/12"],["1905/01","1917/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BROADSTAIRS-PROVIDENCE-HOUSE"},"history":[{"version":"v2.0.0","location":"BROADSTAIRS-PROVIDENCE-HOUSE","changes":["New"]}]}

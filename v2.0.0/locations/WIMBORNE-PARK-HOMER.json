@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WIMBORNE-PARK-HOMER","gauges":[{"name":"WIMBORNE-PARK-HOMER","ranges":[["1900/01","1906/12"],["1908/01","1908/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WIMBORNE-PARK-HOMER"},"history":[{"version":"v2.0.0","location":"WIMBORNE-PARK-HOMER","changes":["New"]}]}

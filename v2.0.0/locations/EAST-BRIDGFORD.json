@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"EAST-BRIDGFORD","gauges":[{"name":"EAST-BRIDGFORD","ranges":[["1875/01","1879/12"],["1881/01","1885/12"]]},{"name":"EAST-BRIDGFORD-2","ranges":[["1928/02","1940/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/EAST-BRIDGFORD"},"history":[{"version":"v2.0.0","location":"EAST-BRIDGFORD","changes":["New"]}]}

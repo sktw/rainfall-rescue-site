@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"AMERSHAM-WW","gauges":[{"name":"AMERSHAM-WW","ranges":[["1933/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/AMERSHAM-WW"},"history":[{"version":"v2.0.0","location":"AMERSHAM-WW","changes":["New"]}]}

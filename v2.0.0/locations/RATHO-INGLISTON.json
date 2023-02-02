@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"RATHO-INGLISTON","gauges":[{"name":"RATHO-INGLISTON","ranges":[["1875/01","1875/12"]]},{"name":"RATHO-INGLISTON-2","ranges":[["1876/01","1878/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/RATHO-INGLISTON"},"history":[{"version":"v2.0.0","location":"RATHO-INGLISTON","changes":["New"]}]}

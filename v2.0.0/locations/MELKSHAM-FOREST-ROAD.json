@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MELKSHAM-FOREST-ROAD","gauges":[{"name":"MELKSHAM-FOREST-ROAD","ranges":[["1944/10","1953/12"],["1954/04","1955/10"],["1956/02","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MELKSHAM-FOREST-ROAD"},"history":[{"version":"v2.0.0","location":"MELKSHAM-FOREST-ROAD","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"RANDALSTOWN","gauges":[{"name":"RANDALSTOWN","ranges":[["1929/01","1945/04"]]},{"name":"RANDALSTOWN-2","ranges":[["1945/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/RANDALSTOWN"},"history":[{"version":"v2.0.0","location":"RANDALSTOWN","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WESTLEIGH-HOUSE","gauges":[{"name":"WESTLEIGH-HOUSE","ranges":[["1922/01","1933/12"]]},{"name":"WESTLEIGH-HOUSE-2","ranges":[["1934/01","1943/08"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WESTLEIGH-HOUSE"},"history":[{"version":"v2.0.0","location":"WESTLEIGH-HOUSE","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"FIFEHEAD-MAGDALEN","gauges":[{"name":"FIFEHEAD-MAGDALEN","ranges":[["1932/01","1944/12"]]},{"name":"FIFEHEAD-MAGDALEN-2","ranges":[["1954/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/FIFEHEAD-MAGDALEN"},"history":[{"version":"v2.0.0","location":"FIFEHEAD-MAGDALEN","changes":["New"]}]}

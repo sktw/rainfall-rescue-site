@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CASTON-FLAXMOOR","gauges":[{"name":"CASTON-FLAXMOOR","ranges":[["1929/01","1936/01"]]},{"name":"CASTON-FLAXMOOR-2","ranges":[["1935/02","1946/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CASTON-FLAXMOOR"},"history":[{"version":"v2.0.0","location":"CASTON-FLAXMOOR","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ABINGDON-DONNINGTON","gauges":[{"name":"ABINGDON-DONNINGTON","ranges":[["1903/01","1909/12"]]},{"name":"ABINGDON-DONNINGTON-2","ranges":[["1910/01","1935/05"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ABINGDON-DONNINGTON"},"history":[{"version":"v2.0.0","location":"ABINGDON-DONNINGTON","changes":["New"]}]}

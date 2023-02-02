@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LLANDOVERY-TONN","gauges":[{"name":"LLANDOVERY-TONN","ranges":[["1896/01","1904/09"],["1904/12","1905/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LLANDOVERY-TONN"},"history":[{"version":"v2.0.0","location":"LLANDOVERY-TONN","changes":["New"]}]}

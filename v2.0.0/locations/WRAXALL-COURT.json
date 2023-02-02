@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WRAXALL-COURT","gauges":[{"name":"WRAXALL-COURT","ranges":[["1926/01","1952/12"],["1954/05","1955/12"]]},{"name":"WRAXALL-COURT-2","ranges":[["1956/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WRAXALL-COURT"},"history":[{"version":"v2.0.0","location":"WRAXALL-COURT","changes":["New"]}]}

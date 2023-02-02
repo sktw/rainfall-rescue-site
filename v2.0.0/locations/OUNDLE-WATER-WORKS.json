@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"OUNDLE-WATER-WORKS","gauges":[{"name":"OUNDLE-WATER-WORKS","ranges":[["1904/01","1904/06"],["1904/08","1904/11"],["1905/01","1919/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/OUNDLE-WATER-WORKS"},"history":[{"version":"v2.0.0","location":"OUNDLE-WATER-WORKS","changes":["New"]}]}

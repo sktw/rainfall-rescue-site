@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CROSSMAGLEN-ANAMAR","gauges":[{"name":"CROSSMAGLEN-ANAMAR","ranges":[["1923/10","1926/06"],["1926/09","1943/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CROSSMAGLEN-ANAMAR"},"history":[{"version":"v2.0.0","location":"CROSSMAGLEN-ANAMAR","changes":["New"]}]}

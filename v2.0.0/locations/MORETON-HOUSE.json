@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MORETON-HOUSE","gauges":[{"name":"MORETON-HOUSE","ranges":[["1878/01","1884/08"],["1885/01","1886/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MORETON-HOUSE"},"history":[{"version":"v2.0.0","location":"MORETON-HOUSE","changes":["New"]}]}

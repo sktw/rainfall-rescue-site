@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"GRIMSBY-WALTHAM","gauges":[{"name":"GRIMSBY-WALTHAM","ranges":[["1894/01","1897/06"],["1897/09","1902/12"],["1911/01","1914/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/GRIMSBY-WALTHAM"},"history":[{"version":"v2.0.0","location":"GRIMSBY-WALTHAM","changes":["New"]}]}

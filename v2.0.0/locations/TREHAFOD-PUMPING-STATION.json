@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"TREHAFOD-PUMPING-STATION","gauges":[{"name":"TREHAFOD-PUMPING-STATION","ranges":[["1932/03","1938/12"],["1957/01","1957/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/TREHAFOD-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"TREHAFOD-PUMPING-STATION","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"NEWTON-ST-CYRES","gauges":[{"name":"NEWTON-ST-CYRES","ranges":[["1957/01","1958/12"],["1960/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/NEWTON-ST-CYRES"},"history":[{"version":"v2.0.0","location":"NEWTON-ST-CYRES","changes":["New"]}]}

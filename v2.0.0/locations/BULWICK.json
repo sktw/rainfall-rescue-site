@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BULWICK","gauges":[{"name":"BULWICK","ranges":[["1921/04","1923/12"]]},{"name":"BULWICK-2","ranges":[["1958/04","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BULWICK"},"history":[{"version":"v2.0.0","location":"BULWICK","changes":["New"]}]}

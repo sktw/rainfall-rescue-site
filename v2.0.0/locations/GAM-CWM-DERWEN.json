@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"GAM-CWM-DERWEN","gauges":[{"name":"GAM-CWM-DERWEN","ranges":[["1949/11","1953/01"],["1953/05","1958/05"],["1958/07","1958/10"],["1958/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/GAM-CWM-DERWEN"},"history":[{"version":"v2.0.0","location":"GAM-CWM-DERWEN","changes":["New"]}]}

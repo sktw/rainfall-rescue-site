@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"FOREST-IN-TEESDALE","gauges":[{"name":"FOREST-IN-TEESDALE","ranges":[["1946/05","1946/09"],["1946/12","1947/01"],["1947/04","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/FOREST-IN-TEESDALE"},"history":[{"version":"v2.0.0","location":"FOREST-IN-TEESDALE","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DUNS-OXENDEAN","gauges":[{"name":"DUNS-OXENDEAN","ranges":[["1927/01","1948/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DUNS-OXENDEAN"},"history":[{"version":"v2.0.0","location":"DUNS-OXENDEAN","changes":["New"]}]}

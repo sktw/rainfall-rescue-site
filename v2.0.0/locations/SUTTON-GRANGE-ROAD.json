@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SUTTON-GRANGE-ROAD","gauges":[{"name":"SUTTON-GRANGE-ROAD","ranges":[["1882/01","1883/12"],["1884/02","1891/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SUTTON-GRANGE-ROAD"},"history":[{"version":"v2.0.0","location":"SUTTON-GRANGE-ROAD","changes":["New"]}]}

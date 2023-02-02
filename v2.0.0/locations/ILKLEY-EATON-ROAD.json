@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ILKLEY-EATON-ROAD","gauges":[{"name":"ILKLEY-EATON-ROAD","ranges":[["1896/12","1909/12"]]},{"name":"ILKLEY-EATON-ROAD-2","ranges":[["1910/01","1919/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ILKLEY-EATON-ROAD"},"history":[{"version":"v2.0.0","location":"ILKLEY-EATON-ROAD","changes":["New"]}]}

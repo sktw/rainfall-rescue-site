@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WIMBLEDON-PARK-WOODHOUSE","gauges":[{"name":"WIMBLEDON-PARK-WOODHOUSE","ranges":[["1894/01","1904/12"],["1905/02","1914/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WIMBLEDON-PARK-WOODHOUSE"},"history":[{"version":"v2.0.0","location":"WIMBLEDON-PARK-WOODHOUSE","changes":["New"]}]}

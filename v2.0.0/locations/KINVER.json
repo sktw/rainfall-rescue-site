@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"KINVER","gauges":[{"name":"KINVER","ranges":[["1877/01","1887/11"]]},{"name":"KINVER-2","ranges":[["1940/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/KINVER"},"history":[{"version":"v2.0.0","location":"KINVER","changes":["New"]}]}

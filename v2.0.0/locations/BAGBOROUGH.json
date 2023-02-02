@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BAGBOROUGH","gauges":[{"name":"BAGBOROUGH","ranges":[["1920/01","1938/05"]]},{"name":"BAGBOROUGH-2","ranges":[["1949/04","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BAGBOROUGH"},"history":[{"version":"v2.0.0","location":"BAGBOROUGH","changes":["New"]}]}

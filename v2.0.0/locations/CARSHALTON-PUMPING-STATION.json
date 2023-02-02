@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CARSHALTON-PUMPING-STATION","gauges":[{"name":"CARSHALTON-PUMPING-STATION","ranges":[["1932/10","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CARSHALTON-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"CARSHALTON-PUMPING-STATION","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"VALE-LA-TURQUIE-HILL","gauges":[{"name":"VALE-LA-TURQUIE-HILL","ranges":[["1935/01","1941/12"],["1950/01","1956/12"],["1959/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/VALE-LA-TURQUIE-HILL"},"history":[{"version":"v2.0.0","location":"VALE-LA-TURQUIE-HILL","changes":["New"]}]}

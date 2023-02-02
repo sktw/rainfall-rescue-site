@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SALFORD-WEATSE-SEWAGE-WORKS","gauges":[{"name":"SALFORD-WEATSE-SEWAGE-WORKS","ranges":[["1935/01","1942/12"],["1950/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SALFORD-WEATSE-SEWAGE-WORKS"},"history":[{"version":"v2.0.0","location":"SALFORD-WEATSE-SEWAGE-WORKS","changes":["New"]}]}

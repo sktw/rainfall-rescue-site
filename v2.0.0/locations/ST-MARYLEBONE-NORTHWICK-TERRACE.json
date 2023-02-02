@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ST-MARYLEBONE-NORTHWICK-TERRACE","gauges":[{"name":"ST-MARYLEBONE-NORTHWICK-TERRACE","ranges":[["1902/01","1905/07"],["1905/10","1911/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ST-MARYLEBONE-NORTHWICK-TERRACE"},"history":[{"version":"v2.0.0","location":"ST-MARYLEBONE-NORTHWICK-TERRACE","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"NORTH-FORELAND","gauges":[{"name":"NORTH-FORELAND","ranges":[["1874/01","1879/12"],["1892/01","1898/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/NORTH-FORELAND"},"history":[{"version":"v2.0.0","location":"NORTH-FORELAND","changes":["New"]}]}

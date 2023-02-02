@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CHORLEY-FILTER-BEDS","gauges":[{"name":"CHORLEY-FILTER-BEDS","ranges":[["1940/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CHORLEY-FILTER-BEDS"},"history":[{"version":"v2.0.0","location":"CHORLEY-FILTER-BEDS","changes":["New"]}]}

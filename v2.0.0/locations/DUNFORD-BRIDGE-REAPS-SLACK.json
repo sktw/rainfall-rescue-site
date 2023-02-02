@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DUNFORD-BRIDGE-REAPS-SLACK","gauges":[{"name":"DUNFORD-BRIDGE-REAPS-SLACK","ranges":[["1938/01","1955/01"],["1955/04","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DUNFORD-BRIDGE-REAPS-SLACK"},"history":[{"version":"v2.0.0","location":"DUNFORD-BRIDGE-REAPS-SLACK","changes":["New"]}]}

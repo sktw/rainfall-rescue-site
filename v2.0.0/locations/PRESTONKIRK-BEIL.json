@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"PRESTONKIRK-BEIL","gauges":[{"name":"PRESTONKIRK-BEIL","ranges":[["1906/01","1915/12"]]},{"name":"PRESTONKIRK-BEIL-2","ranges":[["1916/01","1923/08"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/PRESTONKIRK-BEIL"},"history":[{"version":"v2.0.0","location":"PRESTONKIRK-BEIL","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"STOTFOLD-SEWAGE-WORKS","gauges":[{"name":"STOTFOLD-SEWAGE-WORKS","ranges":[["1945/01","1945/07"],["1945/09","1956/05"],["1956/10","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/STOTFOLD-SEWAGE-WORKS"},"history":[{"version":"v2.0.0","location":"STOTFOLD-SEWAGE-WORKS","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BICKLEY-MERLEWOOD","gauges":[{"name":"BICKLEY-MERLEWOOD","ranges":[["1880/01","1893/07"]]},{"name":"BICKLEY-MERLEWOOD-2","ranges":[["1893/08","1900/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BICKLEY-MERLEWOOD"},"history":[{"version":"v2.0.0","location":"BICKLEY-MERLEWOOD","changes":["New"]}]}

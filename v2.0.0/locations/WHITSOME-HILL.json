@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WHITSOME-HILL","gauges":[{"name":"WHITSOME-HILL","ranges":[["1902/01","1905/12"],["1931/01","1935/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WHITSOME-HILL"},"history":[{"version":"v2.0.0","location":"WHITSOME-HILL","changes":["New"]}]}

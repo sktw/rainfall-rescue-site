@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"FARNHAM-SEWAGE-WORKS","gauges":[{"name":"FARNHAM-SEWAGE-WORKS","ranges":[["1951/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/FARNHAM-SEWAGE-WORKS"},"history":[{"version":"v2.0.0","location":"FARNHAM-SEWAGE-WORKS","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BANGOR-GLASINFRYN","gauges":[{"name":"BANGOR-GLASINFRYN","ranges":[["1898/07","1898/11"],["1899/01","1902/05"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BANGOR-GLASINFRYN"},"history":[{"version":"v2.0.0","location":"BANGOR-GLASINFRYN","changes":["New"]}]}

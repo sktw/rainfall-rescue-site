@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LOCH-AWE-FORD","gauges":[{"name":"LOCH-AWE-FORD","ranges":[["1909/06","1929/10"]]},{"name":"LOCH-AWE-FORD-2","ranges":[["1959/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LOCH-AWE-FORD"},"history":[{"version":"v2.0.0","location":"LOCH-AWE-FORD","changes":["New"]}]}

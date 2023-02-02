@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DAER-WHITEBURN","gauges":[{"name":"DAER-WHITEBURN","ranges":[["1949/05","1951/12"],["1952/03","1955/01"],["1955/04","1955/11"],["1956/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DAER-WHITEBURN"},"history":[{"version":"v2.0.0","location":"DAER-WHITEBURN","changes":["New"]}]}

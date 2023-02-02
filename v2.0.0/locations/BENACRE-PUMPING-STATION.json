@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BENACRE-PUMPING-STATION","gauges":[{"name":"BENACRE-PUMPING-STATION","ranges":[["1949/03","1952/12"],["1953/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BENACRE-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"BENACRE-PUMPING-STATION","changes":["New"]}]}

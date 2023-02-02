@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WEST-WALTON","gauges":[{"name":"WEST-WALTON","ranges":[["1866/01","1866/12"],["1869/01","1870/08"],["1870/10","1870/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WEST-WALTON"},"history":[{"version":"v2.0.0","location":"WEST-WALTON","changes":["New"]}]}

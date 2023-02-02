@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BANBURY-NEITHROP","gauges":[{"name":"BANBURY-NEITHROP","ranges":[["1862/01","1862/12"],["1866/01","1870/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BANBURY-NEITHROP"},"history":[{"version":"v2.0.0","location":"BANBURY-NEITHROP","changes":["New"]}]}

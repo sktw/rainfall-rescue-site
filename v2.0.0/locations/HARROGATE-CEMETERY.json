@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HARROGATE-CEMETERY","gauges":[{"name":"HARROGATE-CEMETERY","ranges":[["1870/01","1881/02"],["1881/04","1881/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HARROGATE-CEMETERY"},"history":[{"version":"v2.0.0","location":"HARROGATE-CEMETERY","changes":["New"]}]}

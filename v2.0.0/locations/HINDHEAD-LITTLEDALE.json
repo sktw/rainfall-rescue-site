@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HINDHEAD-LITTLEDALE","gauges":[{"name":"HINDHEAD-LITTLEDALE","ranges":[["1924/01","1926/12"]]},{"name":"HINDHEAD-LITTLEDALE-2","ranges":[["1927/01","1936/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HINDHEAD-LITTLEDALE"},"history":[{"version":"v2.0.0","location":"HINDHEAD-LITTLEDALE","changes":["New"]}]}

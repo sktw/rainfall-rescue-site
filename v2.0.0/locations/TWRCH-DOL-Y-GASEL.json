@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"TWRCH-DOL-Y-GASEL","gauges":[{"name":"TWRCH-DOL-Y-GASEL","ranges":[["1949/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/TWRCH-DOL-Y-GASEL"},"history":[{"version":"v2.0.0","location":"TWRCH-DOL-Y-GASEL","changes":["New"]}]}

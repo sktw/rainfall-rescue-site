@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BLACKPOOL-SANATORIUM","gauges":[{"name":"BLACKPOOL-SANATORIUM","ranges":[["1893/11","1903/12"],["1905/01","1907/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BLACKPOOL-SANATORIUM"},"history":[{"version":"v2.0.0","location":"BLACKPOOL-SANATORIUM","changes":["New"]}]}

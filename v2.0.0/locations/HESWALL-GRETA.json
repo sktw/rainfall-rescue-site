@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HESWALL-GRETA","gauges":[{"name":"HESWALL-GRETA","ranges":[["1930/01","1938/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HESWALL-GRETA"},"history":[{"version":"v2.0.0","location":"HESWALL-GRETA","changes":["New"]}]}

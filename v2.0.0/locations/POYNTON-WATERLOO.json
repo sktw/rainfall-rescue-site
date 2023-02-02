@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"POYNTON-WATERLOO","gauges":[{"name":"POYNTON-WATERLOO","ranges":[["1912/01","1929/06"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/POYNTON-WATERLOO"},"history":[{"version":"v2.0.0","location":"POYNTON-WATERLOO","changes":["New"]}]}

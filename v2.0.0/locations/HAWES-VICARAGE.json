@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HAWES-VICARAGE","gauges":[{"name":"HAWES-VICARAGE","ranges":[["1869/01","1869/07"],["1869/10","1869/12"],["1874/06","1878/08"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HAWES-VICARAGE"},"history":[{"version":"v2.0.0","location":"HAWES-VICARAGE","changes":["New"]}]}

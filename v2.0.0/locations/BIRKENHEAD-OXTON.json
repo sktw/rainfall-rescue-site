@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BIRKENHEAD-OXTON","gauges":[{"name":"BIRKENHEAD-OXTON","ranges":[["1928/01","1933/12"]]},{"name":"BIRKENHEAD-OXTON-2","ranges":[["1902/01","1902/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BIRKENHEAD-OXTON"},"history":[{"version":"v2.0.0","location":"BIRKENHEAD-OXTON","changes":["New"]}]}

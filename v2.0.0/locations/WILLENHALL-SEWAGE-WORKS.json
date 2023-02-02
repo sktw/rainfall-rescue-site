@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WILLENHALL-SEWAGE-WORKS","gauges":[{"name":"WILLENHALL-SEWAGE-WORKS","ranges":[["1938/01","1938/12"],["1939/02","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WILLENHALL-SEWAGE-WORKS"},"history":[{"version":"v2.0.0","location":"WILLENHALL-SEWAGE-WORKS","changes":["New"]}]}

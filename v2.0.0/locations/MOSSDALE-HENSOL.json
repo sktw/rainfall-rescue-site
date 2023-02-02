@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MOSSDALE-HENSOL","gauges":[{"name":"MOSSDALE-HENSOL","ranges":[["1923/01","1947/05"],["1947/08","1960/02"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MOSSDALE-HENSOL"},"history":[{"version":"v2.0.0","location":"MOSSDALE-HENSOL","changes":["New"]}]}

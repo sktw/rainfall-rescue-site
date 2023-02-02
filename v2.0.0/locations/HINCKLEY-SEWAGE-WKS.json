@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HINCKLEY-SEWAGE-WKS","gauges":[{"name":"HINCKLEY-SEWAGE-WKS","ranges":[["1928/07","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HINCKLEY-SEWAGE-WKS"},"history":[{"version":"v2.0.0","location":"HINCKLEY-SEWAGE-WKS","changes":["New"]}]}

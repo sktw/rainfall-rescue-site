@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"GRIMSBY-IRBY-ON-HUMBER","gauges":[{"name":"GRIMSBY-IRBY-ON-HUMBER","ranges":[["1902/01","1912/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/GRIMSBY-IRBY-ON-HUMBER"},"history":[{"version":"v2.0.0","location":"GRIMSBY-IRBY-ON-HUMBER","changes":["New"]}]}

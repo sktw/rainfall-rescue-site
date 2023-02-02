@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BRADFORD-STOFORD-MANOR","gauges":[{"name":"BRADFORD-STOFORD-MANOR","ranges":[["1921/10","1943/10"],["1943/12","1944/02"],["1944/05","1945/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BRADFORD-STOFORD-MANOR"},"history":[{"version":"v2.0.0","location":"BRADFORD-STOFORD-MANOR","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BANGOR-TOWN-HALL","gauges":[{"name":"BANGOR-TOWN-HALL","ranges":[["1922/01","1956/12"],["1957/02","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BANGOR-TOWN-HALL"},"history":[{"version":"v2.0.0","location":"BANGOR-TOWN-HALL","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MOW-COP-PUMPING-STATION","gauges":[{"name":"MOW-COP-PUMPING-STATION","ranges":[["1947/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MOW-COP-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"MOW-COP-PUMPING-STATION","changes":["New"]}]}

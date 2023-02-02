@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ST-ANDREWS-FEDDINCH-MAINS","gauges":[{"name":"ST-ANDREWS-FEDDINCH-MAINS","ranges":[["1866/01","1868/12"],["1870/01","1874/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ST-ANDREWS-FEDDINCH-MAINS"},"history":[{"version":"v2.0.0","location":"ST-ANDREWS-FEDDINCH-MAINS","changes":["New"]}]}

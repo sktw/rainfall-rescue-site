@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ANNBANK-HOUSE","gauges":[{"name":"ANNBANK-HOUSE","ranges":[["1930/01","1930/05"],["1930/10","1934/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ANNBANK-HOUSE"},"history":[{"version":"v2.0.0","location":"ANNBANK-HOUSE","changes":["New"]}]}

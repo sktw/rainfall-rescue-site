@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HEST-BANK-GREENDALE","gauges":[{"name":"HEST-BANK-GREENDALE","ranges":[["1930/11","1947/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HEST-BANK-GREENDALE"},"history":[{"version":"v2.0.0","location":"HEST-BANK-GREENDALE","changes":["New"]}]}

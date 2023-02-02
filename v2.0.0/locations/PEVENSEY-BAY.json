@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"PEVENSEY-BAY","gauges":[{"name":"PEVENSEY-BAY","ranges":[["1921/01","1927/12"],["1936/02","1938/12"],["1953/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/PEVENSEY-BAY"},"history":[{"version":"v2.0.0","location":"PEVENSEY-BAY","changes":["New"]}]}

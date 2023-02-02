@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"FAREHAM-BELVOIR-HOUSE","gauges":[{"name":"FAREHAM-BELVOIR-HOUSE","ranges":[["1902/01","1910/05"],["1910/07","1910/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/FAREHAM-BELVOIR-HOUSE"},"history":[{"version":"v2.0.0","location":"FAREHAM-BELVOIR-HOUSE","changes":["New"]}]}

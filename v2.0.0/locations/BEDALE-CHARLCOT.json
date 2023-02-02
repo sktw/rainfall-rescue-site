@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BEDALE-CHARLCOT","gauges":[{"name":"BEDALE-CHARLCOT","ranges":[["1908/01","1915/12"],["1920/07","1920/07"],["1921/01","1921/09"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BEDALE-CHARLCOT"},"history":[{"version":"v2.0.0","location":"BEDALE-CHARLCOT","changes":["New"]}]}

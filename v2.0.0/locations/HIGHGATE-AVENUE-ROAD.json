@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HIGHGATE-AVENUE-ROAD","gauges":[{"name":"HIGHGATE-AVENUE-ROAD","ranges":[["1912/01","1919/01"],["1919/03","1919/05"],["1919/07","1920/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HIGHGATE-AVENUE-ROAD"},"history":[{"version":"v2.0.0","location":"HIGHGATE-AVENUE-ROAD","changes":["New"]}]}

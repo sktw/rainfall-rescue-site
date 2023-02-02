@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WEST-WICKHAM-PUMPING-STATION","gauges":[{"name":"WEST-WICKHAM-PUMPING-STATION","ranges":[["1936/02","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WEST-WICKHAM-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"WEST-WICKHAM-PUMPING-STATION","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SARK-LA-CLOTURE","gauges":[{"name":"SARK-LA-CLOTURE","ranges":[["1952/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SARK-LA-CLOTURE"},"history":[{"version":"v2.0.0","location":"SARK-LA-CLOTURE","changes":["New"]}]}

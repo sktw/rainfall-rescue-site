@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CHEADLE-HARTHILL","gauges":[{"name":"CHEADLE-HARTHILL","ranges":[["1882/01","1888/05"]]},{"name":"CHEADLE-HARTHILL-2","ranges":[["1888/07","1902/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CHEADLE-HARTHILL"},"history":[{"version":"v2.0.0","location":"CHEADLE-HARTHILL","changes":["New"]}]}

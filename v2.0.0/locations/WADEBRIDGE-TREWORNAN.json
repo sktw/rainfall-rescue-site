@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WADEBRIDGE-TREWORNAN","gauges":[{"name":"WADEBRIDGE-TREWORNAN","ranges":[["1920/01","1944/12"],["1945/02","1945/04"],["1945/06","1945/09"],["1945/11","1946/11"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WADEBRIDGE-TREWORNAN"},"history":[{"version":"v2.0.0","location":"WADEBRIDGE-TREWORNAN","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"OXTED-NORTH-END","gauges":[{"name":"OXTED-NORTH-END","ranges":[["1936/01","1940/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/OXTED-NORTH-END"},"history":[{"version":"v2.0.0","location":"OXTED-NORTH-END","changes":["New"]}]}

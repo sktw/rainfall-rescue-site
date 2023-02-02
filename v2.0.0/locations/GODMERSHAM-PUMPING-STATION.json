@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"GODMERSHAM-PUMPING-STATION","gauges":[{"name":"GODMERSHAM-PUMPING-STATION","ranges":[["1960/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/GODMERSHAM-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"GODMERSHAM-PUMPING-STATION","changes":["New"]}]}

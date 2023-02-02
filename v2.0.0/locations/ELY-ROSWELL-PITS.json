@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ELY-ROSWELL-PITS","gauges":[{"name":"ELY-ROSWELL-PITS","ranges":[["1936/01","1947/04"],["1947/06","1947/09"],["1948/08","1948/09"],["1948/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ELY-ROSWELL-PITS"},"history":[{"version":"v2.0.0","location":"ELY-ROSWELL-PITS","changes":["New"]}]}

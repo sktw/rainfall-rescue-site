@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ILFORD-SEWAGE-WORKS","gauges":[{"name":"ILFORD-SEWAGE-WORKS","ranges":[["1912/01","1929/12"],["1930/02","1938/02"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ILFORD-SEWAGE-WORKS"},"history":[{"version":"v2.0.0","location":"ILFORD-SEWAGE-WORKS","changes":["New"]}]}

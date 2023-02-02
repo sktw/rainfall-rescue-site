@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CUPAR-BIRKHILL","gauges":[{"name":"CUPAR-BIRKHILL","ranges":[["1863/08","1864/05"],["1864/08","1874/02"],["1877/01","1886/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CUPAR-BIRKHILL"},"history":[{"version":"v2.0.0","location":"CUPAR-BIRKHILL","changes":["New"]}]}

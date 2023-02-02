@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"PLYMOUTH-STONEHOUSE","gauges":[{"name":"PLYMOUTH-STONEHOUSE","ranges":[["1802/01","1802/12"]]},{"name":"PLYMOUTH-STONEHOUSE-2","ranges":[["1873/01","1875/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/PLYMOUTH-STONEHOUSE"},"history":[{"version":"v2.0.0","location":"PLYMOUTH-STONEHOUSE","changes":["New"]}]}

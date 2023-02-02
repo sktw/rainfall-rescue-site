@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DALRY-CREAGANFOIS","gauges":[{"name":"DALRY-CREAGANFOIS","ranges":[["1950/01","1960/12"]]},{"name":"DALRY-CREAGANFOIS-2","ranges":[["1959/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DALRY-CREAGANFOIS"},"history":[{"version":"v2.0.0","location":"DALRY-CREAGANFOIS","changes":["New"]}]}

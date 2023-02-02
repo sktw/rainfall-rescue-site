@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WORTHING-ELLESMERE","gauges":[{"name":"WORTHING-ELLESMERE","ranges":[["1899/01","1899/12"]]},{"name":"WORTHING-ELLESMERE-2","ranges":[["1893/01","1903/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WORTHING-ELLESMERE"},"history":[{"version":"v2.0.0","location":"WORTHING-ELLESMERE","changes":["New"]}]}

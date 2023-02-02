@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"NESSITT-HILL","gauges":[{"name":"NESSITT-HILL","ranges":[["1958/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/NESSITT-HILL"},"history":[{"version":"v2.0.0","location":"NESSITT-HILL","changes":["New"]}]}

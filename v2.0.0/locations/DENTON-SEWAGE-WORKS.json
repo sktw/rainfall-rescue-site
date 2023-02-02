@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DENTON-SEWAGE-WORKS","gauges":[{"name":"DENTON-SEWAGE-WORKS","ranges":[["1943/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DENTON-SEWAGE-WORKS"},"history":[{"version":"v2.0.0","location":"DENTON-SEWAGE-WORKS","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"GRIMBOCAR","gauges":[{"name":"GRIMBOCAR","ranges":[["1937/01","1939/12"],["1940/03","1940/03"],["1940/05","1940/10"],["1940/12","1942/01"],["1942/03","1942/09"],["1942/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/GRIMBOCAR"},"history":[{"version":"v2.0.0","location":"GRIMBOCAR","changes":["New"]}]}

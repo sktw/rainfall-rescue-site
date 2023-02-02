@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LOUGHRIGG-FELL","gauges":[{"name":"LOUGHRIGG-FELL","ranges":[["1908/08","1916/12"]]},{"name":"LOUGHRIGG-FELL-2","ranges":[["1910/01","1915/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LOUGHRIGG-FELL"},"history":[{"version":"v2.0.0","location":"LOUGHRIGG-FELL","changes":["New"]}]}

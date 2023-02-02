@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BARHAM-PUMPING-STATION","gauges":[{"name":"BARHAM-PUMPING-STATION","ranges":[["1928/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BARHAM-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"BARHAM-PUMPING-STATION","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DUDLEY-TIPTON-RD","gauges":[{"name":"DUDLEY-TIPTON-RD","ranges":[["1930/01","1938/12"]]},{"name":"DUDLEY-TIPTON-RD-2","ranges":[["1939/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DUDLEY-TIPTON-RD"},"history":[{"version":"v2.0.0","location":"DUDLEY-TIPTON-RD","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"IPSWICH-WHITTON-PUMPING-STATION","gauges":[{"name":"IPSWICH-WHITTON-PUMPING-STATION","ranges":[["1953/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/IPSWICH-WHITTON-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"IPSWICH-WHITTON-PUMPING-STATION","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"REIGATE-HATHERLOW-OBSERVATORY","gauges":[{"name":"REIGATE-HATHERLOW-OBSERVATORY","ranges":[["1900/01","1914/10"],["1916/01","1918/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/REIGATE-HATHERLOW-OBSERVATORY"},"history":[{"version":"v2.0.0","location":"REIGATE-HATHERLOW-OBSERVATORY","changes":["New"]}]}

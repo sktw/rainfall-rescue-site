@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"KIRKWALL-BIGNOLD-PARK","gauges":[{"name":"KIRKWALL-BIGNOLD-PARK","ranges":[["1927/01","1944/01"],["1944/08","1944/11"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/KIRKWALL-BIGNOLD-PARK"},"history":[{"version":"v2.0.0","location":"KIRKWALL-BIGNOLD-PARK","changes":["New"]}]}

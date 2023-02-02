@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"FLIMBY","gauges":[{"name":"FLIMBY","ranges":[["1919/01","1920/12"],["1921/04","1921/11"],["1922/01","1922/04"],["1922/07","1925/08"],["1925/10","1925/10"],["1926/01","1926/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/FLIMBY"},"history":[{"version":"v2.0.0","location":"FLIMBY","changes":["New"]}]}

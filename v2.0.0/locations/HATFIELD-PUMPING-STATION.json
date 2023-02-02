@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HATFIELD-PUMPING-STATION","gauges":[{"name":"HATFIELD-PUMPING-STATION","ranges":[["1927/01","1943/02"],["1943/04","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HATFIELD-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"HATFIELD-PUMPING-STATION","changes":["New"]}]}

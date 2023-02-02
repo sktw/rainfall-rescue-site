@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"KNEBWORTH","gauges":[{"name":"KNEBWORTH","ranges":[["1852/01","1857/06"]]},{"name":"KNEBWORTH-2","ranges":[["1898/01","1899/10"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/KNEBWORTH"},"history":[{"version":"v2.0.0","location":"KNEBWORTH","changes":["New"]}]}

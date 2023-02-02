@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LOCH-SLOY-CAM-ALLT","gauges":[{"name":"LOCH-SLOY-CAM-ALLT","ranges":[["1954/01","1959/07"]]},{"name":"LOCH-SLOY-CAM-ALLT-2","ranges":[["1957/10","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LOCH-SLOY-CAM-ALLT"},"history":[{"version":"v2.0.0","location":"LOCH-SLOY-CAM-ALLT","changes":["New"]}]}

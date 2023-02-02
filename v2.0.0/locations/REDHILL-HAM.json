@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"REDHILL-HAM","gauges":[{"name":"REDHILL-HAM","ranges":[["1860/01","1863/12"],["1865/01","1865/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/REDHILL-HAM"},"history":[{"version":"v2.0.0","location":"REDHILL-HAM","changes":["New"]}]}

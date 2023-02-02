@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LOCH-COULTER","gauges":[{"name":"LOCH-COULTER","ranges":[["1936/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LOCH-COULTER"},"history":[{"version":"v2.0.0","location":"LOCH-COULTER","changes":["New"]}]}

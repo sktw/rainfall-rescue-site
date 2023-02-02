@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HITCHAM-LOOSE-HALL","gauges":[{"name":"HITCHAM-LOOSE-HALL","ranges":[["1910/01","1912/12"],["1913/03","1913/03"],["1913/05","1913/05"],["1918/06","1926/05"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HITCHAM-LOOSE-HALL"},"history":[{"version":"v2.0.0","location":"HITCHAM-LOOSE-HALL","changes":["New"]}]}

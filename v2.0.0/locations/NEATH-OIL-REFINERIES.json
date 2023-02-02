@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"NEATH-OIL-REFINERIES","gauges":[{"name":"NEATH-OIL-REFINERIES","ranges":[["1925/01","1944/04"],["1944/06","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/NEATH-OIL-REFINERIES"},"history":[{"version":"v2.0.0","location":"NEATH-OIL-REFINERIES","changes":["New"]}]}

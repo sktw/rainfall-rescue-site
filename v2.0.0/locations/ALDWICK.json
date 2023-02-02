@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ALDWICK","gauges":[{"name":"ALDWICK","ranges":[["1863/03","1867/05"]]},{"name":"ALDWICK-2","ranges":[["1860/01","1868/12"],["1870/01","1876/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ALDWICK"},"history":[{"version":"v2.0.0","location":"ALDWICK","changes":["New"]}]}

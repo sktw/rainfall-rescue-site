@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CLYNNOG","gauges":[{"name":"CLYNNOG","ranges":[["1865/04","1869/06"]]},{"name":"CLYNNOG-2","ranges":[["1890/01","1890/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CLYNNOG"},"history":[{"version":"v2.0.0","location":"CLYNNOG","changes":["New"]}]}

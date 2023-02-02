@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SUTTON-COLDFIELD-MANEY","gauges":[{"name":"SUTTON-COLDFIELD-MANEY","ranges":[["1945/01","1950/08"],["1950/12","1955/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SUTTON-COLDFIELD-MANEY"},"history":[{"version":"v2.0.0","location":"SUTTON-COLDFIELD-MANEY","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HOPTON-HOPTON-HOUSE","gauges":[{"name":"HOPTON-HOPTON-HOUSE","ranges":[["1926/03","1930/12"],["1932/01","1936/12"],["1938/01","1959/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HOPTON-HOPTON-HOUSE"},"history":[{"version":"v2.0.0","location":"HOPTON-HOPTON-HOUSE","changes":["New"]}]}

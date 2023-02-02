@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LITTLE-KIMBLE","gauges":[{"name":"LITTLE-KIMBLE","ranges":[["1896/01","1898/12"]]},{"name":"LITTLE-KIMBLE-2","ranges":[["1923/01","1947/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LITTLE-KIMBLE"},"history":[{"version":"v2.0.0","location":"LITTLE-KIMBLE","changes":["New"]}]}

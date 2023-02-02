@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"FYFIELD-ESSEX","gauges":[{"name":"FYFIELD-ESSEX","ranges":[["1958/01","1958/05"],["1958/07","1958/08"],["1958/10","1958/10"],["1958/12","1958/12"],["1959/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/FYFIELD-ESSEX"},"history":[{"version":"v2.0.0","location":"FYFIELD-ESSEX","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WOLL","gauges":[{"name":"WOLL","ranges":[["1780/01","1780/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WOLL"},"history":[{"version":"v2.0.0","location":"WOLL","changes":["New"]}]}

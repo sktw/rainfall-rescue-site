@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WINWICK-PUMPING-STATION","gauges":[{"name":"WINWICK-PUMPING-STATION","ranges":[["1932/01","1939/12"],["1940/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WINWICK-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"WINWICK-PUMPING-STATION","changes":["New"]}]}

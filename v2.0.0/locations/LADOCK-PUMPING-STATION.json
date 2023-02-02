@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LADOCK-PUMPING-STATION","gauges":[{"name":"LADOCK-PUMPING-STATION","ranges":[["1953/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LADOCK-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"LADOCK-PUMPING-STATION","changes":["New"]}]}

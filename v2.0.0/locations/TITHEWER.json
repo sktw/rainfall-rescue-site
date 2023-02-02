@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"TITHEWER","gauges":[{"name":"TITHEWER","ranges":[["1861/01","1873/12"],["1898/01","1924/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/TITHEWER"},"history":[{"version":"v2.0.0","location":"TITHEWER","changes":["New"]}]}

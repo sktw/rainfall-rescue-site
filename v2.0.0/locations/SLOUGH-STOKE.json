@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SLOUGH-STOKE","gauges":[{"name":"SLOUGH-STOKE","ranges":[["1872/06","1872/08"],["1873/01","1876/12"],["1879/05","1879/05"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SLOUGH-STOKE"},"history":[{"version":"v2.0.0","location":"SLOUGH-STOKE","changes":["New"]}]}

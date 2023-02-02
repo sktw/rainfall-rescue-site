@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"NORTH-HAYLING","gauges":[{"name":"NORTH-HAYLING","ranges":[["1890/01","1904/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/NORTH-HAYLING"},"history":[{"version":"v2.0.0","location":"NORTH-HAYLING","changes":["New"]}]}

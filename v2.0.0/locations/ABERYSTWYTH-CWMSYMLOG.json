@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ABERYSTWYTH-CWMSYMLOG","gauges":[{"name":"ABERYSTWYTH-CWMSYMLOG","ranges":[["1881/01","1891/06"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ABERYSTWYTH-CWMSYMLOG"},"history":[{"version":"v2.0.0","location":"ABERYSTWYTH-CWMSYMLOG","changes":["New"]}]}

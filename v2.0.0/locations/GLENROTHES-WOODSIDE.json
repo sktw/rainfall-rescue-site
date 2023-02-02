@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"GLENROTHES-WOODSIDE","gauges":[{"name":"GLENROTHES-WOODSIDE","ranges":[["1950/08","1957/12"],["1958/02","1958/11"],["1959/01","1960/08"],["1960/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/GLENROTHES-WOODSIDE"},"history":[{"version":"v2.0.0","location":"GLENROTHES-WOODSIDE","changes":["New"]}]}

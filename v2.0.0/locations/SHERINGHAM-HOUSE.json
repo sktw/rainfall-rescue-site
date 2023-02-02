@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SHERINGHAM-HOUSE","gauges":[{"name":"SHERINGHAM-HOUSE","ranges":[["1930/05","1951/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SHERINGHAM-HOUSE"},"history":[{"version":"v2.0.0","location":"SHERINGHAM-HOUSE","changes":["New"]}]}

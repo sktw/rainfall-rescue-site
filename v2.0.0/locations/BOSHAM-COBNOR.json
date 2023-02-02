@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BOSHAM-COBNOR","gauges":[{"name":"BOSHAM-COBNOR","ranges":[["1920/01","1929/01"],["1929/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BOSHAM-COBNOR"},"history":[{"version":"v2.0.0","location":"BOSHAM-COBNOR","changes":["New"]}]}

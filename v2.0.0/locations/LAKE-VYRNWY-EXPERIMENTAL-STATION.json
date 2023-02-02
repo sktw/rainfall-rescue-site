@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LAKE-VYRNWY-EXPERIMENTAL-STATION","gauges":[{"name":"LAKE-VYRNWY-EXPERIMENTAL-STATION","ranges":[["1944/09","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LAKE-VYRNWY-EXPERIMENTAL-STATION"},"history":[{"version":"v2.0.0","location":"LAKE-VYRNWY-EXPERIMENTAL-STATION","changes":["New"]}]}

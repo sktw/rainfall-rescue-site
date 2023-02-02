@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"FONTMELL-MAGNA","gauges":[{"name":"FONTMELL-MAGNA","ranges":[["1913/01","1915/12"],["1920/01","1928/12"]]},{"name":"FONTMELL-MAGNA-2","ranges":[["1928/01","1945/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/FONTMELL-MAGNA"},"history":[{"version":"v2.0.0","location":"FONTMELL-MAGNA","changes":["New"]}]}

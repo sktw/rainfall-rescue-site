@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"COBHAM-SCALERS-HILL","gauges":[{"name":"COBHAM-SCALERS-HILL","ranges":[["1913/01","1915/12"],["1917/01","1923/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/COBHAM-SCALERS-HILL"},"history":[{"version":"v2.0.0","location":"COBHAM-SCALERS-HILL","changes":["New"]}]}

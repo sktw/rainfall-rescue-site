@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LOCH-FANNICH-SOUTH","gauges":[{"name":"LOCH-FANNICH-SOUTH","ranges":[["1958/10","1958/12"],["1959/06","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LOCH-FANNICH-SOUTH"},"history":[{"version":"v2.0.0","location":"LOCH-FANNICH-SOUTH","changes":["New"]}]}

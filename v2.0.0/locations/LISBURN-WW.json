@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LISBURN-WW","gauges":[{"name":"LISBURN-WW","ranges":[["1941/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LISBURN-WW"},"history":[{"version":"v2.0.0","location":"LISBURN-WW","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"TAWSTOCK-COURT","gauges":[{"name":"TAWSTOCK-COURT","ranges":[["1917/11","1928/11"],["1929/01","1931/04"],["1931/06","1936/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/TAWSTOCK-COURT"},"history":[{"version":"v2.0.0","location":"TAWSTOCK-COURT","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BOXTED-HALL","gauges":[{"name":"BOXTED-HALL","ranges":[["1938/04","1939/09"],["1939/11","1944/06"],["1944/08","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BOXTED-HALL"},"history":[{"version":"v2.0.0","location":"BOXTED-HALL","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"GROSMONT","gauges":[{"name":"GROSMONT","ranges":[["1932/05","1939/12"],["1940/03","1957/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/GROSMONT"},"history":[{"version":"v2.0.0","location":"GROSMONT","changes":["New"]}]}

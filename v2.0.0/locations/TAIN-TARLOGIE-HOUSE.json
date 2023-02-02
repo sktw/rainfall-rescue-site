@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"TAIN-TARLOGIE-HOUSE","gauges":[{"name":"TAIN-TARLOGIE-HOUSE","ranges":[["1944/06","1952/05"]]},{"name":"TAIN-TARLOGIE-HOUSE-2","ranges":[["1952/06","1959/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/TAIN-TARLOGIE-HOUSE"},"history":[{"version":"v2.0.0","location":"TAIN-TARLOGIE-HOUSE","changes":["New"]}]}

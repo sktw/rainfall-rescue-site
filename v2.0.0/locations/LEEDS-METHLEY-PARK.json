@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LEEDS-METHLEY-PARK","gauges":[{"name":"LEEDS-METHLEY-PARK","ranges":[["1871/01","1880/12"],["1882/01","1896/12"],["1898/01","1898/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LEEDS-METHLEY-PARK"},"history":[{"version":"v2.0.0","location":"LEEDS-METHLEY-PARK","changes":["New"]}]}

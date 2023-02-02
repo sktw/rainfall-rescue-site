@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SEND-WOODSIDE","gauges":[{"name":"SEND-WOODSIDE","ranges":[["1929/01","1944/08"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SEND-WOODSIDE"},"history":[{"version":"v2.0.0","location":"SEND-WOODSIDE","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ASHOPTON-MOSCAR-FLAT","gauges":[{"name":"ASHOPTON-MOSCAR-FLAT","ranges":[["1898/09","1899/11"],["1906/01","1914/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ASHOPTON-MOSCAR-FLAT"},"history":[{"version":"v2.0.0","location":"ASHOPTON-MOSCAR-FLAT","changes":["New"]}]}

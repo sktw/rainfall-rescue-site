@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"EDENBRIDGE-STONEWALL-PARK","gauges":[{"name":"EDENBRIDGE-STONEWALL-PARK","ranges":[["1920/01","1942/01"],["1942/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/EDENBRIDGE-STONEWALL-PARK"},"history":[{"version":"v2.0.0","location":"EDENBRIDGE-STONEWALL-PARK","changes":["New"]}]}

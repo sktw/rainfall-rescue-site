@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LLYN-ANAFON","gauges":[{"name":"LLYN-ANAFON","ranges":[["1951/01","1955/12"],["1958/01","1959/10"],["1960/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LLYN-ANAFON"},"history":[{"version":"v2.0.0","location":"LLYN-ANAFON","changes":["New"]}]}

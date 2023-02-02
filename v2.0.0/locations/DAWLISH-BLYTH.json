@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DAWLISH-BLYTH","gauges":[{"name":"DAWLISH-BLYTH","ranges":[["1905/11","1909/12"]]},{"name":"DAWLISH-BLYTH-2","ranges":[["1910/01","1911/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DAWLISH-BLYTH"},"history":[{"version":"v2.0.0","location":"DAWLISH-BLYTH","changes":["New"]}]}

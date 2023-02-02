@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ALWEN-FILTER-HOUSE","gauges":[{"name":"ALWEN-FILTER-HOUSE","ranges":[["1928/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ALWEN-FILTER-HOUSE"},"history":[{"version":"v2.0.0","location":"ALWEN-FILTER-HOUSE","changes":["New"]}]}

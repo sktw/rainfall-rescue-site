@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LLANRHIAN","gauges":[{"name":"LLANRHIAN","ranges":[["1893/06","1900/12"]]},{"name":"LLANRHIAN-2","ranges":[["1924/01","1925/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LLANRHIAN"},"history":[{"version":"v2.0.0","location":"LLANRHIAN","changes":["New"]}]}

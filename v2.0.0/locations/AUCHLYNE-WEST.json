@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"AUCHLYNE-WEST","gauges":[{"name":"AUCHLYNE-WEST","ranges":[["1955/01","1956/10"],["1957/01","1959/08"]]},{"name":"AUCHLYNE-WEST-2","ranges":[["1957/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/AUCHLYNE-WEST"},"history":[{"version":"v2.0.0","location":"AUCHLYNE-WEST","changes":["New"]}]}

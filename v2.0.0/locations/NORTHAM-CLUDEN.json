@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"NORTHAM-CLUDEN","gauges":[{"name":"NORTHAM-CLUDEN","ranges":[["1924/01","1931/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/NORTHAM-CLUDEN"},"history":[{"version":"v2.0.0","location":"NORTHAM-CLUDEN","changes":["New"]}]}

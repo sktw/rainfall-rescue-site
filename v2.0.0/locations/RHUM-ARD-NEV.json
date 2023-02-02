@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"RHUM-ARD-NEV","gauges":[{"name":"RHUM-ARD-NEV","ranges":[["1957/11","1960/06"]]},{"name":"RHUM-ARD-NEV-2","ranges":[["1958/09","1958/09"],["1958/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/RHUM-ARD-NEV"},"history":[{"version":"v2.0.0","location":"RHUM-ARD-NEV","changes":["New"]}]}

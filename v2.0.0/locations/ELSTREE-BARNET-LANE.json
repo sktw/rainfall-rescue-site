@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ELSTREE-BARNET-LANE","gauges":[{"name":"ELSTREE-BARNET-LANE","ranges":[["1928/03","1933/02"],["1933/04","1934/02"],["1934/04","1939/12"],["1940/03","1942/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ELSTREE-BARNET-LANE"},"history":[{"version":"v2.0.0","location":"ELSTREE-BARNET-LANE","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CORRIS-PANTPERTHOG","gauges":[{"name":"CORRIS-PANTPERTHOG","ranges":[["1936/02","1941/12"],["1944/01","1947/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CORRIS-PANTPERTHOG"},"history":[{"version":"v2.0.0","location":"CORRIS-PANTPERTHOG","changes":["New"]}]}

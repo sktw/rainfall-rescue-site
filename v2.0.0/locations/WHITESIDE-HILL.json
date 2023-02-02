@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WHITESIDE-HILL","gauges":[{"name":"WHITESIDE-HILL","ranges":[["1947/01","1950/11"],["1951/04","1951/11"],["1952/01","1953/12"],["1954/03","1954/04"],["1954/06","1954/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WHITESIDE-HILL"},"history":[{"version":"v2.0.0","location":"WHITESIDE-HILL","changes":["New"]}]}

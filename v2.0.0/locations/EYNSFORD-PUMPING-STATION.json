@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"EYNSFORD-PUMPING-STATION","gauges":[{"name":"EYNSFORD-PUMPING-STATION","ranges":[["1929/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/EYNSFORD-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"EYNSFORD-PUMPING-STATION","changes":["New"]}]}

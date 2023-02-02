@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"KINGTON-SUNSET","gauges":[{"name":"KINGTON-SUNSET","ranges":[["1919/01","1936/12"]]},{"name":"KINGTON-SUNSET-2","ranges":[["1926/09","1926/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/KINGTON-SUNSET"},"history":[{"version":"v2.0.0","location":"KINGTON-SUNSET","changes":["New"]}]}

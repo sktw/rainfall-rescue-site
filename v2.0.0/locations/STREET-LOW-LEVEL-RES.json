@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"STREET-LOW-LEVEL-RES","gauges":[{"name":"STREET-LOW-LEVEL-RES","ranges":[["1947/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/STREET-LOW-LEVEL-RES"},"history":[{"version":"v2.0.0","location":"STREET-LOW-LEVEL-RES","changes":["New"]}]}

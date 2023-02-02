@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BATH-HAMILTON-ROAD","gauges":[{"name":"BATH-HAMILTON-ROAD","ranges":[["1937/01","1940/12"],["1943/08","1956/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BATH-HAMILTON-ROAD"},"history":[{"version":"v2.0.0","location":"BATH-HAMILTON-ROAD","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HAWICK-SEWAGE-WORKS","gauges":[{"name":"HAWICK-SEWAGE-WORKS","ranges":[["1956/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HAWICK-SEWAGE-WORKS"},"history":[{"version":"v2.0.0","location":"HAWICK-SEWAGE-WORKS","changes":["New"]}]}

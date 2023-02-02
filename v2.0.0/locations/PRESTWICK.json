@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"PRESTWICK","gauges":[{"name":"PRESTWICK","ranges":[["1908/01","1910/12"]]},{"name":"PRESTWICK-2","ranges":[["1932/01","1958/09"],["1958/11","1959/07"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/PRESTWICK"},"history":[{"version":"v2.0.0","location":"PRESTWICK","changes":["New"]}]}

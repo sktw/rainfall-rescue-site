@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"REIGATE-WRAY-LODGE","gauges":[{"name":"REIGATE-WRAY-LODGE","ranges":[["1870/01","1891/12"]]},{"name":"REIGATE-WRAY-LODGE-2","ranges":[["1900/01","1921/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/REIGATE-WRAY-LODGE"},"history":[{"version":"v2.0.0","location":"REIGATE-WRAY-LODGE","changes":["New"]}]}

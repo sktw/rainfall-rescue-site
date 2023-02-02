@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WROXHAM","gauges":[{"name":"WROXHAM","ranges":[["1909/07","1909/12"],["1911/01","1911/12"],["1921/01","1926/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WROXHAM"},"history":[{"version":"v2.0.0","location":"WROXHAM","changes":["New"]}]}

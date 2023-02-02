@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SWANSEA-LE-MAYALS","gauges":[{"name":"SWANSEA-LE-MAYALS","ranges":[["1897/09","1903/08"],["1903/12","1905/12"],["1907/01","1909/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SWANSEA-LE-MAYALS"},"history":[{"version":"v2.0.0","location":"SWANSEA-LE-MAYALS","changes":["New"]}]}

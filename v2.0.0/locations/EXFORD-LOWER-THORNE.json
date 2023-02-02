@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"EXFORD-LOWER-THORNE","gauges":[{"name":"EXFORD-LOWER-THORNE","ranges":[["1948/04","1950/11"],["1951/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/EXFORD-LOWER-THORNE"},"history":[{"version":"v2.0.0","location":"EXFORD-LOWER-THORNE","changes":["New"]}]}

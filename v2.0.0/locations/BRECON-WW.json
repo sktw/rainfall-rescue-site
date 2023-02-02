@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BRECON-WW","gauges":[{"name":"BRECON-WW","ranges":[["1939/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BRECON-WW"},"history":[{"version":"v2.0.0","location":"BRECON-WW","changes":["New"]}]}

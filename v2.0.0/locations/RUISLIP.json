@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"RUISLIP","gauges":[{"name":"RUISLIP","ranges":[["1944/11","1949/12"],["1950/02","1952/01"],["1952/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/RUISLIP"},"history":[{"version":"v2.0.0","location":"RUISLIP","changes":["New"]}]}

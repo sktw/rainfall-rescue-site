@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LEWES-IFORD","gauges":[{"name":"LEWES-IFORD","ranges":[["1879/01","1893/12"]]},{"name":"LEWES-IFORD-2","ranges":[["1898/04","1902/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LEWES-IFORD"},"history":[{"version":"v2.0.0","location":"LEWES-IFORD","changes":["New"]}]}

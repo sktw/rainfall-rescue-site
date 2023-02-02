@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"PEEBLES-HYDRO","gauges":[{"name":"PEEBLES-HYDRO","ranges":[["1925/01","1930/01"],["1930/04","1930/05"],["1930/08","1933/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/PEEBLES-HYDRO"},"history":[{"version":"v2.0.0","location":"PEEBLES-HYDRO","changes":["New"]}]}

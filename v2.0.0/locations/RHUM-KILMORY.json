@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"RHUM-KILMORY","gauges":[{"name":"RHUM-KILMORY","ranges":[["1957/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/RHUM-KILMORY"},"history":[{"version":"v2.0.0","location":"RHUM-KILMORY","changes":["New"]}]}

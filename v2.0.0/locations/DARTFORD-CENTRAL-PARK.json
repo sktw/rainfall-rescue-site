@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DARTFORD-CENTRAL-PARK","gauges":[{"name":"DARTFORD-CENTRAL-PARK","ranges":[["1950/01","1950/01"],["1950/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DARTFORD-CENTRAL-PARK"},"history":[{"version":"v2.0.0","location":"DARTFORD-CENTRAL-PARK","changes":["New"]}]}

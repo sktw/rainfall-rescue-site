@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MARKET-RASEN-TEALBY","gauges":[{"name":"MARKET-RASEN-TEALBY","ranges":[["1892/01","1892/12"],["1896/01","1897/12"],["1899/01","1901/12"],["1903/01","1910/11"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MARKET-RASEN-TEALBY"},"history":[{"version":"v2.0.0","location":"MARKET-RASEN-TEALBY","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"STANDON-PUMPING-STATION","gauges":[{"name":"STANDON-PUMPING-STATION","ranges":[["1960/07","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/STANDON-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"STANDON-PUMPING-STATION","changes":["New"]}]}

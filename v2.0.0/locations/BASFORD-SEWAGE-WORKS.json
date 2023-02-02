@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BASFORD-SEWAGE-WORKS","gauges":[{"name":"BASFORD-SEWAGE-WORKS","ranges":[["1928/01","1932/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BASFORD-SEWAGE-WORKS"},"history":[{"version":"v2.0.0","location":"BASFORD-SEWAGE-WORKS","changes":["New"]}]}

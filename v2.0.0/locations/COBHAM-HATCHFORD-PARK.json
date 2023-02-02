@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"COBHAM-HATCHFORD-PARK","gauges":[{"name":"COBHAM-HATCHFORD-PARK","ranges":[["1900/01","1922/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/COBHAM-HATCHFORD-PARK"},"history":[{"version":"v2.0.0","location":"COBHAM-HATCHFORD-PARK","changes":["New"]}]}

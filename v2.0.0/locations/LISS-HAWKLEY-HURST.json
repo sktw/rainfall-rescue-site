@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LISS-HAWKLEY-HURST","gauges":[{"name":"LISS-HAWKLEY-HURST","ranges":[["1923/01","1951/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LISS-HAWKLEY-HURST"},"history":[{"version":"v2.0.0","location":"LISS-HAWKLEY-HURST","changes":["New"]}]}

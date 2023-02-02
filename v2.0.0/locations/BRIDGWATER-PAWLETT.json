@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BRIDGWATER-PAWLETT","gauges":[{"name":"BRIDGWATER-PAWLETT","ranges":[["1895/01","1904/12"]]},{"name":"BRIDGWATER-PAWLETT-2","ranges":[["1902/08","1904/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BRIDGWATER-PAWLETT"},"history":[{"version":"v2.0.0","location":"BRIDGWATER-PAWLETT","changes":["New"]}]}

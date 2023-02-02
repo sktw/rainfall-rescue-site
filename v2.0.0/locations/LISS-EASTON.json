@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LISS-EASTON","gauges":[{"name":"LISS-EASTON","ranges":[["1924/01","1932/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LISS-EASTON"},"history":[{"version":"v2.0.0","location":"LISS-EASTON","changes":["New"]}]}

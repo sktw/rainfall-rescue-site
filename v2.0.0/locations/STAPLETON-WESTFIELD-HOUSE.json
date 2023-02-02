@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"STAPLETON-WESTFIELD-HOUSE","gauges":[{"name":"STAPLETON-WESTFIELD-HOUSE","ranges":[["1877/01","1878/03"],["1878/07","1884/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/STAPLETON-WESTFIELD-HOUSE"},"history":[{"version":"v2.0.0","location":"STAPLETON-WESTFIELD-HOUSE","changes":["New"]}]}

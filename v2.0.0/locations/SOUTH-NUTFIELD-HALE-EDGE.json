@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SOUTH-NUTFIELD-HALE-EDGE","gauges":[{"name":"SOUTH-NUTFIELD-HALE-EDGE","ranges":[["1905/01","1931/06"],["1931/09","1931/10"],["1931/12","1940/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SOUTH-NUTFIELD-HALE-EDGE"},"history":[{"version":"v2.0.0","location":"SOUTH-NUTFIELD-HALE-EDGE","changes":["New"]}]}

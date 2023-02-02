@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LENHAM","gauges":[{"name":"LENHAM","ranges":[["1871/05","1874/04"]]},{"name":"LENHAM-2","ranges":[["1930/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LENHAM"},"history":[{"version":"v2.0.0","location":"LENHAM","changes":["New"]}]}

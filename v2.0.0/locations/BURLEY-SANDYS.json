@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BURLEY-SANDYS","gauges":[{"name":"BURLEY-SANDYS","ranges":[["1926/01","1946/03"]]},{"name":"BURLEY-SANDYS-2","ranges":[["1946/04","1950/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BURLEY-SANDYS"},"history":[{"version":"v2.0.0","location":"BURLEY-SANDYS","changes":["New"]}]}

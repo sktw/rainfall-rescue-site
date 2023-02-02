@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ALLT-ACHNOIC","gauges":[{"name":"ALLT-ACHNOIC","ranges":[["1948/01","1953/05"],["1953/08","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ALLT-ACHNOIC"},"history":[{"version":"v2.0.0","location":"ALLT-ACHNOIC","changes":["New"]}]}

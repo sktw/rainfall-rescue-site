@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"UCKFIELD-PILTDOWN","gauges":[{"name":"UCKFIELD-PILTDOWN","ranges":[["1918/09","1921/12"]]},{"name":"UCKFIELD-PILTDOWN-2","ranges":[["1918/01","1955/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/UCKFIELD-PILTDOWN"},"history":[{"version":"v2.0.0","location":"UCKFIELD-PILTDOWN","changes":["New"]}]}

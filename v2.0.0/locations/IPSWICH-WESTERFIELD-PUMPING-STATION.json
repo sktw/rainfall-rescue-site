@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"IPSWICH-WESTERFIELD-PUMPING-STATION","gauges":[{"name":"IPSWICH-WESTERFIELD-PUMPING-STATION","ranges":[["1953/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/IPSWICH-WESTERFIELD-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"IPSWICH-WESTERFIELD-PUMPING-STATION","changes":["New"]}]}

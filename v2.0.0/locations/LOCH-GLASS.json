@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LOCH-GLASS","gauges":[{"name":"LOCH-GLASS","ranges":[["1960/01","1960/03"],["1960/06","1960/08"],["1960/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LOCH-GLASS"},"history":[{"version":"v2.0.0","location":"LOCH-GLASS","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BELPER-QUARRY-BANK","gauges":[{"name":"BELPER-QUARRY-BANK","ranges":[["1882/04","1898/12"]]},{"name":"BELPER-QUARRY-BANK-2","ranges":[["1899/01","1936/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BELPER-QUARRY-BANK"},"history":[{"version":"v2.0.0","location":"BELPER-QUARRY-BANK","changes":["New"]}]}

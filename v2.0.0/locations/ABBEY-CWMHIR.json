@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ABBEY-CWMHIR","gauges":[{"name":"ABBEY-CWMHIR","ranges":[["1908/01","1916/08"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ABBEY-CWMHIR"},"history":[{"version":"v2.0.0","location":"ABBEY-CWMHIR","changes":["New"]}]}

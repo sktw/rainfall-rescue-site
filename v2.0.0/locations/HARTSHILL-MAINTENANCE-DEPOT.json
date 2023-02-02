@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HARTSHILL-MAINTENANCE-DEPOT","gauges":[{"name":"HARTSHILL-MAINTENANCE-DEPOT","ranges":[["1952/01","1957/12"],["1960/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HARTSHILL-MAINTENANCE-DEPOT"},"history":[{"version":"v2.0.0","location":"HARTSHILL-MAINTENANCE-DEPOT","changes":["New"]}]}

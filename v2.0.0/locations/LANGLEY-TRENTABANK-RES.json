@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LANGLEY-TRENTABANK-RES","gauges":[{"name":"LANGLEY-TRENTABANK-RES","ranges":[["1930/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LANGLEY-TRENTABANK-RES"},"history":[{"version":"v2.0.0","location":"LANGLEY-TRENTABANK-RES","changes":["New"]}]}

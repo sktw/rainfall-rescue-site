@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SEATON-SEAFIELD","gauges":[{"name":"SEATON-SEAFIELD","ranges":[["1905/01","1919/10"]]},{"name":"SEATON-SEAFIELD-2","ranges":[["1932/01","1948/08"],["1948/10","1948/11"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SEATON-SEAFIELD"},"history":[{"version":"v2.0.0","location":"SEATON-SEAFIELD","changes":["New"]}]}

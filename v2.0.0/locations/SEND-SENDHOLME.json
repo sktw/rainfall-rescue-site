@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SEND-SENDHOLME","gauges":[{"name":"SEND-SENDHOLME","ranges":[["1910/01","1916/12"],["1921/01","1925/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SEND-SENDHOLME"},"history":[{"version":"v2.0.0","location":"SEND-SENDHOLME","changes":["New"]}]}

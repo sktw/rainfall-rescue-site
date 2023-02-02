@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LOGAU-LAS-MINE","gauges":[{"name":"LOGAU-LAS-MINE","ranges":[["1866/01","1869/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LOGAU-LAS-MINE"},"history":[{"version":"v2.0.0","location":"LOGAU-LAS-MINE","changes":["New"]}]}

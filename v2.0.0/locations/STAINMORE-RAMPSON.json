@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"STAINMORE-RAMPSON","gauges":[{"name":"STAINMORE-RAMPSON","ranges":[["1920/08","1931/12"]]},{"name":"STAINMORE-RAMPSON-2","ranges":[["1928/01","1931/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/STAINMORE-RAMPSON"},"history":[{"version":"v2.0.0","location":"STAINMORE-RAMPSON","changes":["New"]}]}

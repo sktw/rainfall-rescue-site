@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"GRIMSETTER-AIRPORT","gauges":[{"name":"GRIMSETTER-AIRPORT","ranges":[["1950/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/GRIMSETTER-AIRPORT"},"history":[{"version":"v2.0.0","location":"GRIMSETTER-AIRPORT","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SHOTTS-RES","gauges":[{"name":"SHOTTS-RES","ranges":[["1945/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SHOTTS-RES"},"history":[{"version":"v2.0.0","location":"SHOTTS-RES","changes":["New"]}]}

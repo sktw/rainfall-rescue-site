@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"PEN-Y-MAES-HAY","gauges":[{"name":"PEN-Y-MAES-HAY","ranges":[["1860/01","1860/07"],["1860/10","1866/04"],["1866/07","1869/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/PEN-Y-MAES-HAY"},"history":[{"version":"v2.0.0","location":"PEN-Y-MAES-HAY","changes":["New"]}]}

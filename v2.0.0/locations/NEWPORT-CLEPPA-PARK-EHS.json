@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"NEWPORT-CLEPPA-PARK-EHS","gauges":[{"name":"NEWPORT-CLEPPA-PARK-EHS","ranges":[["1952/10","1952/11"],["1953/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/NEWPORT-CLEPPA-PARK-EHS"},"history":[{"version":"v2.0.0","location":"NEWPORT-CLEPPA-PARK-EHS","changes":["New"]}]}

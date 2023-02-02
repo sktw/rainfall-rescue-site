@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WHITEHALL-PUMPING-STATION","gauges":[{"name":"WHITEHALL-PUMPING-STATION","ranges":[["1954/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WHITEHALL-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"WHITEHALL-PUMPING-STATION","changes":["New"]}]}

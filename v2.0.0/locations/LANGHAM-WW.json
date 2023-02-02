@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LANGHAM-WW","gauges":[{"name":"LANGHAM-WW","ranges":[["1934/01","1935/12"]]},{"name":"LANGHAM-WW-2","ranges":[["1934/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LANGHAM-WW"},"history":[{"version":"v2.0.0","location":"LANGHAM-WW","changes":["New"]}]}

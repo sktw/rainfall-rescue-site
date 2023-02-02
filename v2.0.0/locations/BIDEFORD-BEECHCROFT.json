@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BIDEFORD-BEECHCROFT","gauges":[{"name":"BIDEFORD-BEECHCROFT","ranges":[["1903/05","1913/05"]]},{"name":"BIDEFORD-BEECHCROFT-2","ranges":[["1910/03","1913/06"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BIDEFORD-BEECHCROFT"},"history":[{"version":"v2.0.0","location":"BIDEFORD-BEECHCROFT","changes":["New"]}]}

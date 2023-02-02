@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SHOTLEY-BRIDGE","gauges":[{"name":"SHOTLEY-BRIDGE","ranges":[["1882/01","1890/03"],["1890/07","1896/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SHOTLEY-BRIDGE"},"history":[{"version":"v2.0.0","location":"SHOTLEY-BRIDGE","changes":["New"]}]}

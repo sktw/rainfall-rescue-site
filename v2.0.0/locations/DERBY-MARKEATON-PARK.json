@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DERBY-MARKEATON-PARK","gauges":[{"name":"DERBY-MARKEATON-PARK","ranges":[["1935/01","1935/12"],["1936/02","1946/12"],["1947/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DERBY-MARKEATON-PARK"},"history":[{"version":"v2.0.0","location":"DERBY-MARKEATON-PARK","changes":["New"]}]}

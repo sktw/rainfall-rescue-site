@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"AMPTHILL-MAULDEN","gauges":[{"name":"AMPTHILL-MAULDEN","ranges":[["1890/01","1894/12"],["1895/02","1899/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/AMPTHILL-MAULDEN"},"history":[{"version":"v2.0.0","location":"AMPTHILL-MAULDEN","changes":["New"]}]}

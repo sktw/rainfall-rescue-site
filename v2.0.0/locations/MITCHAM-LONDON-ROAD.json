@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MITCHAM-LONDON-ROAD","gauges":[{"name":"MITCHAM-LONDON-ROAD","ranges":[["1938/01","1941/07"],["1941/09","1944/12"],["1946/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MITCHAM-LONDON-ROAD"},"history":[{"version":"v2.0.0","location":"MITCHAM-LONDON-ROAD","changes":["New"]}]}

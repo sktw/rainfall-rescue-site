@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"STROUD-THRUPP","gauges":[{"name":"STROUD-THRUPP","ranges":[["1930/03","1945/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/STROUD-THRUPP"},"history":[{"version":"v2.0.0","location":"STROUD-THRUPP","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HARPSDEN-CRAY","gauges":[{"name":"HARPSDEN-CRAY","ranges":[["1911/06","1914/12"]]},{"name":"HARPSDEN-CRAY-2","ranges":[["1914/01","1937/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HARPSDEN-CRAY"},"history":[{"version":"v2.0.0","location":"HARPSDEN-CRAY","changes":["New"]}]}

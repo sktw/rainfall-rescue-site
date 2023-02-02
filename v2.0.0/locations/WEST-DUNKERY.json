@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WEST-DUNKERY","gauges":[{"name":"WEST-DUNKERY","ranges":[["1951/07","1952/10"],["1952/12","1954/02"],["1954/04","1956/06"],["1956/08","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WEST-DUNKERY"},"history":[{"version":"v2.0.0","location":"WEST-DUNKERY","changes":["New"]}]}

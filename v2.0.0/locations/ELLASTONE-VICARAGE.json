@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ELLASTONE-VICARAGE","gauges":[{"name":"ELLASTONE-VICARAGE","ranges":[["1863/01","1874/12"]]},{"name":"ELLASTONE-VICARAGE-2","ranges":[["1957/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ELLASTONE-VICARAGE"},"history":[{"version":"v2.0.0","location":"ELLASTONE-VICARAGE","changes":["New"]}]}

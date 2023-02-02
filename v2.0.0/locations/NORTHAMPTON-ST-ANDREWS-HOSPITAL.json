@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"NORTHAMPTON-ST-ANDREWS-HOSPITAL","gauges":[{"name":"NORTHAMPTON-ST-ANDREWS-HOSPITAL","ranges":[["1933/10","1941/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/NORTHAMPTON-ST-ANDREWS-HOSPITAL"},"history":[{"version":"v2.0.0","location":"NORTHAMPTON-ST-ANDREWS-HOSPITAL","changes":["New"]}]}

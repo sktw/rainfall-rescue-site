@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MAIDSTONE-MOTE-PARK","gauges":[{"name":"MAIDSTONE-MOTE-PARK","ranges":[["1884/01","1890/12"],["1892/01","1894/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MAIDSTONE-MOTE-PARK"},"history":[{"version":"v2.0.0","location":"MAIDSTONE-MOTE-PARK","changes":["New"]}]}

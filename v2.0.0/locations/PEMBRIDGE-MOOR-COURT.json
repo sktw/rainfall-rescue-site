@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"PEMBRIDGE-MOOR-COURT","gauges":[{"name":"PEMBRIDGE-MOOR-COURT","ranges":[["1928/01","1928/12"],["1930/01","1938/12"],["1940/01","1942/12"],["1943/07","1958/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/PEMBRIDGE-MOOR-COURT"},"history":[{"version":"v2.0.0","location":"PEMBRIDGE-MOOR-COURT","changes":["New"]}]}

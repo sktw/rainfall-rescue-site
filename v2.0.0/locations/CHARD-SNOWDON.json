@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CHARD-SNOWDON","gauges":[{"name":"CHARD-SNOWDON","ranges":[["1935/11","1946/12"],["1947/03","1948/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CHARD-SNOWDON"},"history":[{"version":"v2.0.0","location":"CHARD-SNOWDON","changes":["New"]}]}

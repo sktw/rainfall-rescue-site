@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BEARE-GREEN-WIGMORE","gauges":[{"name":"BEARE-GREEN-WIGMORE","ranges":[["1910/01","1938/12"]]},{"name":"BEARE-GREEN-WIGMORE-2","ranges":[["1936/05","1943/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BEARE-GREEN-WIGMORE"},"history":[{"version":"v2.0.0","location":"BEARE-GREEN-WIGMORE","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"FARNHAM-CULVERLANDS","gauges":[{"name":"FARNHAM-CULVERLANDS","ranges":[["1866/01","1875/03"]]},{"name":"FARNHAM-CULVERLANDS-2","ranges":[["1875/04","1875/09"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/FARNHAM-CULVERLANDS"},"history":[{"version":"v2.0.0","location":"FARNHAM-CULVERLANDS","changes":["New"]}]}

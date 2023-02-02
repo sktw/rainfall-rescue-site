@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ILKESTON-SEWAGE-WORKS","gauges":[{"name":"ILKESTON-SEWAGE-WORKS","ranges":[["1915/01","1927/12"],["1934/05","1940/12"],["1941/02","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ILKESTON-SEWAGE-WORKS"},"history":[{"version":"v2.0.0","location":"ILKESTON-SEWAGE-WORKS","changes":["New"]}]}

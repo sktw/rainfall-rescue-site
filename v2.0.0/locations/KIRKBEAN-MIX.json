@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"KIRKBEAN-MIX","gauges":[{"name":"KIRKBEAN-MIX","ranges":[["1874/01","1882/12"]]},{"name":"KIRKBEAN-MIX-2","ranges":[["1906/01","1906/12"],["1907/08","1913/11"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/KIRKBEAN-MIX"},"history":[{"version":"v2.0.0","location":"KIRKBEAN-MIX","changes":["New"]}]}

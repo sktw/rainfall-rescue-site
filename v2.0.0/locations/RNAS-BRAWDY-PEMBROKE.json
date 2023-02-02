@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"RNAS-BRAWDY-PEMBROKE","gauges":[{"name":"RNAS-BRAWDY-PEMBROKE","ranges":[["1955/12","1956/12"],["1957/02","1957/03"],["1957/05","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/RNAS-BRAWDY-PEMBROKE"},"history":[{"version":"v2.0.0","location":"RNAS-BRAWDY-PEMBROKE","changes":["New"]}]}

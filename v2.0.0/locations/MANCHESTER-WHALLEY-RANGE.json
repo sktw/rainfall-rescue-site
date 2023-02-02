@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MANCHESTER-WHALLEY-RANGE","gauges":[{"name":"MANCHESTER-WHALLEY-RANGE","ranges":[["1910/04","1914/12"],["1916/01","1916/07"],["1921/01","1924/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MANCHESTER-WHALLEY-RANGE"},"history":[{"version":"v2.0.0","location":"MANCHESTER-WHALLEY-RANGE","changes":["New"]}]}

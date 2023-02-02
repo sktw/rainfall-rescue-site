@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"COTTINGHAM-GRANGE","gauges":[{"name":"COTTINGHAM-GRANGE","ranges":[["1894/07","1899/12"]]},{"name":"COTTINGHAM-GRANGE-2","ranges":[["1899/02","1899/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/COTTINGHAM-GRANGE"},"history":[{"version":"v2.0.0","location":"COTTINGHAM-GRANGE","changes":["New"]}]}

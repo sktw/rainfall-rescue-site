@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HORSHAM-SELEHURST","gauges":[{"name":"HORSHAM-SELEHURST","ranges":[["1882/01","1907/05"]]},{"name":"HORSHAM-SELEHURST-2","ranges":[["1907/06","1908/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HORSHAM-SELEHURST"},"history":[{"version":"v2.0.0","location":"HORSHAM-SELEHURST","changes":["New"]}]}

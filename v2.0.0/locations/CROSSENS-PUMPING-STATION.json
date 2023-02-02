@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CROSSENS-PUMPING-STATION","gauges":[{"name":"CROSSENS-PUMPING-STATION","ranges":[["1937/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CROSSENS-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"CROSSENS-PUMPING-STATION","changes":["New"]}]}

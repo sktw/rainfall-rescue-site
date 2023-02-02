@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CROWLAND-BANK-HOUSE","gauges":[{"name":"CROWLAND-BANK-HOUSE","ranges":[["1913/01","1913/01"],["1913/03","1916/12"],["1918/01","1924/02"],["1924/06","1926/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CROWLAND-BANK-HOUSE"},"history":[{"version":"v2.0.0","location":"CROWLAND-BANK-HOUSE","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HOE-PUMPING-STATION","gauges":[{"name":"HOE-PUMPING-STATION","ranges":[["1956/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HOE-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"HOE-PUMPING-STATION","changes":["New"]}]}

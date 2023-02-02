@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SOUTHAM-RDC-OFFICES","gauges":[{"name":"SOUTHAM-RDC-OFFICES","ranges":[["1959/06","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SOUTHAM-RDC-OFFICES"},"history":[{"version":"v2.0.0","location":"SOUTHAM-RDC-OFFICES","changes":["New"]}]}

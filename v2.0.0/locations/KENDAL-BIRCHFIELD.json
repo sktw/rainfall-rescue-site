@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"KENDAL-BIRCHFIELD","gauges":[{"name":"KENDAL-BIRCHFIELD","ranges":[["1908/01","1918/12"]]},{"name":"KENDAL-BIRCHFIELD-2","ranges":[["1919/01","1922/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/KENDAL-BIRCHFIELD"},"history":[{"version":"v2.0.0","location":"KENDAL-BIRCHFIELD","changes":["New"]}]}

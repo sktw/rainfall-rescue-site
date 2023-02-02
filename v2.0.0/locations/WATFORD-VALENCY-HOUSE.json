@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WATFORD-VALENCY-HOUSE","gauges":[{"name":"WATFORD-VALENCY-HOUSE","ranges":[["1901/11","1907/06"],["1907/08","1907/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WATFORD-VALENCY-HOUSE"},"history":[{"version":"v2.0.0","location":"WATFORD-VALENCY-HOUSE","changes":["New"]}]}

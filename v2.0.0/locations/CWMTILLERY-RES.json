@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CWMTILLERY-RES","gauges":[{"name":"CWMTILLERY-RES","ranges":[["1941/02","1941/12"],["1946/01","1946/12"],["1950/01","1957/12"],["1958/02","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CWMTILLERY-RES"},"history":[{"version":"v2.0.0","location":"CWMTILLERY-RES","changes":["New"]}]}

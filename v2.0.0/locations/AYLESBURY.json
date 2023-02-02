@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"AYLESBURY","gauges":[{"name":"AYLESBURY","ranges":[["1838/01","1838/03"],["1838/10","1840/09"],["1841/01","1841/12"],["1852/01","1852/03"],["1852/07","1853/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/AYLESBURY"},"history":[{"version":"v2.0.0","location":"AYLESBURY","changes":["New"]}]}

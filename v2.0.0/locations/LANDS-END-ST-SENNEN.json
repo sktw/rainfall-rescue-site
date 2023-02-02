@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LANDS-END-ST-SENNEN","gauges":[{"name":"LANDS-END-ST-SENNEN","ranges":[["1865/12","1870/12"]]},{"name":"LANDS-END-ST-SENNEN-2","ranges":[["1871/01","1875/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LANDS-END-ST-SENNEN"},"history":[{"version":"v2.0.0","location":"LANDS-END-ST-SENNEN","changes":["New"]}]}

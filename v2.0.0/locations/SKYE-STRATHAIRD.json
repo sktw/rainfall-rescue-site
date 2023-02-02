@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SKYE-STRATHAIRD","gauges":[{"name":"SKYE-STRATHAIRD","ranges":[["1897/03","1905/12"]]},{"name":"SKYE-STRATHAIRD-2","ranges":[["1910/01","1911/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SKYE-STRATHAIRD"},"history":[{"version":"v2.0.0","location":"SKYE-STRATHAIRD","changes":["New"]}]}

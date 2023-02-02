@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CARDIFF-WW-GARN-DDU","gauges":[{"name":"CARDIFF-WW-GARN-DDU","ranges":[["1931/06","1940/12"],["1941/02","1952/01"],["1952/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CARDIFF-WW-GARN-DDU"},"history":[{"version":"v2.0.0","location":"CARDIFF-WW-GARN-DDU","changes":["New"]}]}

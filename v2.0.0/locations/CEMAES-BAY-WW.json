@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CEMAES-BAY-WW","gauges":[{"name":"CEMAES-BAY-WW","ranges":[["1950/01","1957/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CEMAES-BAY-WW"},"history":[{"version":"v2.0.0","location":"CEMAES-BAY-WW","changes":["New"]}]}

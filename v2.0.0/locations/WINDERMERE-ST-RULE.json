@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WINDERMERE-ST-RULE","gauges":[{"name":"WINDERMERE-ST-RULE","ranges":[["1932/02","1935/04"],["1935/06","1937/12"],["1938/08","1943/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WINDERMERE-ST-RULE"},"history":[{"version":"v2.0.0","location":"WINDERMERE-ST-RULE","changes":["New"]}]}

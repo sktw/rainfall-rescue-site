@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BOURNEMOUTH-AIRPORT-HURN","gauges":[{"name":"BOURNEMOUTH-AIRPORT-HURN","ranges":[["1952/01","1953/08"],["1953/10","1953/10"],["1954/01","1960/09"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BOURNEMOUTH-AIRPORT-HURN"},"history":[{"version":"v2.0.0","location":"BOURNEMOUTH-AIRPORT-HURN","changes":["New"]}]}

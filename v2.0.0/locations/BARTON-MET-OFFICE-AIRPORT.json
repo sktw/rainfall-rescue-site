@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BARTON-MET-OFFICE-AIRPORT","gauges":[{"name":"BARTON-MET-OFFICE-AIRPORT","ranges":[["1933/08","1941/09"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BARTON-MET-OFFICE-AIRPORT"},"history":[{"version":"v2.0.0","location":"BARTON-MET-OFFICE-AIRPORT","changes":["New"]}]}

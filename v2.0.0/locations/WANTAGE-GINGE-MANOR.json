@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WANTAGE-GINGE-MANOR","gauges":[{"name":"WANTAGE-GINGE-MANOR","ranges":[["1907/07","1914/05"]]},{"name":"WANTAGE-GINGE-MANOR-2","ranges":[["1914/01","1919/06"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WANTAGE-GINGE-MANOR"},"history":[{"version":"v2.0.0","location":"WANTAGE-GINGE-MANOR","changes":["New"]}]}

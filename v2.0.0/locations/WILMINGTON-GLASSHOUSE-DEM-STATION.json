@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WILMINGTON-GLASSHOUSE-DEM-STATION","gauges":[{"name":"WILMINGTON-GLASSHOUSE-DEM-STATION","ranges":[["1940/11","1955/04"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WILMINGTON-GLASSHOUSE-DEM-STATION"},"history":[{"version":"v2.0.0","location":"WILMINGTON-GLASSHOUSE-DEM-STATION","changes":["New"]}]}

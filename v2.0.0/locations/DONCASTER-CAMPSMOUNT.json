@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DONCASTER-CAMPSMOUNT","gauges":[{"name":"DONCASTER-CAMPSMOUNT","ranges":[["1880/01","1881/05"],["1881/08","1889/12"],["1913/01","1914/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DONCASTER-CAMPSMOUNT"},"history":[{"version":"v2.0.0","location":"DONCASTER-CAMPSMOUNT","changes":["New"]}]}

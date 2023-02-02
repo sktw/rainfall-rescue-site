@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BARKING","gauges":[{"name":"BARKING","ranges":[["1870/10","1873/12"]]},{"name":"BARKING-2","ranges":[["1942/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BARKING"},"history":[{"version":"v2.0.0","location":"BARKING","changes":["New"]}]}

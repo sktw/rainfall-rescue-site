@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BRADENHAM-HOUSE","gauges":[{"name":"BRADENHAM-HOUSE","ranges":[["1908/01","1912/08"],["1912/10","1914/05"],["1914/07","1916/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BRADENHAM-HOUSE"},"history":[{"version":"v2.0.0","location":"BRADENHAM-HOUSE","changes":["New"]}]}

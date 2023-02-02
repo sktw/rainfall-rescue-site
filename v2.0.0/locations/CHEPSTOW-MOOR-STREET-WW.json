@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CHEPSTOW-MOOR-STREET-WW","gauges":[{"name":"CHEPSTOW-MOOR-STREET-WW","ranges":[["1950/01","1959/12"],["1960/10","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CHEPSTOW-MOOR-STREET-WW"},"history":[{"version":"v2.0.0","location":"CHEPSTOW-MOOR-STREET-WW","changes":["New"]}]}

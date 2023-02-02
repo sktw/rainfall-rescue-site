@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LETCHWORTH-SEWAGE-FARM","gauges":[{"name":"LETCHWORTH-SEWAGE-FARM","ranges":[["1910/01","1926/07"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LETCHWORTH-SEWAGE-FARM"},"history":[{"version":"v2.0.0","location":"LETCHWORTH-SEWAGE-FARM","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"AMESBURY","gauges":[{"name":"AMESBURY","ranges":[["1882/01","1894/03"],["1894/05","1894/10"],["1895/01","1895/02"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/AMESBURY"},"history":[{"version":"v2.0.0","location":"AMESBURY","changes":["New"]}]}

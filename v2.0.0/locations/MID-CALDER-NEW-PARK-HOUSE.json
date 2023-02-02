@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MID-CALDER-NEW-PARK-HOUSE","gauges":[{"name":"MID-CALDER-NEW-PARK-HOUSE","ranges":[["1880/01","1881/12"],["1883/01","1883/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MID-CALDER-NEW-PARK-HOUSE"},"history":[{"version":"v2.0.0","location":"MID-CALDER-NEW-PARK-HOUSE","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ACRISE-ELHAM","gauges":[{"name":"ACRISE-ELHAM","ranges":[["1870/01","1870/06"],["1871/01","1882/03"]]},{"name":"ACRISE-ELHAM-2","ranges":[["1882/04","1902/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ACRISE-ELHAM"},"history":[{"version":"v2.0.0","location":"ACRISE-ELHAM","changes":["New"]}]}

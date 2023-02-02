@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"COBHAM-FAIRMILE-HATCH","gauges":[{"name":"COBHAM-FAIRMILE-HATCH","ranges":[["1919/01","1921/01"],["1921/04","1924/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/COBHAM-FAIRMILE-HATCH"},"history":[{"version":"v2.0.0","location":"COBHAM-FAIRMILE-HATCH","changes":["New"]}]}

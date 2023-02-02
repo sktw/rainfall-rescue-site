@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"KENDAL-LOW-SLACK","gauges":[{"name":"KENDAL-LOW-SLACK","ranges":[["1911/01","1920/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/KENDAL-LOW-SLACK"},"history":[{"version":"v2.0.0","location":"KENDAL-LOW-SLACK","changes":["New"]}]}

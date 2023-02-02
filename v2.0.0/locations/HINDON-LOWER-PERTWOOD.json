@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HINDON-LOWER-PERTWOOD","gauges":[{"name":"HINDON-LOWER-PERTWOOD","ranges":[["1955/01","1955/01"],["1955/04","1959/10"],["1960/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HINDON-LOWER-PERTWOOD"},"history":[{"version":"v2.0.0","location":"HINDON-LOWER-PERTWOOD","changes":["New"]}]}

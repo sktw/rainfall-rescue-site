@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"FINNINGLEY-PUMPING-STATION","gauges":[{"name":"FINNINGLEY-PUMPING-STATION","ranges":[["1959/06","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/FINNINGLEY-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"FINNINGLEY-PUMPING-STATION","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CHISWICK-GROVE-PARK","gauges":[{"name":"CHISWICK-GROVE-PARK","ranges":[["1909/01","1920/05"]]},{"name":"CHISWICK-GROVE-PARK-2","ranges":[["1921/02","1923/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CHISWICK-GROVE-PARK"},"history":[{"version":"v2.0.0","location":"CHISWICK-GROVE-PARK","changes":["New"]}]}

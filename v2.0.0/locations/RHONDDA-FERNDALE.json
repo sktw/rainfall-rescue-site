@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"RHONDDA-FERNDALE","gauges":[{"name":"RHONDDA-FERNDALE","ranges":[["1907/01","1912/12"],["1914/01","1916/05"],["1916/11","1916/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/RHONDDA-FERNDALE"},"history":[{"version":"v2.0.0","location":"RHONDDA-FERNDALE","changes":["New"]}]}

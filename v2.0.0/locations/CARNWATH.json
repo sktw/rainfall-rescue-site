@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CARNWATH","gauges":[{"name":"CARNWATH","ranges":[["1868/01","1875/12"]]},{"name":"CARNWATH-2","ranges":[["1952/04","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CARNWATH"},"history":[{"version":"v2.0.0","location":"CARNWATH","changes":["New"]}]}

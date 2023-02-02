@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BLAIRGOWRIE-ROSEMOUNT","gauges":[{"name":"BLAIRGOWRIE-ROSEMOUNT","ranges":[["1863/01","1872/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BLAIRGOWRIE-ROSEMOUNT"},"history":[{"version":"v2.0.0","location":"BLAIRGOWRIE-ROSEMOUNT","changes":["New"]}]}

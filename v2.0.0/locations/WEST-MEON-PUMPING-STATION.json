@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WEST-MEON-PUMPING-STATION","gauges":[{"name":"WEST-MEON-PUMPING-STATION","ranges":[["1956/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WEST-MEON-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"WEST-MEON-PUMPING-STATION","changes":["New"]}]}

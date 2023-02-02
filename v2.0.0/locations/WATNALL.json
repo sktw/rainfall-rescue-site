@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WATNALL","gauges":[{"name":"WATNALL","ranges":[["1941/08","1948/05"]]},{"name":"WATNALL-2","ranges":[["1948/06","1956/11"]]},{"name":"WATNALL-3","ranges":[["1956/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WATNALL"},"history":[{"version":"v2.0.0","location":"WATNALL","changes":["New"]}]}

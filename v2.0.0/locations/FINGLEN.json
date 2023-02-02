@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"FINGLEN","gauges":[{"name":"FINGLEN","ranges":[["1954/01","1957/12"]]},{"name":"FINGLEN-2","ranges":[["1955/04","1960/12"]]},{"name":"FINGLEN-3","ranges":[["1958/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/FINGLEN"},"history":[{"version":"v2.0.0","location":"FINGLEN","changes":["New"]}]}

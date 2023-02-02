@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LELANT-TREGILLY","gauges":[{"name":"LELANT-TREGILLY","ranges":[["1946/01","1949/12"]]},{"name":"LELANT-TREGILLY-2","ranges":[["1950/01","1954/02"],["1954/07","1956/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LELANT-TREGILLY"},"history":[{"version":"v2.0.0","location":"LELANT-TREGILLY","changes":["New"]}]}

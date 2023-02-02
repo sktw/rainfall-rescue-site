@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WIMBORNE-STONEHAM","gauges":[{"name":"WIMBORNE-STONEHAM","ranges":[["1907/01","1909/12"],["1911/01","1914/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WIMBORNE-STONEHAM"},"history":[{"version":"v2.0.0","location":"WIMBORNE-STONEHAM","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WROTHAM-WHITEHILL","gauges":[{"name":"WROTHAM-WHITEHILL","ranges":[["1910/01","1912/12"]]},{"name":"WROTHAM-WHITEHILL-2","ranges":[["1910/01","1912/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WROTHAM-WHITEHILL"},"history":[{"version":"v2.0.0","location":"WROTHAM-WHITEHILL","changes":["New"]}]}

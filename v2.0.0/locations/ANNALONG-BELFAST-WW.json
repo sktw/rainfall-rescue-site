@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ANNALONG-BELFAST-WW","gauges":[{"name":"ANNALONG-BELFAST-WW","ranges":[["1923/01","1938/12"]]},{"name":"ANNALONG-BELFAST-WW-2","ranges":[["1939/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ANNALONG-BELFAST-WW"},"history":[{"version":"v2.0.0","location":"ANNALONG-BELFAST-WW","changes":["New"]}]}

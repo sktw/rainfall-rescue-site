@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WORCESTER-PARK-SEWAGE-WORKS","gauges":[{"name":"WORCESTER-PARK-SEWAGE-WORKS","ranges":[["1929/01","1934/06"],["1934/08","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WORCESTER-PARK-SEWAGE-WORKS"},"history":[{"version":"v2.0.0","location":"WORCESTER-PARK-SEWAGE-WORKS","changes":["New"]}]}

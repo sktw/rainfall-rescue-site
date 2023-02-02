@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LAKE-VYRNWY-HIRNANT","gauges":[{"name":"LAKE-VYRNWY-HIRNANT","ranges":[["1941/09","1951/12"],["1952/02","1955/12"],["1956/02","1956/06"],["1956/08","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LAKE-VYRNWY-HIRNANT"},"history":[{"version":"v2.0.0","location":"LAKE-VYRNWY-HIRNANT","changes":["New"]}]}

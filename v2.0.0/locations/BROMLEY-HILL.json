@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BROMLEY-HILL","gauges":[{"name":"BROMLEY-HILL","ranges":[["1914/01","1924/03"]]},{"name":"BROMLEY-HILL-2","ranges":[["1924/05","1932/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BROMLEY-HILL"},"history":[{"version":"v2.0.0","location":"BROMLEY-HILL","changes":["New"]}]}

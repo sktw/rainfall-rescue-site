@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LENTON-EXPERIMENTAL-STATION","gauges":[{"name":"LENTON-EXPERIMENTAL-STATION","ranges":[["1952/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LENTON-EXPERIMENTAL-STATION"},"history":[{"version":"v2.0.0","location":"LENTON-EXPERIMENTAL-STATION","changes":["New"]}]}

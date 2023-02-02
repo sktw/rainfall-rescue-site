@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"FAREHAM-WEST-STREET","gauges":[{"name":"FAREHAM-WEST-STREET","ranges":[["1934/12","1953/04"],["1953/06","1958/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/FAREHAM-WEST-STREET"},"history":[{"version":"v2.0.0","location":"FAREHAM-WEST-STREET","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BRIDGE-OF-ALLAN-LANGLANDS","gauges":[{"name":"BRIDGE-OF-ALLAN-LANGLANDS","ranges":[["1929/01","1939/12"],["1941/01","1954/06"],["1955/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BRIDGE-OF-ALLAN-LANGLANDS"},"history":[{"version":"v2.0.0","location":"BRIDGE-OF-ALLAN-LANGLANDS","changes":["New"]}]}

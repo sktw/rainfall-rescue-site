@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CEFN-COCH","gauges":[{"name":"CEFN-COCH","ranges":[["1960/09","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CEFN-COCH"},"history":[{"version":"v2.0.0","location":"CEFN-COCH","changes":["New"]}]}

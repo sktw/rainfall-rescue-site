@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"STOKE-PRIOR","gauges":[{"name":"STOKE-PRIOR","ranges":[["1955/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/STOKE-PRIOR"},"history":[{"version":"v2.0.0","location":"STOKE-PRIOR","changes":["New"]}]}

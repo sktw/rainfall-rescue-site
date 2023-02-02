@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LINDAL-MOOR-MINES","gauges":[{"name":"LINDAL-MOOR-MINES","ranges":[["1894/05","1903/12"]]},{"name":"LINDAL-MOOR-MINES-2","ranges":[["1904/01","1916/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LINDAL-MOOR-MINES"},"history":[{"version":"v2.0.0","location":"LINDAL-MOOR-MINES","changes":["New"]}]}

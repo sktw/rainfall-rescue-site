@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BRIDGEND-EIW-GRAIG","gauges":[{"name":"BRIDGEND-EIW-GRAIG","ranges":[["1910/01","1926/06"]]},{"name":"BRIDGEND-EIW-GRAIG-2","ranges":[["1926/08","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BRIDGEND-EIW-GRAIG"},"history":[{"version":"v2.0.0","location":"BRIDGEND-EIW-GRAIG","changes":["New"]}]}

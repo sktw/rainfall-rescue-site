@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"STIFFORD-PUMPING-STATION","gauges":[{"name":"STIFFORD-PUMPING-STATION","ranges":[["1960/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/STIFFORD-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"STIFFORD-PUMPING-STATION","changes":["New"]}]}

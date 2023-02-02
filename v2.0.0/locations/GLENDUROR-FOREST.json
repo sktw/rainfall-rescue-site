@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"GLENDUROR-FOREST","gauges":[{"name":"GLENDUROR-FOREST","ranges":[["1944/10","1945/12"],["1950/01","1951/12"],["1953/01","1954/12"],["1956/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/GLENDUROR-FOREST"},"history":[{"version":"v2.0.0","location":"GLENDUROR-FOREST","changes":["New"]}]}

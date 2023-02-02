@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LLANWRTYD-WELLS-ABERNANT","gauges":[{"name":"LLANWRTYD-WELLS-ABERNANT","ranges":[["1939/06","1944/12"],["1945/02","1945/02"],["1946/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LLANWRTYD-WELLS-ABERNANT"},"history":[{"version":"v2.0.0","location":"LLANWRTYD-WELLS-ABERNANT","changes":["New"]}]}

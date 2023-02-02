@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LEINTWARDINE","gauges":[{"name":"LEINTWARDINE","ranges":[["1844/09","1845/02"]]},{"name":"LEINTWARDINE-2","ranges":[["1910/01","1934/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LEINTWARDINE"},"history":[{"version":"v2.0.0","location":"LEINTWARDINE","changes":["New"]}]}

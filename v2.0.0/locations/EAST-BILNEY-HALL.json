@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"EAST-BILNEY-HALL","gauges":[{"name":"EAST-BILNEY-HALL","ranges":[["1920/01","1939/07"],["1940/01","1941/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/EAST-BILNEY-HALL"},"history":[{"version":"v2.0.0","location":"EAST-BILNEY-HALL","changes":["New"]}]}

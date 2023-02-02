@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ATTENBOROUGH","gauges":[{"name":"ATTENBOROUGH","ranges":[["1931/01","1938/08"],["1938/11","1939/05"],["1940/01","1940/02"],["1940/04","1942/01"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ATTENBOROUGH"},"history":[{"version":"v2.0.0","location":"ATTENBOROUGH","changes":["New"]}]}

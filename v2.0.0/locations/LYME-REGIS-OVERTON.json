@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LYME-REGIS-OVERTON","gauges":[{"name":"LYME-REGIS-OVERTON","ranges":[["1921/01","1942/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LYME-REGIS-OVERTON"},"history":[{"version":"v2.0.0","location":"LYME-REGIS-OVERTON","changes":["New"]}]}

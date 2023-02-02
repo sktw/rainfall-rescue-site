@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"STANSTED-RAVENS","gauges":[{"name":"STANSTED-RAVENS","ranges":[["1920/01","1923/12"]]},{"name":"STANSTED-RAVENS-2","ranges":[["1924/01","1931/02"],["1931/05","1933/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/STANSTED-RAVENS"},"history":[{"version":"v2.0.0","location":"STANSTED-RAVENS","changes":["New"]}]}

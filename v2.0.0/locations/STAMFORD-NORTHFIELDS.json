@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"STAMFORD-NORTHFIELDS","gauges":[{"name":"STAMFORD-NORTHFIELDS","ranges":[["1880/01","1893/12"],["1896/09","1899/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/STAMFORD-NORTHFIELDS"},"history":[{"version":"v2.0.0","location":"STAMFORD-NORTHFIELDS","changes":["New"]}]}

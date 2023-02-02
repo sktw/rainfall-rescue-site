@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WARLINGHAM-EGREMONT","gauges":[{"name":"WARLINGHAM-EGREMONT","ranges":[["1893/01","1900/03"]]},{"name":"WARLINGHAM-EGREMONT-2","ranges":[["1900/04","1913/10"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WARLINGHAM-EGREMONT"},"history":[{"version":"v2.0.0","location":"WARLINGHAM-EGREMONT","changes":["New"]}]}

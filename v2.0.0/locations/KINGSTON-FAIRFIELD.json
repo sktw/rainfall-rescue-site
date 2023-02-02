@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"KINGSTON-FAIRFIELD","gauges":[{"name":"KINGSTON-FAIRFIELD","ranges":[["1860/01","1861/12"],["1865/01","1869/12"],["1870/02","1870/04"],["1870/06","1870/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/KINGSTON-FAIRFIELD"},"history":[{"version":"v2.0.0","location":"KINGSTON-FAIRFIELD","changes":["New"]}]}

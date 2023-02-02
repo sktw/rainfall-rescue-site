@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"OLD-BYLAND","gauges":[{"name":"OLD-BYLAND","ranges":[["1918/10","1920/03"]]},{"name":"OLD-BYLAND-2","ranges":[["1920/04","1923/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/OLD-BYLAND"},"history":[{"version":"v2.0.0","location":"OLD-BYLAND","changes":["New"]}]}

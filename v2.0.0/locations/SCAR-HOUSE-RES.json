@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SCAR-HOUSE-RES","gauges":[{"name":"SCAR-HOUSE-RES","ranges":[["1943/01","1944/12"],["1946/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SCAR-HOUSE-RES"},"history":[{"version":"v2.0.0","location":"SCAR-HOUSE-RES","changes":["New"]}]}

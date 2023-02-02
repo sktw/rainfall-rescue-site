@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"PETERSFIELD-NURSTED","gauges":[{"name":"PETERSFIELD-NURSTED","ranges":[["1911/01","1911/12"],["1912/09","1912/09"],["1913/01","1921/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/PETERSFIELD-NURSTED"},"history":[{"version":"v2.0.0","location":"PETERSFIELD-NURSTED","changes":["New"]}]}

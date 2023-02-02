@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BUSBY-THORNTON-HALL","gauges":[{"name":"BUSBY-THORNTON-HALL","ranges":[["1907/01","1936/12"]]},{"name":"BUSBY-THORNTON-HALL-2","ranges":[["1952/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BUSBY-THORNTON-HALL"},"history":[{"version":"v2.0.0","location":"BUSBY-THORNTON-HALL","changes":["New"]}]}

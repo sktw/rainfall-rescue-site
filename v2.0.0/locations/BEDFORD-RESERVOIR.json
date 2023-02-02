@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BEDFORD-RESERVOIR","gauges":[{"name":"BEDFORD-RESERVOIR","ranges":[["1956/01","1957/12"]]},{"name":"BEDFORD-RESERVOIR-2","ranges":[["1957/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BEDFORD-RESERVOIR"},"history":[{"version":"v2.0.0","location":"BEDFORD-RESERVOIR","changes":["New"]}]}

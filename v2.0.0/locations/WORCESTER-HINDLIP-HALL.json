@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WORCESTER-HINDLIP-HALL","gauges":[{"name":"WORCESTER-HINDLIP-HALL","ranges":[["1914/01","1914/12"],["1916/01","1920/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WORCESTER-HINDLIP-HALL"},"history":[{"version":"v2.0.0","location":"WORCESTER-HINDLIP-HALL","changes":["New"]}]}

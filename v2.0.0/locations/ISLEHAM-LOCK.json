@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ISLEHAM-LOCK","gauges":[{"name":"ISLEHAM-LOCK","ranges":[["1936/01","1949/01"],["1949/03","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ISLEHAM-LOCK"},"history":[{"version":"v2.0.0","location":"ISLEHAM-LOCK","changes":["New"]}]}

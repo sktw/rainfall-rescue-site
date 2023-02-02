@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"EASTRY-BREWERY","gauges":[{"name":"EASTRY-BREWERY","ranges":[["1896/01","1899/12"]]},{"name":"EASTRY-BREWERY-2","ranges":[["1904/01","1918/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/EASTRY-BREWERY"},"history":[{"version":"v2.0.0","location":"EASTRY-BREWERY","changes":["New"]}]}

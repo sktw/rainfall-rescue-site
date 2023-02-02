@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DAER-KIRKHOPE","gauges":[{"name":"DAER-KIRKHOPE","ranges":[["1948/03","1955/10"]]},{"name":"DAER-KIRKHOPE-2","ranges":[["1954/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DAER-KIRKHOPE"},"history":[{"version":"v2.0.0","location":"DAER-KIRKHOPE","changes":["New"]}]}

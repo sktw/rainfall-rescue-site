@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SWANSEA-THE-KNOLL","gauges":[{"name":"SWANSEA-THE-KNOLL","ranges":[["1897/01","1910/12"]]},{"name":"SWANSEA-THE-KNOLL-2","ranges":[["1910/01","1919/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SWANSEA-THE-KNOLL"},"history":[{"version":"v2.0.0","location":"SWANSEA-THE-KNOLL","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MARLOW-HURLEY-HOUSE","gauges":[{"name":"MARLOW-HURLEY-HOUSE","ranges":[["1924/12","1940/12"]]},{"name":"MARLOW-HURLEY-HOUSE-2","ranges":[["1951/12","1953/05"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MARLOW-HURLEY-HOUSE"},"history":[{"version":"v2.0.0","location":"MARLOW-HURLEY-HOUSE","changes":["New"]}]}

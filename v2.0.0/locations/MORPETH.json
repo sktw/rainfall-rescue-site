@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MORPETH","gauges":[{"name":"MORPETH","ranges":[["1896/09","1897/12"],["1898/11","1902/12"],["1904/01","1915/12"]]},{"name":"MORPETH-2","ranges":[["1913/01","1913/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MORPETH"},"history":[{"version":"v2.0.0","location":"MORPETH","changes":["New"]}]}

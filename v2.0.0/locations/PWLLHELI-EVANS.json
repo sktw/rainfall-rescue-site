@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"PWLLHELI-EVANS","gauges":[{"name":"PWLLHELI-EVANS","ranges":[["1865/02","1866/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/PWLLHELI-EVANS"},"history":[{"version":"v2.0.0","location":"PWLLHELI-EVANS","changes":["New"]}]}

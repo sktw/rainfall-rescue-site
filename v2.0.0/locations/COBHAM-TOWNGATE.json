@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"COBHAM-TOWNGATE","gauges":[{"name":"COBHAM-TOWNGATE","ranges":[["1947/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/COBHAM-TOWNGATE"},"history":[{"version":"v2.0.0","location":"COBHAM-TOWNGATE","changes":["New"]}]}

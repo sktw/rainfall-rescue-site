@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"TADWORTH-PUMPING-STATION","gauges":[{"name":"TADWORTH-PUMPING-STATION","ranges":[["1937/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/TADWORTH-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"TADWORTH-PUMPING-STATION","changes":["New"]}]}

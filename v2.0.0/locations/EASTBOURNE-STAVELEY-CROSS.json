@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"EASTBOURNE-STAVELEY-CROSS","gauges":[{"name":"EASTBOURNE-STAVELEY-CROSS","ranges":[["1900/01","1901/06"],["1901/08","1919/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/EASTBOURNE-STAVELEY-CROSS"},"history":[{"version":"v2.0.0","location":"EASTBOURNE-STAVELEY-CROSS","changes":["New"]}]}

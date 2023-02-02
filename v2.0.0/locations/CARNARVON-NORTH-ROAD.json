@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CARNARVON-NORTH-ROAD","gauges":[{"name":"CARNARVON-NORTH-ROAD","ranges":[["1885/01","1886/07"],["1886/10","1887/07"],["1887/10","1894/02"],["1894/04","1896/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CARNARVON-NORTH-ROAD"},"history":[{"version":"v2.0.0","location":"CARNARVON-NORTH-ROAD","changes":["New"]}]}

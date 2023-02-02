@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DAER-DAERHEAD","gauges":[{"name":"DAER-DAERHEAD","ranges":[["1948/03","1948/12"]]},{"name":"DAER-DAERHEAD-2","ranges":[["1948/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DAER-DAERHEAD"},"history":[{"version":"v2.0.0","location":"DAER-DAERHEAD","changes":["New"]}]}

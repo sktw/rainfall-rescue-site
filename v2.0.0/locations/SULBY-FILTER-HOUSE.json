@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SULBY-FILTER-HOUSE","gauges":[{"name":"SULBY-FILTER-HOUSE","ranges":[["1942/05","1959/12"]]},{"name":"SULBY-FILTER-HOUSE-2","ranges":[["1942/05","1943/09"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SULBY-FILTER-HOUSE"},"history":[{"version":"v2.0.0","location":"SULBY-FILTER-HOUSE","changes":["New"]}]}

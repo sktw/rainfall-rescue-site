@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ASSYNT-FILTERS","gauges":[{"name":"ASSYNT-FILTERS","ranges":[["1960/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ASSYNT-FILTERS"},"history":[{"version":"v2.0.0","location":"ASSYNT-FILTERS","changes":["New"]}]}

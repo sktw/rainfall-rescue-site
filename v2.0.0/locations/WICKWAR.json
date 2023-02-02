@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WICKWAR","gauges":[{"name":"WICKWAR","ranges":[["1907/01","1913/12"]]},{"name":"WICKWAR-2","ranges":[["1914/01","1924/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WICKWAR"},"history":[{"version":"v2.0.0","location":"WICKWAR","changes":["New"]}]}

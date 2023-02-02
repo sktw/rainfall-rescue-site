@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WEST-PORLOCK-UNDERWAY","gauges":[{"name":"WEST-PORLOCK-UNDERWAY","ranges":[["1922/08","1937/12"],["1939/01","1940/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WEST-PORLOCK-UNDERWAY"},"history":[{"version":"v2.0.0","location":"WEST-PORLOCK-UNDERWAY","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"KIRRIEMUIR-NEWTON","gauges":[{"name":"KIRRIEMUIR-NEWTON","ranges":[["1928/11","1943/07"],["1943/11","1950/08"],["1950/11","1953/09"],["1953/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/KIRRIEMUIR-NEWTON"},"history":[{"version":"v2.0.0","location":"KIRRIEMUIR-NEWTON","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HOUSTON-MANSE","gauges":[{"name":"HOUSTON-MANSE","ranges":[["1918/01","1938/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HOUSTON-MANSE"},"history":[{"version":"v2.0.0","location":"HOUSTON-MANSE","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"EDGWARE-FRANCKLYN-GDNS","gauges":[{"name":"EDGWARE-FRANCKLYN-GDNS","ranges":[["1938/09","1947/01"],["1947/07","1954/06"],["1954/09","1955/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/EDGWARE-FRANCKLYN-GDNS"},"history":[{"version":"v2.0.0","location":"EDGWARE-FRANCKLYN-GDNS","changes":["New"]}]}

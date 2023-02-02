@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DUNSTABLE-SEWAGE-WORKS","gauges":[{"name":"DUNSTABLE-SEWAGE-WORKS","ranges":[["1959/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DUNSTABLE-SEWAGE-WORKS"},"history":[{"version":"v2.0.0","location":"DUNSTABLE-SEWAGE-WORKS","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BRAMLEY","gauges":[{"name":"BRAMLEY","ranges":[["1883/07","1885/03"],["1885/06","1885/06"],["1885/09","1886/04"],["1886/07","1890/03"],["1890/06","1891/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BRAMLEY"},"history":[{"version":"v2.0.0","location":"BRAMLEY","changes":["New"]}]}

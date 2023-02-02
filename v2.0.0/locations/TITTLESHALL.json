@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"TITTLESHALL","gauges":[{"name":"TITTLESHALL","ranges":[["1907/04","1908/07"],["1912/01","1913/12"],["1920/01","1935/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/TITTLESHALL"},"history":[{"version":"v2.0.0","location":"TITTLESHALL","changes":["New"]}]}

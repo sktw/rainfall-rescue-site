@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CHIPPENHAM-MONKTON","gauges":[{"name":"CHIPPENHAM-MONKTON","ranges":[["1903/01","1931/12"]]},{"name":"CHIPPENHAM-MONKTON-2","ranges":[["1931/08","1953/10"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CHIPPENHAM-MONKTON"},"history":[{"version":"v2.0.0","location":"CHIPPENHAM-MONKTON","changes":["New"]}]}

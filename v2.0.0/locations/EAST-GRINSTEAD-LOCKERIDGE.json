@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"EAST-GRINSTEAD-LOCKERIDGE","gauges":[{"name":"EAST-GRINSTEAD-LOCKERIDGE","ranges":[["1922/01","1954/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/EAST-GRINSTEAD-LOCKERIDGE"},"history":[{"version":"v2.0.0","location":"EAST-GRINSTEAD-LOCKERIDGE","changes":["New"]}]}

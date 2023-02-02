@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CULHAM-ZOUCH-FARM","gauges":[{"name":"CULHAM-ZOUCH-FARM","ranges":[["1925/01","1937/09"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CULHAM-ZOUCH-FARM"},"history":[{"version":"v2.0.0","location":"CULHAM-ZOUCH-FARM","changes":["New"]}]}

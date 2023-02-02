@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SWALCLIFFE-PARK","gauges":[{"name":"SWALCLIFFE-PARK","ranges":[["1883/05","1888/12"]]},{"name":"SWALCLIFFE-PARK-2","ranges":[["1889/01","1890/07"],["1890/09","1890/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SWALCLIFFE-PARK"},"history":[{"version":"v2.0.0","location":"SWALCLIFFE-PARK","changes":["New"]}]}

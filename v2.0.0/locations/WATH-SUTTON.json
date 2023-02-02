@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WATH-SUTTON","gauges":[{"name":"WATH-SUTTON","ranges":[["1789/01","1793/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WATH-SUTTON"},"history":[{"version":"v2.0.0","location":"WATH-SUTTON","changes":["New"]}]}

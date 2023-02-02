@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"DARTMOUTH-REDLAP-HOUSE","gauges":[{"name":"DARTMOUTH-REDLAP-HOUSE","ranges":[["1898/01","1909/11"],["1910/01","1911/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/DARTMOUTH-REDLAP-HOUSE"},"history":[{"version":"v2.0.0","location":"DARTMOUTH-REDLAP-HOUSE","changes":["New"]}]}

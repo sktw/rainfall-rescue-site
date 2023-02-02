@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LEDBURY-COLWALL","gauges":[{"name":"LEDBURY-COLWALL","ranges":[["1876/01","1876/08"],["1876/11","1890/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LEDBURY-COLWALL"},"history":[{"version":"v2.0.0","location":"LEDBURY-COLWALL","changes":["New"]}]}

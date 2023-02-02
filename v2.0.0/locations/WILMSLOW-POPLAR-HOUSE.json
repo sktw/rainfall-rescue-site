@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WILMSLOW-POPLAR-HOUSE","gauges":[{"name":"WILMSLOW-POPLAR-HOUSE","ranges":[["1882/08","1906/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WILMSLOW-POPLAR-HOUSE"},"history":[{"version":"v2.0.0","location":"WILMSLOW-POPLAR-HOUSE","changes":["New"]}]}

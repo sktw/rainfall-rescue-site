@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BURNHAM-FAIR-VIEW","gauges":[{"name":"BURNHAM-FAIR-VIEW","ranges":[["1896/01","1902/06"]]},{"name":"BURNHAM-FAIR-VIEW-2","ranges":[["1902/07","1917/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BURNHAM-FAIR-VIEW"},"history":[{"version":"v2.0.0","location":"BURNHAM-FAIR-VIEW","changes":["New"]}]}

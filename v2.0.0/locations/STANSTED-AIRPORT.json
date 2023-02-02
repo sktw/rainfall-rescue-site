@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"STANSTED-AIRPORT","gauges":[{"name":"STANSTED-AIRPORT","ranges":[["1952/07","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/STANSTED-AIRPORT"},"history":[{"version":"v2.0.0","location":"STANSTED-AIRPORT","changes":["New"]}]}

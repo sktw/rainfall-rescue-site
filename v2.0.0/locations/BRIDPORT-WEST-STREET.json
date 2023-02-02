@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BRIDPORT-WEST-STREET","gauges":[{"name":"BRIDPORT-WEST-STREET","ranges":[["1876/01","1882/01"],["1882/03","1882/03"],["1882/06","1884/01"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BRIDPORT-WEST-STREET"},"history":[{"version":"v2.0.0","location":"BRIDPORT-WEST-STREET","changes":["New"]}]}

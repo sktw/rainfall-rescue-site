@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SLOUGH-WINDSOR-ROAD","gauges":[{"name":"SLOUGH-WINDSOR-ROAD","ranges":[["1934/01","1938/12"]]},{"name":"SLOUGH-WINDSOR-ROAD-2","ranges":[["1938/02","1939/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SLOUGH-WINDSOR-ROAD"},"history":[{"version":"v2.0.0","location":"SLOUGH-WINDSOR-ROAD","changes":["New"]}]}

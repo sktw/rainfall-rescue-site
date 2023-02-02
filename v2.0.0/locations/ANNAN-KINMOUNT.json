@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ANNAN-KINMOUNT","gauges":[{"name":"ANNAN-KINMOUNT","ranges":[["1883/01","1887/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ANNAN-KINMOUNT"},"history":[{"version":"v2.0.0","location":"ANNAN-KINMOUNT","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MEPAL-ENGINE","gauges":[{"name":"MEPAL-ENGINE","ranges":[["1890/01","1902/11"],["1905/01","1907/12"],["1908/02","1916/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MEPAL-ENGINE"},"history":[{"version":"v2.0.0","location":"MEPAL-ENGINE","changes":["New"]}]}

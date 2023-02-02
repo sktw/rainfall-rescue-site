@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"COULSDON-THE-CHASE","gauges":[{"name":"COULSDON-THE-CHASE","ranges":[["1926/01","1932/05"]]},{"name":"COULSDON-THE-CHASE-2","ranges":[["1932/06","1939/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/COULSDON-THE-CHASE"},"history":[{"version":"v2.0.0","location":"COULSDON-THE-CHASE","changes":["New"]}]}

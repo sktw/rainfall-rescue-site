@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WICKHAM-PARK-PLACE","gauges":[{"name":"WICKHAM-PARK-PLACE","ranges":[["1911/01","1922/12"],["1924/01","1932/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WICKHAM-PARK-PLACE"},"history":[{"version":"v2.0.0","location":"WICKHAM-PARK-PLACE","changes":["New"]}]}

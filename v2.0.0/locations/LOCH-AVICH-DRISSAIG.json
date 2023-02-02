@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LOCH-AVICH-DRISSAIG","gauges":[{"name":"LOCH-AVICH-DRISSAIG","ranges":[["1939/01","1939/04"],["1939/06","1939/08"],["1942/01","1946/12"],["1947/03","1947/09"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LOCH-AVICH-DRISSAIG"},"history":[{"version":"v2.0.0","location":"LOCH-AVICH-DRISSAIG","changes":["New"]}]}

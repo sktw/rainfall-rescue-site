@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SHEFFIELD-CHAPELTOWN","gauges":[{"name":"SHEFFIELD-CHAPELTOWN","ranges":[["1880/04","1901/11"],["1902/01","1924/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SHEFFIELD-CHAPELTOWN"},"history":[{"version":"v2.0.0","location":"SHEFFIELD-CHAPELTOWN","changes":["New"]}]}

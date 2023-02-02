@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"NEWBY-BRIDGE-BACKBARROW","gauges":[{"name":"NEWBY-BRIDGE-BACKBARROW","ranges":[["1861/01","1864/12"],["1866/01","1873/10"],["1902/01","1906/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/NEWBY-BRIDGE-BACKBARROW"},"history":[{"version":"v2.0.0","location":"NEWBY-BRIDGE-BACKBARROW","changes":["New"]}]}

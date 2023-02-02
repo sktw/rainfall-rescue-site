@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CONCLOG","gauges":[{"name":"CONCLOG","ranges":[["1951/01","1960/01"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CONCLOG"},"history":[{"version":"v2.0.0","location":"CONCLOG","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MULL-CALGARY","gauges":[{"name":"MULL-CALGARY","ranges":[["1872/01","1872/01"],["1872/04","1872/04"],["1872/07","1873/12"],["1876/01","1877/03"],["1877/06","1882/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MULL-CALGARY"},"history":[{"version":"v2.0.0","location":"MULL-CALGARY","changes":["New"]}]}

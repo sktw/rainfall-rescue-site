@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"NETHY-BRIDGE-MIX","gauges":[{"name":"NETHY-BRIDGE-MIX","ranges":[["1912/09","1932/02"]]},{"name":"NETHY-BRIDGE-MIX-2","ranges":[["1934/05","1944/11"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/NETHY-BRIDGE-MIX"},"history":[{"version":"v2.0.0","location":"NETHY-BRIDGE-MIX","changes":["New"]}]}

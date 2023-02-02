@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"EAST-HECKINGTON","gauges":[{"name":"EAST-HECKINGTON","ranges":[["1932/01","1935/12"],["1941/01","1946/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/EAST-HECKINGTON"},"history":[{"version":"v2.0.0","location":"EAST-HECKINGTON","changes":["New"]}]}

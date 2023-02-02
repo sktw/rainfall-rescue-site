@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ARNCROACH-BELLISTON","gauges":[{"name":"ARNCROACH-BELLISTON","ranges":[["1943/03","1949/08"]]},{"name":"ARNCROACH-BELLISTON-2","ranges":[["1949/10","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ARNCROACH-BELLISTON"},"history":[{"version":"v2.0.0","location":"ARNCROACH-BELLISTON","changes":["New"]}]}

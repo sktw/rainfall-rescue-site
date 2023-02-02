@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CHESTER-ABBOTS-PARK","gauges":[{"name":"CHESTER-ABBOTS-PARK","ranges":[["1916/05","1927/10"]]},{"name":"CHESTER-ABBOTS-PARK-2","ranges":[["1913/02","1916/04"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CHESTER-ABBOTS-PARK"},"history":[{"version":"v2.0.0","location":"CHESTER-ABBOTS-PARK","changes":["New"]}]}

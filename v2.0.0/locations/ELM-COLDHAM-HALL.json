@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ELM-COLDHAM-HALL","gauges":[{"name":"ELM-COLDHAM-HALL","ranges":[["1872/01","1876/12"],["1878/01","1878/01"],["1878/05","1889/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ELM-COLDHAM-HALL"},"history":[{"version":"v2.0.0","location":"ELM-COLDHAM-HALL","changes":["New"]}]}

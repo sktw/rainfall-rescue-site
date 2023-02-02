@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BUILTH-VICARAGE","gauges":[{"name":"BUILTH-VICARAGE","ranges":[["1883/02","1884/05"],["1884/08","1885/05"],["1885/08","1887/07"],["1887/11","1890/05"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BUILTH-VICARAGE"},"history":[{"version":"v2.0.0","location":"BUILTH-VICARAGE","changes":["New"]}]}

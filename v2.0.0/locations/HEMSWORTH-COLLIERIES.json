@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HEMSWORTH-COLLIERIES","gauges":[{"name":"HEMSWORTH-COLLIERIES","ranges":[["1912/01","1919/07"],["1919/09","1920/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HEMSWORTH-COLLIERIES"},"history":[{"version":"v2.0.0","location":"HEMSWORTH-COLLIERIES","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"STOCKPORT-ISOLATION-HOSPITAL","gauges":[{"name":"STOCKPORT-ISOLATION-HOSPITAL","ranges":[["1928/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/STOCKPORT-ISOLATION-HOSPITAL"},"history":[{"version":"v2.0.0","location":"STOCKPORT-ISOLATION-HOSPITAL","changes":["New"]}]}

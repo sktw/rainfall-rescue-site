@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"EALING-ST-PAULS-VICARAGE","gauges":[{"name":"EALING-ST-PAULS-VICARAGE","ranges":[["1926/01","1927/02"],["1927/04","1927/08"],["1927/11","1950/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/EALING-ST-PAULS-VICARAGE"},"history":[{"version":"v2.0.0","location":"EALING-ST-PAULS-VICARAGE","changes":["New"]}]}

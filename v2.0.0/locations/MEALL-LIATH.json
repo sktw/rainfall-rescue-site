@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"MEALL-LIATH","gauges":[{"name":"MEALL-LIATH","ranges":[["1958/01","1960/12"]]},{"name":"MEALL-LIATH-2","ranges":[["1959/04","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/MEALL-LIATH"},"history":[{"version":"v2.0.0","location":"MEALL-LIATH","changes":["New"]}]}

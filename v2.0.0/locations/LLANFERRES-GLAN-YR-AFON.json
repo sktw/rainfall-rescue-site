@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LLANFERRES-GLAN-YR-AFON","gauges":[{"name":"LLANFERRES-GLAN-YR-AFON","ranges":[["1932/01","1933/09"],["1933/12","1942/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LLANFERRES-GLAN-YR-AFON"},"history":[{"version":"v2.0.0","location":"LLANFERRES-GLAN-YR-AFON","changes":["New"]}]}

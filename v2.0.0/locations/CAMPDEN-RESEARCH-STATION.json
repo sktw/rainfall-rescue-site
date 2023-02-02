@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CAMPDEN-RESEARCH-STATION","gauges":[{"name":"CAMPDEN-RESEARCH-STATION","ranges":[["1934/08","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CAMPDEN-RESEARCH-STATION"},"history":[{"version":"v2.0.0","location":"CAMPDEN-RESEARCH-STATION","changes":["New"]}]}

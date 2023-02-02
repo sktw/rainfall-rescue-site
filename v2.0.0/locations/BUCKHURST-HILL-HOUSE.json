@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BUCKHURST-HILL-HOUSE","gauges":[{"name":"BUCKHURST-HILL-HOUSE","ranges":[["1894/01","1906/01"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BUCKHURST-HILL-HOUSE"},"history":[{"version":"v2.0.0","location":"BUCKHURST-HILL-HOUSE","changes":["New"]}]}

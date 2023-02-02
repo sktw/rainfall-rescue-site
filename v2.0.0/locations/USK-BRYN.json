@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"USK-BRYN","gauges":[{"name":"USK-BRYN","ranges":[["1894/09","1899/01"],["1899/03","1904/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/USK-BRYN"},"history":[{"version":"v2.0.0","location":"USK-BRYN","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WIMBLEDON-WORPLE-ROAD","gauges":[{"name":"WIMBLEDON-WORPLE-ROAD","ranges":[["1910/02","1915/12"],["1931/01","1932/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WIMBLEDON-WORPLE-ROAD"},"history":[{"version":"v2.0.0","location":"WIMBLEDON-WORPLE-ROAD","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ENFIELD-CARISBROOKE","gauges":[{"name":"ENFIELD-CARISBROOKE","ranges":[["1897/01","1900/12"]]},{"name":"ENFIELD-CARISBROOKE-2","ranges":[["1900/01","1923/07"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ENFIELD-CARISBROOKE"},"history":[{"version":"v2.0.0","location":"ENFIELD-CARISBROOKE","changes":["New"]}]}

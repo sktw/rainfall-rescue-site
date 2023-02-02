@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CARBURTON-PUMPING-STATION","gauges":[{"name":"CARBURTON-PUMPING-STATION","ranges":[["1957/06","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CARBURTON-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"CARBURTON-PUMPING-STATION","changes":["New"]}]}

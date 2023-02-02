@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"NUTWELL-PUMPING-STATION","gauges":[{"name":"NUTWELL-PUMPING-STATION","ranges":[["1957/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/NUTWELL-PUMPING-STATION"},"history":[{"version":"v2.0.0","location":"NUTWELL-PUMPING-STATION","changes":["New"]}]}

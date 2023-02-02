@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"SOUTHERY","gauges":[{"name":"SOUTHERY","ranges":[["1907/02","1907/07"],["1907/09","1912/07"],["1912/09","1915/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/SOUTHERY"},"history":[{"version":"v2.0.0","location":"SOUTHERY","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WELWYN-SEWAGE-WORKS","gauges":[{"name":"WELWYN-SEWAGE-WORKS","ranges":[["1931/01","1940/10"],["1941/01","1957/12"],["1959/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WELWYN-SEWAGE-WORKS"},"history":[{"version":"v2.0.0","location":"WELWYN-SEWAGE-WORKS","changes":["New"]}]}

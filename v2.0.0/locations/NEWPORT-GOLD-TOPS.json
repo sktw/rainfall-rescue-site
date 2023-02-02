@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"NEWPORT-GOLD-TOPS","gauges":[{"name":"NEWPORT-GOLD-TOPS","ranges":[["1878/01","1888/02"]]},{"name":"NEWPORT-GOLD-TOPS-2","ranges":[["1888/04","1888/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/NEWPORT-GOLD-TOPS"},"history":[{"version":"v2.0.0","location":"NEWPORT-GOLD-TOPS","changes":["New"]}]}

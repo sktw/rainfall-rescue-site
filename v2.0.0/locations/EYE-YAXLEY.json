@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"EYE-YAXLEY","gauges":[{"name":"EYE-YAXLEY","ranges":[["1865/06","1873/12"]]},{"name":"EYE-YAXLEY-2","ranges":[["1930/11","1935/06"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/EYE-YAXLEY"},"history":[{"version":"v2.0.0","location":"EYE-YAXLEY","changes":["New"]}]}

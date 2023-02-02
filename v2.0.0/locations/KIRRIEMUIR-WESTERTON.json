@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"KIRRIEMUIR-WESTERTON","gauges":[{"name":"KIRRIEMUIR-WESTERTON","ranges":[["1928/09","1930/08"],["1930/12","1950/08"],["1950/11","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/KIRRIEMUIR-WESTERTON"},"history":[{"version":"v2.0.0","location":"KIRRIEMUIR-WESTERTON","changes":["New"]}]}

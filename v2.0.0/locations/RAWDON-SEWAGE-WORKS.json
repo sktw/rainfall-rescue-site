@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"RAWDON-SEWAGE-WORKS","gauges":[{"name":"RAWDON-SEWAGE-WORKS","ranges":[["1944/05","1945/12"],["1947/01","1950/12"],["1952/02","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/RAWDON-SEWAGE-WORKS"},"history":[{"version":"v2.0.0","location":"RAWDON-SEWAGE-WORKS","changes":["New"]}]}

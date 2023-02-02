@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CREWE-ISOLATION-HOSPITAL","gauges":[{"name":"CREWE-ISOLATION-HOSPITAL","ranges":[["1921/01","1959/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CREWE-ISOLATION-HOSPITAL"},"history":[{"version":"v2.0.0","location":"CREWE-ISOLATION-HOSPITAL","changes":["New"]}]}

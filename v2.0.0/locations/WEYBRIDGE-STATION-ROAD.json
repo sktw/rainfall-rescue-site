@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WEYBRIDGE-STATION-ROAD","gauges":[{"name":"WEYBRIDGE-STATION-ROAD","ranges":[["1906/01","1915/05"],["1915/08","1915/08"],["1917/06","1923/03"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WEYBRIDGE-STATION-ROAD"},"history":[{"version":"v2.0.0","location":"WEYBRIDGE-STATION-ROAD","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"ECCLEFECHAN-BURNFOOT","gauges":[{"name":"ECCLEFECHAN-BURNFOOT","ranges":[["1898/01","1904/12"],["1906/01","1919/12"],["1921/01","1924/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/ECCLEFECHAN-BURNFOOT"},"history":[{"version":"v2.0.0","location":"ECCLEFECHAN-BURNFOOT","changes":["New"]}]}

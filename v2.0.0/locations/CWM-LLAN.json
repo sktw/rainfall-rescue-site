@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CWM-LLAN","gauges":[{"name":"CWM-LLAN","ranges":[["1951/01","1954/04"],["1954/06","1960/08"],["1960/10","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CWM-LLAN"},"history":[{"version":"v2.0.0","location":"CWM-LLAN","changes":["New"]}]}

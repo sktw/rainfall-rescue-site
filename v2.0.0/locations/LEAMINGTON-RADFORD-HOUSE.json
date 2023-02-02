@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LEAMINGTON-RADFORD-HOUSE","gauges":[{"name":"LEAMINGTON-RADFORD-HOUSE","ranges":[["1902/01","1915/07"],["1923/08","1932/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LEAMINGTON-RADFORD-HOUSE"},"history":[{"version":"v2.0.0","location":"LEAMINGTON-RADFORD-HOUSE","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"BICESTER-ST-JOHNS","gauges":[{"name":"BICESTER-ST-JOHNS","ranges":[["1934/02","1937/11"],["1938/01","1946/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/BICESTER-ST-JOHNS"},"history":[{"version":"v2.0.0","location":"BICESTER-ST-JOHNS","changes":["New"]}]}

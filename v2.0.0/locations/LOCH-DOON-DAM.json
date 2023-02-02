@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"LOCH-DOON-DAM","gauges":[{"name":"LOCH-DOON-DAM","ranges":[["1952/11","1953/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/LOCH-DOON-DAM"},"history":[{"version":"v2.0.0","location":"LOCH-DOON-DAM","changes":["New"]}]}

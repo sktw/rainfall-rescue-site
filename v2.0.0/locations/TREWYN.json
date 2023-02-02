@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"TREWYN","gauges":[{"name":"TREWYN","ranges":[["1900/01","1900/12"],["1901/02","1904/12"],["1907/01","1912/12"]]},{"name":"TREWYN-2","ranges":[["1931/01","1957/12"],["1959/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/TREWYN"},"history":[{"version":"v2.0.0","location":"TREWYN","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"HURSLEY-PARK","gauges":[{"name":"HURSLEY-PARK","ranges":[["1916/01","1929/12"]]},{"name":"HURSLEY-PARK-2","ranges":[["1930/03","1944/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/HURSLEY-PARK"},"history":[{"version":"v2.0.0","location":"HURSLEY-PARK","changes":["New"]}]}

@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"WELLS-HIGH-STREET","gauges":[{"name":"WELLS-HIGH-STREET","ranges":[["1886/07","1894/12"]]},{"name":"WELLS-HIGH-STREET-2","ranges":[["1880/01","1894/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/WELLS-HIGH-STREET"},"history":[{"version":"v2.0.0","location":"WELLS-HIGH-STREET","changes":["New"]}]}

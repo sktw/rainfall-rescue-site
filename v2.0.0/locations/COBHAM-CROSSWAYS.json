@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"COBHAM-CROSSWAYS","gauges":[{"name":"COBHAM-CROSSWAYS","ranges":[["1931/11","1951/12"]]},{"name":"COBHAM-CROSSWAYS-2","ranges":[["1952/01","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/COBHAM-CROSSWAYS"},"history":[{"version":"v2.0.0","location":"COBHAM-CROSSWAYS","changes":["New"]}]}

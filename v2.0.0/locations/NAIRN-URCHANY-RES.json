@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"NAIRN-URCHANY-RES","gauges":[{"name":"NAIRN-URCHANY-RES","ranges":[["1932/01","1943/12"],["1945/01","1948/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/NAIRN-URCHANY-RES"},"history":[{"version":"v2.0.0","location":"NAIRN-URCHANY-RES","changes":["New"]}]}

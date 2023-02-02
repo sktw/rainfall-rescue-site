@@ -1,0 +1,1 @@
+{"version":"v2.0.0","name":"CLUANIE-DAM","gauges":[{"name":"CLUANIE-DAM","ranges":[["1953/01","1956/12"]]},{"name":"CLUANIE-DAM-2","ranges":[["1956/12","1960/12"]]}],"links":{"folder":"https://github.com/ed-hawkins/rainfall-rescue/tree/v2.0.0/DATA/CLUANIE-DAM"},"history":[{"version":"v2.0.0","location":"CLUANIE-DAM","changes":["New"]}]}
